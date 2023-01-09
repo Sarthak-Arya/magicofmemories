@@ -768,7 +768,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <div class="post_item post_layout_thumbs">
         <div class="post_featured hover_shop">
             <a href="{{route('product', ['id'=>$product['id']])}}">
-            <span class="onsale">-10%</span>
+            {{-- <span class="onsale">-10%</span> --}}
             <img width="480" height="480" src="{{asset($product['imageUrl'])}}" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="{{asset($product['imageUrl'])}} 480w, {{asset($product['imageUrl'])}} 300w, {{asset($product['imageUrl'])}} 1024w, {{asset($product['imageUrl'])}} 150w, {{asset($product['imageUrl'])}} 768w, {{asset($product['imageUrl'])}} 1536w, {{asset($product['imageUrl'])}} 370w, {{asset($product['imageUrl'])}} 120w, {{asset($product['imageUrl'])}} 840w, {{asset($product['imageUrl'])}} 410w, {{asset($product['imageUrl'])}} 600w, {{asset($product['imageUrl'])}} 2000w" sizes="(max-width: 600px) 100vw, 480px" />
             </a>
             <div class="mask"></div>
@@ -810,12 +810,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                     </span> --}}
                 </del>
                 <ins>
-                    <span class="woocommerce-Price-amount amount">
+                    {{-- <span class="woocommerce-Price-amount amount">
                         <bdi>
                             <span class="woocommerce-Price-currencySymbol">&#36;</span>
                             {{$product['price']}} 
                         </bdi>
-                    </span>
+                    </span> --}}
                 </ins>
                 </span>
             </div>

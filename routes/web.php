@@ -1,5 +1,6 @@
 <?php
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\OrderPlacementController;
 use App\Http\Controllers\ChangePasswordController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\InfoUserController;
@@ -25,27 +26,40 @@ View::addExtension('html', 'php');
 
 
 Route::get('/', function () {
-    $products = [1=>[
-        'id'=> 1,
-        'name'=> 'Breast Milk Ring',
-        'type'=> 'Ring',
-        'imageUrl'=> 'images/home-product-1.jpg',
-        'price' => 29.00
-    ],
-    2=>[
-        'id'=> 2,
-        'name'=> 'Breast Milk Pendant',
-        'type'=> 'Pendant',
-        'imageUrl'=> 'images/home-product-2.jpg',
-        'price' => 79.00
-    ],
-    3=>[
-        'id'=> 3,
-        'name'=> 'Breast Milk and Hair Pendant',
-        'type'=> 'Pendant',
-        'imageUrl'=> 'images/home-product-2.jpg',
-        'price' => 79.00
-    ],
+    $products = [
+        1=>[
+            'id'=> 1,
+            'name'=> 'Ring',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-4.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-1.jpg', 'images/products/product-2.jpg', 'images/products/product-3.jpg', 'images/products/product-5.jpg'],
+            'tags' => ['ring', 'breast milk ring', 'cord ring', 'hair and breast milk ring'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ], 
+2=>[
+            'id'=> 2,
+            'name'=> 'Pendants',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-pendant-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+3=>[
+            'id'=> 3,
+            'name'=> 'Bracelets',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-bracelet-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-bracelet-1.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
 ];
     return view('index', ['products'=> $products]);
 })->name('index');;
@@ -54,16 +68,95 @@ Route::get('/about', function () {
     return ('About');
 })->name('about');
 
-// Route::get('/shop', function () {
-    
-//     return view('shop');
-// })->name('shop');
+Route::get('/checkout', function () {
+    return view('checkout');
+})->name('checkout');
+
+Route::post('checkout', [OrderPlacementController::class, 'storeCustomerSessionData'])->name('checkout');
+
+
+Route::get('/shop', function () {
+    $products = [
+        1=>[
+            'id'=> 1,
+            'name'=> 'Ring',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-4.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-1.jpg', 'images/products/product-2.jpg', 'images/products/product-3.jpg', 'images/products/product-5.jpg'],
+            'tags' => ['ring', 'breast milk ring', 'cord ring', 'hair and breast milk ring'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ], 
+2=>[
+            'id'=> 2,
+            'name'=> 'Pendants',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-pendant-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+3=>[
+            'id'=> 3,
+            'name'=> 'Bracelets',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-bracelet-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-bracelet-1.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+]; 
+    return view('shop', ['products'=>$products]);
+})->name('shop');
 
 Route::get('/shop-product-id/{id}', function ($id) {
-    return view('product');
+    $products = [
+        1=>[
+            'id'=> 1,
+            'name'=> 'Ring',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-4.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-1.jpg', 'images/products/product-2.jpg', 'images/products/product-3.jpg', 'images/products/product-5.jpg'],
+            'tags' => ['ring', 'breast milk ring', 'cord ring', 'hair and breast milk ring'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ], 
+2=>[
+            'id'=> 2,
+            'name'=> 'Pendants',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-pendant-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+3=>[
+            'id'=> 3,
+            'name'=> 'Bracelets',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-bracelet-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-bracelet-1.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+    ]; 
+    
+    return view('product', ['currentProduct'=>$products[$id]]);
 })->whereNumber('id') ->name('product');
 
-Route::get('shop', [ProductController::class, 'shop'])->name('shop');
+
+
+// Route::get('shop', [ProductController::class, 'shop'])->name('shop');
 Route::get('/faq', function () {
     return view('faq');
 })->name('faq');
@@ -72,6 +165,7 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
+Route::post('/shop-product-id/{id}', [OrderPlacementController::class, 'getData'])->name('product');
 
 
 Route::group(['middleware' => 'auth'], function () {

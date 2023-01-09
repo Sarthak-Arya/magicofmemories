@@ -7,7 +7,7 @@
 					<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="format-detection" content="telephone=no">
 		<link rel="profile" href="//gmpg.org/xfn/11">
-		<title>Wine House &#8211; Wine House</title>
+		<title>Magic of Memories &#8211; Product</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="Wine House &raquo; Feed" href="https://wine.themerex.net/feed/" />
@@ -15,8 +15,8 @@
 <link rel="alternate" type="text/calendar" title="Wine House &raquo; iCal Feed" href="https://wine.themerex.net/events/?ical=1" />
 <link rel="alternate" type="application/rss+xml" title="Wine House &raquo; Wine House Comments Feed" href="https://wine.themerex.net/product/wine-house/feed/" />
 			<meta property="og:type" content="article" />
-			<meta property="og:url" content="https://wine.themerex.net/product/wine-house/" />
-			<meta property="og:title" content="Wine House" />
+			<meta property="og:url" content="" />
+			<meta property="og:title" content="Magic of Memories" />
 			<meta property="og:description" content="Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.
 
 Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea" />  
@@ -103,7 +103,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         
 </style>
 
-<style id="elementor-post-17092">.elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-4e22a05:not(.elementor-motion-effects-element-type-background), .elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://wine.themerex.net/wp-content/uploads/2020/06/background-header.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-background-overlay{background-color:#1A1A1A;opacity:0.55;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17092 .elementor-element.elementor-element-4e22a05{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17092 .elementor-element.elementor-element-17fde7f > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-17fde7f{padding:21px 30px 11px 30px;}.elementor-17092 .elementor-element.elementor-element-3cfe31a > .elementor-widget-container{margin:0px 0px 0px -10px;}.elementor-17092 .elementor-element.elementor-element-888d625 .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-888d625 > .elementor-widget-container{margin:4px 0px 0px 0px;}.elementor-17092 .elementor-element.elementor-element-e4d8e5b > .elementor-widget-container{margin:0px 0px 0px 8px;}.elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-92f4a47 > .elementor-widget-container{margin:0px 0px -6px 8px;}.elementor-17092 .elementor-element.elementor-element-1c3d086 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-1c3d086{padding:20px 0px 12px 0px;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-a903dd9 .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-a903dd9 > .elementor-widget-container{margin:0px 0px -1px 0px;}.elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-99eb727 > .elementor-widget-container{margin:0px 0px -6px 5px;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:20px 0px 20px 0px;}.elementor-17092 .elementor-element.elementor-element-2310aaf .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-2310aaf > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:65px;}.elementor-17092 .elementor-element.elementor-element-a81ba50 .elementor-spacer-inner{height:24px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:34px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-stacked .elementor-icon{background-color:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-framed .elementor-icon, .elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-default .elementor-icon{color:#FFFFFF;border-color:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-framed .elementor-icon, .elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-default .elementor-icon svg{fill:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:15px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-08f40b3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:100px;}.elementor-17092 .elementor-element.elementor-element-1b31f81 .elementor-spacer-inner{height:20px;}.elementor-17092 .elementor-element.elementor-element-9fa7171 .elementor-spacer-inner{height:20px;}@media(min-width:768px){.elementor-17092 .elementor-element.elementor-element-1e00f2a{width:40%;}.elementor-17092 .elementor-element.elementor-element-74fed04{width:20%;}.elementor-17092 .elementor-element.elementor-element-0049cba{width:39.664%;}}@media(max-width:1024px){.elementor-17092 .elementor-element.elementor-element-1c3d086{padding:15px 0px 10px 0px;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:20px 0px 20px 0px;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:28px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:18px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:14px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:72px;}}@media(max-width:767px){.elementor-17092 .elementor-element.elementor-element-4aad788{width:50%;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-76cd075{width:50%;}.elementor-17092 .elementor-element.elementor-element-d92c63e{width:50%;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:9px 0px 12px 0px;}.elementor-17092 .elementor-element.elementor-element-8df79c5{width:50%;}.elementor-17092 .elementor-element.elementor-element-ea5f973{width:50%;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:15px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:10px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:12px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:48px;}}</style>
+<style id="elementor-post-17092">.elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-4e22a05:not(.elementor-motion-effects-element-type-background), .elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("{{asset('images/page-bg-1.jpg')}}");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-17092 .elementor-element.elementor-element-4e22a05 > .elementor-background-overlay{background-color:#1A1A1A;opacity:0.55;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17092 .elementor-element.elementor-element-4e22a05{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17092 .elementor-element.elementor-element-17fde7f > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-17fde7f{padding:21px 30px 11px 30px;}.elementor-17092 .elementor-element.elementor-element-3cfe31a > .elementor-widget-container{margin:0px 0px 0px -10px;}.elementor-17092 .elementor-element.elementor-element-888d625 .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-888d625 > .elementor-widget-container{margin:4px 0px 0px 0px;}.elementor-17092 .elementor-element.elementor-element-e4d8e5b > .elementor-widget-container{margin:0px 0px 0px 8px;}.elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-92f4a47 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-92f4a47 > .elementor-widget-container{margin:0px 0px -6px 8px;}.elementor-17092 .elementor-element.elementor-element-1c3d086 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-1c3d086{padding:20px 0px 12px 0px;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-a903dd9 .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-a903dd9 > .elementor-widget-container{margin:0px 0px -1px 0px;}.elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-99eb727 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-99eb727 > .elementor-widget-container{margin:0px 0px -6px 5px;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:20px 0px 20px 0px;}.elementor-17092 .elementor-element.elementor-element-2310aaf .logo_image{max-height:70px;}.elementor-17092 .elementor-element.elementor-element-2310aaf > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:65px;}.elementor-17092 .elementor-element.elementor-element-a81ba50 .elementor-spacer-inner{height:24px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:34px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon-wrapper{text-align:center;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-stacked .elementor-icon{background-color:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-framed .elementor-icon, .elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-default .elementor-icon{color:#FFFFFF;border-color:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-framed .elementor-icon, .elementor-17092 .elementor-element.elementor-element-08f40b3.elementor-view-default .elementor-icon svg{fill:#FFFFFF;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:15px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon i, .elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon svg{transform:rotate(0deg);}.elementor-17092 .elementor-element.elementor-element-08f40b3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:100px;}.elementor-17092 .elementor-element.elementor-element-1b31f81 .elementor-spacer-inner{height:20px;}.elementor-17092 .elementor-element.elementor-element-9fa7171 .elementor-spacer-inner{height:20px;}@media(min-width:768px){.elementor-17092 .elementor-element.elementor-element-1e00f2a{width:40%;}.elementor-17092 .elementor-element.elementor-element-74fed04{width:20%;}.elementor-17092 .elementor-element.elementor-element-0049cba{width:39.664%;}}@media(max-width:1024px){.elementor-17092 .elementor-element.elementor-element-1c3d086{padding:15px 0px 10px 0px;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:20px 0px 20px 0px;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:28px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:18px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:14px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:72px;}}@media(max-width:767px){.elementor-17092 .elementor-element.elementor-element-4aad788{width:50%;}.elementor-17092 .elementor-element.elementor-element-884e342 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-76cd075{width:50%;}.elementor-17092 .elementor-element.elementor-element-d92c63e{width:50%;}.elementor-17092 .elementor-element.elementor-element-e6fd1ec{padding:9px 0px 12px 0px;}.elementor-17092 .elementor-element.elementor-element-8df79c5{width:50%;}.elementor-17092 .elementor-element.elementor-element-ea5f973{width:50%;}.elementor-17092 .elementor-element.elementor-element-5e04373 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-17092 .elementor-element.elementor-element-16c5e96 .elementor-spacer-inner{height:15px;}.elementor-17092 .elementor-element.elementor-element-53ca8ab .elementor-spacer-inner{height:10px;}.elementor-17092 .elementor-element.elementor-element-08f40b3 .elementor-icon{font-size:12px;}.elementor-17092 .elementor-element.elementor-element-6b0f91e .elementor-spacer-inner{height:48px;}}</style>
 <style id="elementor-post-4105">.elementor-4105 .elementor-element.elementor-element-abb689a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-abb689a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-d0276bd .elementor-spacer-inner{height:70px;}.elementor-4105 .elementor-element.elementor-element-62e21dc .logo_image{max-height:70px;}.elementor-4105 .elementor-element.elementor-element-b6e22fd{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-b6e22fd > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-2537961 .elementor-spacer-inner{height:30px;}.elementor-4105 .elementor-element.elementor-element-c8bd3f7 .elementor-spacer-inner{height:22px;}.elementor-4105 .elementor-element.elementor-element-2a929eb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-2a929eb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:70px;}.elementor-4105 .elementor-element.elementor-element-a0abb67{--divider-border-style:solid;--divider-border-width:1px;}.elementor-4105 .elementor-element.elementor-element-a0abb67 .elementor-divider-separator{width:100%;}.elementor-4105 .elementor-element.elementor-element-a0abb67 .elementor-divider{padding-top:2px;padding-bottom:2px;}.elementor-4105 .elementor-element.elementor-element-ca971ac .elementor-spacer-inner{height:16px;}.elementor-4105 .elementor-element.elementor-element-652571e{font-size:16px;font-weight:400;}.elementor-4105 .elementor-element.elementor-element-7b9eeca .elementor-spacer-inner{height:20px;}@media(max-width:1024px){.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:65px;}}@media(max-width:767px){.elementor-4105 .elementor-element.elementor-element-2537961 .elementor-spacer-inner{height:20px;}.elementor-4105 .elementor-element.elementor-element-c8bd3f7 .elementor-spacer-inner{height:4px;}.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:40px;}.elementor-4105 .elementor-element.elementor-element-ca971ac .elementor-spacer-inner{height:12px;}.elementor-4105 .elementor-element.elementor-element-652571e{font-size:15px;line-height:1.3em;}.elementor-4105 .elementor-element.elementor-element-7b9eeca .elementor-spacer-inner{height:14px;}}</style>
 <style id="elementor-post-4509">.elementor-4509 .elementor-element.elementor-element-67b4187 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-4509 .elementor-element.elementor-element-1c135e79 .logo_image{max-height:70px;}.elementor-4509 .elementor-element.elementor-element-1c135e79 > .elementor-widget-container{margin:-18px 0px 15px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99{border-style:solid;border-width:1px 0px 0px 0px;border-color:#DDDDDD;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:15px;margin-bottom:0px;padding:40px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4509 .elementor-element.elementor-element-4f42819 .elementor-heading-title{font-family:"Quattrocento Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.1em;letter-spacing:0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:7px;}.elementor-4509 .elementor-element.elementor-element-013bb75 .elementor-spacer-inner{height:5px;}@media(max-width:1024px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:25px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:4px;}}@media(max-width:767px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:0px 0px 0px 0px;}}</style>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
@@ -667,487 +667,676 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 {{-- Header Ends Here --}}
 <div class="menu_mobile_overlay scheme_dark"></div>
 <div class="menu_mobile menu_mobile_fullscreen scheme_dark">
-	<div class="menu_mobile_inner with_widgets">
+    <div class="menu_mobile_inner with_widgets">
         <div class="menu_mobile_header_wrap">
-            <a class="sc_layouts_logo" href="https://wine.themerex.net/">
-		<img src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x-300x127.png 2x" alt="Wine House" width="165" height="70">	</a>
-	
-            <a class="menu_mobile_close menu_button_close" tabindex="0"><span class="menu_button_close_text">Close</span><span class="menu_button_close_icon"></span></a>
+            <a class="sc_layouts_logo" href="{{route('index')}}">
+                <img src="{{asset('images/mom-text-logo-white.png')}}" srcset="{{asset('images/mom-text-logo-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
+            </a>
+            <a class="menu_mobile_close menu_button_close" tabindex="0">
+            
+                <span class="menu_button_close_icon">Close</span>
+            </a>
         </div>
         <div class="menu_mobile_content_wrap content_wrap">
-            <div class="menu_mobile_content_wrap_inner"><nav class="menu_mobile_nav_area" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu_mobile_596011303"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17780"><a href="#"><span>Home</span></a>
-<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-17782"><a href="https://wine.themerex.net/"><span>Wine Restaurant</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17779"><a href="https://wine.themerex.net/home-winery/"><span>Home Winery</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9173"><a href="https://wine.themerex.net/home-vineyard/"><span>Home Vineyard</span></a></li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162"><a href="#"><span>Pages</span></a>
-<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16460"><a href="https://wine.themerex.net/about-us/"><span>About Us</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17173"><a href="https://wine.themerex.net/faq/"><span>FAQ</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17252"><a href="https://wine.themerex.net/newsletter-popups/"><span>Newsletter Popups</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17163"><a href="https://wine.themerex.net/typography/"><span>Typography</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17326"><a href="https://wine.themerex.net/shortcodes/"><span>Shortcodes</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18171"><a href="http://wine.themerex.net/404"><span>404 Page</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18185"><a href="https://wine.themerex.net/service-plus/"><span>Service Plus</span></a></li></ul>
-</li><li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327"><a href="#"><span>Blog</span></a>
-<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17328"><a href="#"><span>Blog Styles 1</span></a>
-	<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17355"><a href="https://wine.themerex.net/blog-standard/"><span>Standard</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17358"><a href="https://wine.themerex.net/blog-list/"><span>List</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17546"><a href="https://wine.themerex.net/masonry-2-column/"><span>Masonry 2</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17341"><a href="https://wine.themerex.net/masonry-3-column/"><span>Masonry 3</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17344"><a href="https://wine.themerex.net/masonry-4-column/"><span>Masonry 4</span></a></li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17329"><a href="#"><span>Blog Styles 2</span></a>
-	<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17334"><a href="https://wine.themerex.net/portfolio-3-column/"><span>Portfolio 3</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17337"><a href="https://wine.themerex.net/portfolio-4-column/"><span>Portfolio 4</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17549"><a href="https://wine.themerex.net/grid-2-column/"><span>Grid 2</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17347"><a href="https://wine.themerex.net/grid-3-column/"><span>Grid 3</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17350"><a href="https://wine.themerex.net/grid-4-column/"><span>Grid 4</span></a></li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17330"><a href="#"><span>Single Post</span></a>
-	<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17562"><a href="https://wine.themerex.net/best-recipes-of-desserts-to-pair-white-wines/"><span>Style 1</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17563"><a href="https://wine.themerex.net/winemaking-art-science-magic-or-technology/"><span>Style 2</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17568"><a href="https://wine.themerex.net/the-ultimate-guide-to-port-wine-benefits-history-and-cellars/"><span>Style 3 (with Sidebar)</span></a></li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19498"><a href="#"><span>Post Types</span></a>
-	<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17558"><a href="https://wine.themerex.net/the-best-luxury-wine-hotels-in-portugal/"><span>Audio</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17559"><a href="https://wine.themerex.net/all-the-greatest-ideas-come-unexpectedly/"><span>Video</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17560"><a href="https://wine.themerex.net/how-to-pour-wine-without-dripping/"><span>Gallery</span></a></li></ul>
-</li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17806"><a href="#"><span>Events</span></a>
-<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17804"><a href="http://wine.themerex.net/events/month/"><span>Events Month</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17803"><a href="http://wine.themerex.net/events/"><span>Events List</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-tribe_events menu-item-17805"><a href="https://wine.themerex.net/event/wine-country-tour/"><span>Single Event</span></a></li></ul>
-</li><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17792"><a href="#"><span>Shop</span></a>
-<ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-16464"><a href="https://wine.themerex.net/shop/"><span>Product List</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-product current-menu-item menu-item-19497"><a href="https://wine.themerex.net/product/wine-house/" aria-current="page"><span>Product Single</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17793"><a href="https://wine.themerex.net/cart/"><span>Cart</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17794"><a href="https://wine.themerex.net/checkout/"><span>Checkout</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17795"><a href="https://wine.themerex.net/wishlist-page/"><span>Wishlist Page</span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465"><a href="https://wine.themerex.net/contact-us/"><span>Contact Us</span></a></li></ul></nav><div class="socials_mobile"><a target="_blank" href="https://business.facebook.com/ThemeRexStudio/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_facebook-1" style=""><span class="icon-facebook-1"></span></span></a><a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_twitter-new" style=""><span class="icon-twitter-new"></span></span></a><a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_dribble-new" style=""><span class="icon-dribble-new"></span></span></a><a target="_blank" href="https://www.instagram.com/themerex_net/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_instagram" style=""><span class="icon-instagram"></span></span></a></div>            </div>
-		</div><div class="menu_mobile_widgets_area">				<div class="widgets_additional_menu_mobile_fullscreen widgets_additional_menu_mobile_fullscreen_wrap widget_area">
-										<div class="widgets_additional_menu_mobile_fullscreen_inner widgets_additional_menu_mobile_fullscreen_inner widget_area_inner">
-						<aside class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="extra_item">
-<h6>Have Questions?</h6>
-<a href="mailto:info@website.com">info@website.com</a>
-</div>
-
-<div class="extra_item">
-<h6>Want to Book a Tour?</h6>
-<a href="http://wine.themerex.net/contact-us/">Contact Us</a>
-</div>
-
-<div class="extra_item">
-<h6>Want to Buy Wine?</h6>
-<a href="http://wine.themerex.net/shop/">Go to Shop</a>
-</div></div></aside>					</div>
-									</div>
-				</div>
+            <div class="menu_mobile_content_wrap_inner">
+            <nav class="menu_mobile_nav_area" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                <ul id="menu_mobile_596011303">
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17780">
+                        <a href="{{route('index')}}">
+                            <span>Home</span>
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162">
+                        <a href{{route('about')}}">
+                            <span>About Us</span>
+                        </a>
+                    </li>
+                    <li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327">
+                        <a href="{{route('shop')}}">
+                            <span>Shop</span>
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465">
+                        <a href="{{route('faq')}}">
+                            <span>FAQs</span>
+                        </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465">
+                        <a href="{{route('contact')}}">
+                            <span>Contact Us</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="socials_mobile">
+                <a target="_blank" href="https://www.facebook.com/Preetymago/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    <span class="social_icon social_icon_facebook-1" style="">
+                        <span class="icon-facebook"></span>
+                    </span>
+                </a>
+                {{-- <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    <span class="social_icon social_icon_twitter-new" style="">
+                        <span class="icon-twitter-new"></span>
+                    </span>
+                </a>
+                <a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    <span class="social_icon social_icon_dribble-new" style="">
+                        <span class="icon-dribble-new"></span>
+                    </span>
+                </a> --}}
+                <a target="_blank" href="https://www.instagram.com/the_magic_of_memories/?hl=en" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    <span class="social_icon social_icon_instagram" style="">
+                        <span class="icon-instagram"></span>
+                    </span>
+                </a>
+            </div>           
+        </div>
+	</div>
+    <div class="menu_mobile_widgets_area">				
+        <div class="widgets_additional_menu_mobile_fullscreen widgets_additional_menu_mobile_fullscreen_wrap widget_area">
+			<div class="widgets_additional_menu_mobile_fullscreen_inner widgets_additional_menu_mobile_fullscreen_inner widget_area_inner">
+                <aside class="widget_text widget widget_custom_html">
+                    <div class="textwidget custom-html-widget">
+                        <div class="extra_item">
+                                <h6>Have Questions?</h6>
+                                <a href="mailto:mgcofmemories@gmail.com">mgcofmemories@gmail.com</a>
+                        </div>
+                        <div class="extra_item">
+                            <h6>Want to know more?</h6>
+                            <a href="{{route('about')}}">About Us</a>
+                        </div>
+                        <div class="extra_item">
+                            <h6>Want to buy from us?</h6>
+                            <a href="{{route('shop')}}">Go to Shop</a>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
     </div>
 </div>
+</div>
 
 			
-			<div class="page_content_wrap">
-								<div class="content_wrap">
-
-					
-					<div class="content">
-												<a id="content_skip_link_anchor" class="wine_house_skip_link_anchor" href="#"></a>
-						
-				<article class="post_item_single post_type_product">
-			<nav class="woocommerce-breadcrumb"><span class="woocommerce-breadcrumb-item"><a href="https://wine.themerex.net">Home</a></span><span class="woocommerce-breadcrumb-delimiter"></span><span class="woocommerce-breadcrumb-item"><a href="https://wine.themerex.net/product-category/white/">White</a></span><span class="woocommerce-breadcrumb-delimiter"></span><span class="woocommerce-breadcrumb-item">Wine House</span></nav>
-					
-			<div class="woocommerce-notices-wrapper"></div><div id="product-2346" class="product type-product post-2346 status-publish first instock product_cat-white product_tag-dry product_tag-special product_tag-tasting has-post-thumbnail shipping-taxable purchasable product-type-variable">
-
-	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images woocommerce-product-gallery--with-thumbs" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
-	<figure class="woocommerce-product-gallery__wrapper">
-		<div data-thumb="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-150x150.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5.jpg"><img width="600" height="600" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-600x600.jpg" class="wp-post-image" alt="" decoding="async" loading="lazy" title="product-copyright (5)" data-caption="" data-src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5.jpg" data-large_image="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5.jpg" data-large_image_width="2000" data-large_image_height="2000" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-5.jpg 2000w" sizes="(max-width: 600px) 100vw, 600px" /></a></div><div data-thumb="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-150x150.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2.jpg"><img width="600" height="600" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-600x600.jpg" class="" alt="" decoding="async" loading="lazy" title="product-copyright (2)" data-caption="" data-src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2.jpg" data-large_image="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2.jpg" data-large_image_width="2000" data-large_image_height="2000" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-2.jpg 2000w" sizes="(max-width: 600px) 100vw, 600px" /></a></div><div data-thumb="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg"><img width="600" height="600" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg" class="" alt="" decoding="async" loading="lazy" title="product-copyright (6)" data-caption="" data-src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg" data-large_image="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg" data-large_image_width="2000" data-large_image_height="2000" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg 2000w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>	</figure>
+<div class="page_content_wrap">
+    <div class="content_wrap">
+        <div class="content">
+            <article class="post_item_single post_type_product">
+                <nav class="woocommerce-breadcrumb">
+                    <span class="woocommerce-breadcrumb-item">
+                        <a href="{{route('index')}}">Home</a>
+                    </span>
+                    <span class="woocommerce-breadcrumb-delimiter"></span>
+                    <span class="woocommerce-breadcrumb-item">
+                        {{-- <a href="https://wine.themerex.net/product-category/white/">White</a> --}}
+                    </span>
+                    <span class="woocommerce-breadcrumb-delimiter"></span>
+                    <span class="woocommerce-breadcrumb-item">{{$currentProduct['name']}}</span>
+                </nav>
+                <div class="woocommerce-notices-wrapper"></div>
+                <div id="{{$currentProduct['id']}}" class="product type-product post-{{$currentProduct['id']}} status-publish first instock product_cat-white product_tag-dry product_tag-special product_tag-tasting has-post-thumbnail shipping-taxable purchasable product-type-variable">
+                    <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images woocommerce-product-gallery--with-thumbs" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+                        <figure class="woocommerce-product-gallery__wrapper">
+                            <div data-thumb="{{asset($currentProduct['imageUrl'])}}" data-thumb-alt="" class="woocommerce-product-gallery__image">
+                                <a href="{{asset($currentProduct['imageUrl'])}}">
+                                    <img width="600" height="600" src="{{asset($currentProduct['imageUrl'])}}" class="wp-post-image" alt="" decoding="async" loading="lazy" title="product-copyright (5)" data-caption="" data-src="{{asset($currentProduct['imageUrl'])}}" data-large_image="{{asset($currentProduct['imageUrl'])}}" data-large_image_width="2000" data-large_image_height="2000" srcset="{{asset($currentProduct['imageUrl'])}} 600w, {{asset($currentProduct['imageUrl'])}} 300w, {{asset($currentProduct['imageUrl'])}} 1024w, {{asset($currentProduct['imageUrl'])}} 150w, {{asset($currentProduct['imageUrl'])}} 768w, {{asset($currentProduct['imageUrl'])}} 1536w, {{asset($currentProduct['imageUrl'])}} 370w, {{asset($currentProduct['imageUrl'])}} 120w, {{asset($currentProduct['imageUrl'])}} 840w,{{asset($currentProduct['imageUrl'])}} 410w, {{asset($currentProduct['imageUrl'])}} 480w, {{asset($currentProduct['imageUrl'])}} 2000w" sizes="(max-width: 600px) 100vw, 600px" />
+                                </a>
+                            </div>
+                            @if($currentProduct['secondaryImages']!=null)
+                            @foreach($currentProduct['secondaryImages'] as $image)
+                            <div data-thumb="{{asset($image)}}" data-thumb-alt="" class="woocommerce-product-gallery__image">
+                                <a href="{{asset($image)}}">
+                                    <img width="600" height="600" src="{{asset($image)}}" class="" alt="pro" decoding="async" loading="lazy" title="product-copyright (2)" data-caption="" data-src="{{asset($image)}}" data-large_image="{{asset($image)}}" data-large_image_width="2000" data-large_image_height="2000" srcset="{{asset($image)}} 600w, {{asset($image)}} 300w, {{asset($image)}} 1024w, {{asset($image)}} 150w, {{asset($image)}} 768w, {{asset($image)}} 1536w, {{asset($image)}} 370w, {{asset($image)}} 120w, {{asset($image)}} 840w, {{asset($image)}} 410w, {{asset($image)}} 480w, {{asset($image)}} 2000w" sizes="(max-width: 600px) 100vw, 600px" />
+                                </a>
+                            </div>
+                            @endforeach
+                            @endif
+                            {{-- <div data-thumb="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image">
+                                <a href="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg">
+                                    <img width="600" height="600" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg" class="" alt="" decoding="async" loading="lazy" title="product-copyright (6)" data-caption="" data-src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg" data-large_image="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg" data-large_image_width="2000" data-large_image_height="2000" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg 2000w" sizes="(max-width: 600px) 100vw, 600px" />
+                                </a>
+                            </div> --}}
+                        </figure>
+                    </div>
+                    <div class="summary entry-summary">
+                        <h1 class="product_title entry-title">{{$currentProduct['name']}}</h1>
+                        {{-- <div class="woocommerce-product-rating">
+                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
+                                <span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5 based on <span class="rating">1</span> customer rating </span>
+                            </div>
+                            <a href="#reviews" class="woocommerce-review-link" rel="nofollow">( <span class="count">1</span> customer review) </a>
+                        </div> --}}
+                        {{-- <p class="price">
+                            <span class="woocommerce-Price-amount amount">
+                                <bdi>
+                                    <span class="woocommerce-Price-currencySymbol">&#36;</span>125.00 </bdi>
+                            </span> &ndash; <span class="woocommerce-Price-amount amount">
+                                <bdi>
+                                    <span class="woocommerce-Price-currencySymbol">&#36;</span>165.00 </bdi>
+                            </span>
+                        </p> --}}
+                        <div class="woocommerce-product-details__short-description">
+                            <p>{{$currentProduct['description']}}</p>
+                            
+                        </div>
+                        <form class="variations_form cart product-details" action="{{route('checkout')}}" method="get" enctype='multipart/form-data'>
+                            <table class="variations" cellspacing="0" role="presentation">
+                                <tbody>
+                                    <tr>
+                                        <th class="label">
+                                            <label for="pa_inclusions">Inclusions</label>
+                                        </th>
+                                        <td class="value">
+                                            <select id="pa_inclusions" class="" name="attribute_pa_inclusions" data-attribute_name="attribute_pa_inclusions" data-show_option_none="yes">
+                                                <option value="">Choose an option</option>
+                                                <option value="hair">Hair</option>
+                                                <option value="cord">Cord</option>
+                                                <option value="tooth">Tooth</option>
+                                                <option value="nail">Nail</option>
+                                                <option value="flower">Flower</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th class="label">
+                                            <label for="pa_milk">Do you want breastmilk?</label>
+                                        </th>
+                                        <td class="value">
+                                            <select id="pa_milk" class="" name="attribute_pa_milk" data-attribute_name="attribute_pa_milk" data-show_option_none="yes">
+                                                <option value="">Choose an option</option>
+                                                <option value="yes">Yes</option>
+                                                <option value="no">No</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th class="label">
+                                            <label for="pa_metal">Metal</label>
+                                        </th>
+                                        <td class="value">
+                                            <select id="pa_metal" class="" name="attribute_pa_metal" data-attribute_name="attribute_pa_metal" data-show_option_none="yes">
+                                                <option value="">Choose an option</option>
+                                                <option value="gold 14K">Gold 14 Karate</option>
+                                                <option value="gold 18K">Gold 18 Karate</option>
+                                                <option value="gold 22K">Gold 22 Karate</option>
+                                                <option value="silver">sliver</option>
+                                            </select>
+                                            <a class="reset_variations" href="#">Clear</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="single_variation_wrap">
+                                <div class="woocommerce-variation single_variation"></div>
+                                <div class="woocommerce-variation-add-to-cart variations_button">
+                                    <div class="quantity">
+                                        <label class="screen-reader-text" for="quantity_63bb12d55981d">Wine House quantity</label>
+                                        <input type="number" id="quantity_63bb12d55981d" class="input-text qty text" name="quantity" value="1" title="Qty" size="4" min="1" max="" step="1" placeholder="" inputmode="numeric" autocomplete="off" />
+                                    </div>
+                                    <a type="submit" class=" enabled button alt " onclick="submitFormProduct()">Place Order</a>
+                                    {{-- <div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart" data-product_id="2346">
+                                        <div class="tinv-wishlist-clear"></div>
+                                        <a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode" data-tinv-wl-list="[]" data-tinv-wl-product="2346" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">
+                                            <span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span>
+                                            <span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span>
+                                        </a>
+                                        <div class="tinv-wishlist-clear"></div>
+                                        <div class="tinvwl-tooltip">Add to Wishlist</div>
+                                    </div> --}}
+                                    <input type="hidden" name="add-to-cart" value="{{$currentProduct['id']}}" />
+                                    <input type="hidden" name="product_id" value="{{$currentProduct['id']}}" />
+                                    
+                                </div>
+                            </div>
+                        </form>
+                        <div class="product_meta">
+                            <span class="tagged_as">Tags: @foreach($currentProduct['tags'] as $tag)
+                                <a>{{$tag}},</a>
+                                @endforeach
+                            </span>
+                            <span class="product_id">Product ID: <span>{{$currentProduct['id']}}</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="woocommerce-tabs wc-tabs-wrapper">
+                        <ul class="tabs wc-tabs" role="tablist">
+                            <li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
+                                <a href="#tab-description"> Description </a>
+                            </li>
+                            <li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
+                                <a href="#tab-additional_information"> Additional information </a>
+                            </li>
+                        </ul>
+                        <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+                            <h2>Description</h2>
+                            <p>{{$currentProduct['description']}}</p>
+                        </div>
+                        <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information">
+                            <h2>Additional information</h2>
+                            <table class="woocommerce-product-attributes shop_attributes">
+                                <tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_size">
+                                    <th class="woocommerce-product-attributes-item__label">Inclusions</th>
+                                    <td class="woocommerce-product-attributes-item__value">
+                                       <p> @foreach($currentProduct['inclusions'] as $inclusion)
+                                        <span>{{$inclusion}},</span>
+                                        @endforeach</p>
+                                    </td>
+                                </tr>
+                                <tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_package">
+                                    <th class="woocommerce-product-attributes-item__label">Metal</th>
+                                    <td class="woocommerce-product-attributes-item__value">
+                                        <p> @foreach($currentProduct['metal'] as $metal)
+                                            <span>{{$metal}},</span>
+                                            @endforeach</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        {{-- <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
+                            <div id="reviews" class="woocommerce-Reviews">
+                                <div id="comments">
+                                    <h2 class="woocommerce-Reviews-title"> 1 review for <span>Wine House</span>
+                                    </h2>
+                                    <ol class="commentlist">
+                                        <li class="review byuser comment-author-trx_admin bypostauthor even thread-even depth-1" id="li-comment-5">
+                                            <div id="comment-5" class="comment_container">
+                                                <img alt='' src='https://secure.gravatar.com/avatar/2d2ea664d9e9154368242af228b36fba?s=60&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/2d2ea664d9e9154368242af228b36fba?s=120&#038;d=mm&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async' />
+                                                <div class="comment-text">
+                                                    <div class="star-rating" role="img" aria-label="Rated 4 out of 5">
+                                                        <span style="width:80%">Rated <strong class="rating">4</strong> out of 5 </span>
+                                                    </div>
+                                                    <p class="meta">
+                                                        <strong class="woocommerce-review__author">Ashton Porter </strong>
+                                                        <span class="woocommerce-review__dash">&ndash;</span>
+                                                        <time class="woocommerce-review__published-date" datetime="2020-05-26T09:40:43+00:00">May 26, 2020</time>
+                                                    </p>
+                                                    <div class="description">
+                                                        <p>At vero accusam et justo duo dolores et ea rebum.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <!-- #comment-## -->
+                                    </ol>
+                                </div>
+                                <div id="review_form_wrapper">
+                                    <div id="review_form">
+                                        <div id="respond" class="comment-respond">
+                                            <span id="reply-title" class="comment-reply-title">Add a review <small>
+                                                    <a rel="nofollow" id="cancel-comment-reply-link" href="/product/wine-house/#respond" style="display:none;">Cancel reply</a>
+                                                </small>
+                                            </span>
+                                            <form action="https://wine.themerex.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+                                                <p class="comment-notes">
+                                                    <span id="email-notes">Your email address will not be published.</span>
+                                                    <span class="required-field-message">Required fields are marked <span class="required">*</span>
+                                                    </span>
+                                                </p>
+                                                <p class="comment-form-author">
+                                                    <label for="author">Name&nbsp; <span class="required">*</span>
+                                                    </label>
+                                                    <input id="author" name="author" type="text" value="" size="30" required />
+                                                </p>
+                                                <p class="comment-form-email">
+                                                    <label for="email">Email&nbsp; <span class="required">*</span>
+                                                    </label>
+                                                    <input id="email" name="email" type="email" value="" size="30" required />
+                                                </p>
+                                                <p class="comment-form-cookies-consent">
+                                                    <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" />
+                                                    <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+                                                </p>
+                                                <div class="comment-form-rating">
+                                                    <label for="rating">Your rating&nbsp; <span class="required">*</span>
+                                                    </label>
+                                                    <select name="rating" id="rating" required>
+                                                        <option value="">Rate&hellip;</option>
+                                                        <option value="5">Perfect</option>
+                                                        <option value="4">Good</option>
+                                                        <option value="3">Average</option>
+                                                        <option value="2">Not that bad</option>
+                                                        <option value="1">Very poor</option>
+                                                    </select>
+                                                </div>
+                                                <p class="comment-form-comment">
+                                                    <label for="comment">Your review&nbsp; <span class="required">*</span>
+                                                    </label>
+                                                    <textarea id="comment" name="comment" cols="45" rows="8" required></textarea>
+                                                </p>
+                                                <p class="wpgdprc-checkbox">
+                                                    <input type="checkbox" name="wpgdprc" id="wpgdprc" value="1" />
+                                                    <label for="wpgdprc">I agree that my submitted data is being <a href="/privacy-policy/">collected and stored</a>. <abbr class="wpgdprc-required" title="You need to accept this checkbox.">*</abbr>
+                                                    </label>
+                                                </p>
+                                                <p class="form-submit">
+                                                    <input name="submit" type="submit" id="submit" class="submit" value="Submit" />
+                                                    <input type='hidden' name='comment_post_ID' value='2346' id='comment_post_ID' />
+                                                    <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+                                                </p>
+                                            </form>
+                                        </div>
+                                        <!-- #respond -->
+                                    </div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div> --}}
+                    </div>
+                    {{-- <section class="related products">
+                        <h2>Related products</h2>
+                        <ul class="products columns-3">
+                            <li class="product type-product post-2338 status-publish first instock product_cat-sparkling product_cat-white product_tag-dry product_tag-sweet product_tag-wedding has-post-thumbnail shipping-taxable product-type-external">
+                                <div class="post_item post_layout_thumbs">
+                                    <div class="post_featured hover_shop">
+                                        <a href="https://wine.themerex.net/product/prosecco-frizante/">
+                                            <img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />
+                                        </a>
+                                        <div class="mask"></div>
+                                        <div class="icons">
+                                            <div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper" data-product_id="2338">
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2338" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="external" data-tinv-wl-action="add">
+                                                    <span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span>
+                                                    <span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span>
+                                                </a>
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <div class="tinvwl-tooltip">Add to Wishlist</div>
+                                            </div>
+                                            <a rel="nofollow" href="https://www.amazon.com/" aria-hidden="true" data-quantity="1" data-product_id="2338" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_external product_out_stock">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                            <a href="https://wine.themerex.net/product/prosecco-frizante/" aria-hidden="true" class="shop_link">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="post_data">
+                                        <div class="post_data_inner">
+                                            <div class="post_header entry-header">
+                                                <h2 class="woocommerce-loop-product__title">
+                                                    <a href="https://wine.themerex.net/product/prosecco-frizante/">Prosecco Frizante</a>
+                                                </h2>
+                                            </div>
+                                            <span class="price">
+                                                <span class="woocommerce-Price-amount amount">
+                                                    <bdi>
+                                                        <span class="woocommerce-Price-currencySymbol">&#36;</span>28.00 </bdi>
+                                                </span>
+                                            </span>
+                                            <a href="https://www.amazon.com/" data-quantity="1" class="button wp-element-button product_type_external" data-product_id="2338" data-product_sku="" aria-label="Buy on Amazon" rel="nofollow">Buy on Amazon</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="product type-product post-2345 status-publish instock product_cat-white product_tag-dry product_tag-stock product_tag-sweet has-post-thumbnail shipping-taxable purchasable product-type-simple">
+                                <div class="post_item post_layout_thumbs">
+                                    <div class="post_featured hover_shop">
+                                        <a href="https://wine.themerex.net/product/brut-imperial/">
+                                            <img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />
+                                        </a>
+                                        <div class="mask"></div>
+                                        <div class="icons">
+                                            <div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper" data-product_id="2345">
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2345" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">
+                                                    <span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span>
+                                                    <span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span>
+                                                </a>
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <div class="tinvwl-tooltip">Add to Wishlist</div>
+                                            </div>
+                                            <a rel="nofollow" href="?add-to-cart=2345" aria-hidden="true" data-quantity="1" data-product_id="2345" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple product_in_stock ajax_add_to_cart">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                            <a href="https://wine.themerex.net/product/brut-imperial/" aria-hidden="true" class="shop_link">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="post_data">
+                                        <div class="post_data_inner">
+                                            <div class="post_header entry-header">
+                                                <h2 class="woocommerce-loop-product__title">
+                                                    <a href="https://wine.themerex.net/product/brut-imperial/">Brut Imperial</a>
+                                                </h2>
+                                            </div>
+                                            <span class="price">
+                                                <span class="woocommerce-Price-amount amount">
+                                                    <bdi>
+                                                        <span class="woocommerce-Price-currencySymbol">&#36;</span>256.00 
+													</bdi>
+                                                </span>
+                                            </span>
+                                            <a href="?add-to-cart=2345" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2345" data-product_sku="" aria-label="Add &ldquo;Brut Imperial&rdquo; to your cart" rel="nofollow">Buy now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="product type-product post-2381 status-publish last instock product_cat-rose product_tag-dry product_tag-sale product_tag-special has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="post_item post_layout_thumbs">
+                                    <div class="post_featured hover_shop">
+                                        <a href="https://wine.themerex.net/product/rose-sweet/">
+                                            <span class="onsale">-10%</span>
+                                            <img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />
+                                        </a>
+                                        <div class="mask"></div>
+                                        <div class="icons">
+                                            <div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper" data-product_id="2381">
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2381" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">
+                                                    <span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span>
+                                                    <span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span>
+                                                </a>
+                                                <div class="tinv-wishlist-clear"></div>
+                                                <div class="tinvwl-tooltip">Add to Wishlist</div>
+                                            </div>
+                                            <a rel="nofollow" href="?add-to-cart=2381" aria-hidden="true" data-quantity="1" data-product_id="2381" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple product_in_stock ajax_add_to_cart">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                            <a href="https://wine.themerex.net/product/rose-sweet/" aria-hidden="true" class="shop_link">
+                                                <span class="icon-anim"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="post_data">
+                                        <div class="post_data_inner">
+                                            <div class="post_header entry-header">
+                                                <h2 class="woocommerce-loop-product__title">
+                                                    <a href="https://wine.themerex.net/product/rose-sweet/">Rose Sweet</a>
+                                                </h2>
+                                            </div>
+                                            <span class="price">
+                                                <del aria-hidden="true">
+                                                    <span class="woocommerce-Price-amount amount">
+                                                        <bdi>
+                                                            <span class="woocommerce-Price-currencySymbol">&#36;</span>99.00 </bdi>
+                                                    </span>
+                                                </del>
+                                                <ins>
+                                                    <span class="woocommerce-Price-amount amount">
+                                                        <bdi>
+                                                            <span class="woocommerce-Price-currencySymbol">&#36;</span>89.00 </bdi>
+                                                    </span>
+                                                </ins>
+                                            </span>
+                                            <div class="star-rating" role="img" aria-label="Rated 4.00 out of 5">
+                                                <span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5 </span>
+                                            </div>
+                                            <a href="?add-to-cart=2381" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2381" data-product_sku="" aria-label="Add &ldquo;Rose Sweet&rdquo; to your cart" rel="nofollow">Buy now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </section> --}}
+                </div>
+            </article>
+        </div>
+    </div>
 </div>
-
-	<div class="summary entry-summary">
-		<h1 class="product_title entry-title">Wine House</h1>
-	<div class="woocommerce-product-rating">
-		<div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span></div>								<a href="#reviews" class="woocommerce-review-link" rel="nofollow">(<span class="count">1</span> customer review)</a>
-						</div>
-
-<p class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>125.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>165.00</bdi></span></p>
-<div class="woocommerce-product-details__short-description">
-	<p>Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.</p>
-<p>Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.</p>
-</div>
-
-<form class="variations_form cart" action="https://wine.themerex.net/product/wine-house/" method="post" enctype='multipart/form-data' data-product_id="2346" data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;075-l&quot;,&quot;attribute_pa_package&quot;:&quot;paper&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:135,&quot;display_regular_price&quot;:135,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;135.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2508,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;075-l&quot;,&quot;attribute_pa_package&quot;:&quot;box&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:155,&quot;display_regular_price&quot;:155,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;155.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2509,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;05-l&quot;,&quot;attribute_pa_package&quot;:&quot;paper&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:125,&quot;display_regular_price&quot;:125,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;125.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2510,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;05-l&quot;,&quot;attribute_pa_package&quot;:&quot;box&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:145,&quot;display_regular_price&quot;:145,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;145.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2511,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;1-l&quot;,&quot;attribute_pa_package&quot;:&quot;paper&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:155,&quot;display_regular_price&quot;:155,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;155.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2512,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_size&quot;:&quot;1-l&quot;,&quot;attribute_pa_package&quot;:&quot;box&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:165,&quot;display_regular_price&quot;:165,&quot;image&quot;:{&quot;title&quot;:&quot;product-copyright (5)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-600x600.jpg 600w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-300x300.jpg 300w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1024x1024.jpg 1024w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg 150w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-768x768.jpg 768w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-1536x1536.jpg 1536w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-370x370.jpg 370w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-120x120.jpg 120w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-840x840.jpg 840w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-410x410.jpg 410w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg 480w, https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg 2000w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg&quot;,&quot;full_src_w&quot;:2000,&quot;full_src_h&quot;:2000,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-150x150.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:150,&quot;gallery_thumbnail_src_h&quot;:150,&quot;thumb_src&quot;:&quot;https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5-480x480.jpg&quot;,&quot;thumb_src_w&quot;:480,&quot;thumb_src_h&quot;:480,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:18092,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;165.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:2513,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;}]">
-	
-			<table class="variations" cellspacing="0" role="presentation">
-			<tbody>
-									<tr>
-						<th class="label"><label for="pa_size">Size</label></th>
-						<td class="value">
-							<select id="pa_size" class="" name="attribute_pa_size" data-attribute_name="attribute_pa_size" data-show_option_none="yes"><option value="">Choose an option</option><option value="05-l" >0,5 l</option><option value="075-l" >0,75 l</option><option value="1-l" >1 l</option></select>						</td>
-					</tr>
-									<tr>
-						<th class="label"><label for="pa_package">Package</label></th>
-						<td class="value">
-							<select id="pa_package" class="" name="attribute_pa_package" data-attribute_name="attribute_pa_package" data-show_option_none="yes"><option value="">Choose an option</option><option value="box" >Box</option><option value="paper" >Paper</option></select><a class="reset_variations" href="#">Clear</a>						</td>
-					</tr>
-							</tbody>
-		</table>
-		
-		<div class="single_variation_wrap">
-			<div class="woocommerce-variation single_variation"></div><div class="woocommerce-variation-add-to-cart variations_button">
-	
-	<div class="quantity">
-		<label class="screen-reader-text" for="quantity_63bb12d55981d">Wine House quantity</label>
-	<input
-		type="number"
-				id="quantity_63bb12d55981d"
-		class="input-text qty text"
-		name="quantity"
-		value="1"
-		title="Qty"
-		size="4"
-		min="1"
-		max=""
-					step="1"
-			placeholder=""
-			inputmode="numeric"
-			autocomplete="off"
-			/>
-	</div>
-
-	<button type="submit" class="single_add_to_cart_button button alt wp-element-button">Buy now</button>
-
-	<div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart"
-	 data-product_id="2346">
-	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode" data-tinv-wl-list="[]" data-tinv-wl-product="2346" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span><span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
-</div>
-
-	<input type="hidden" name="add-to-cart" value="2346" />
-	<input type="hidden" name="product_id" value="2346" />
-	<input type="hidden" name="variation_id" class="variation_id" value="0" />
-</div>
-		</div>
-	
-	</form>
-
-<div class="product_meta">
-
-	
-	
-		<span class="sku_wrapper">SKU: <span class="sku">N/A</span></span>
-
-	
-	<span class="posted_in">Category: <a href="https://wine.themerex.net/product-category/white/" rel="tag">White</a></span>
-	<span class="tagged_as">Tags: <a href="https://wine.themerex.net/product-tag/dry/" rel="tag">Dry</a>, <a href="https://wine.themerex.net/product-tag/special/" rel="tag">Special</a>, <a href="https://wine.themerex.net/product-tag/tasting/" rel="tag">Tasting</a></span>
-	<span class="product_id">Product ID: <span>2346</span></span>
-</div>
-	</div>
-
-	
-	<div class="woocommerce-tabs wc-tabs-wrapper">
-		<ul class="tabs wc-tabs" role="tablist">
-							<li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
-					<a href="#tab-description">
-						Description					</a>
-				</li>
-							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
-					<a href="#tab-additional_information">
-						Additional information					</a>
-				</li>
-							<li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
-					<a href="#tab-reviews">
-						Reviews (1)					</a>
-				</li>
-					</ul>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-				
-	<h2>Description</h2>
-
-<p>Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum. Stet clitain vidunt ut labore eirmod tempor invidunt magna aliquyam.</p>
-			</div>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information">
-				
-	<h2>Additional information</h2>
-
-<table class="woocommerce-product-attributes shop_attributes">
-			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_size">
-			<th class="woocommerce-product-attributes-item__label">Size</th>
-			<td class="woocommerce-product-attributes-item__value"><p>0,5 l, 0,75 l, 1 l</p>
-</td>
-		</tr>
-			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_package">
-			<th class="woocommerce-product-attributes-item__label">Package</th>
-			<td class="woocommerce-product-attributes-item__value"><p>Box, Paper</p>
-</td>
-		</tr>
-	</table>
-			</div>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
-				<div id="reviews" class="woocommerce-Reviews">
-	<div id="comments">
-		<h2 class="woocommerce-Reviews-title">
-			1 review for <span>Wine House</span>		</h2>
-
-					<ol class="commentlist">
-				<li class="review byuser comment-author-trx_admin bypostauthor even thread-even depth-1" id="li-comment-5">
-
-	<div id="comment-5" class="comment_container">
-
-		<img alt='' src='https://secure.gravatar.com/avatar/2d2ea664d9e9154368242af228b36fba?s=60&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/2d2ea664d9e9154368242af228b36fba?s=120&#038;d=mm&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy' decoding='async'/>
-		<div class="comment-text">
-
-			<div class="star-rating" role="img" aria-label="Rated 4 out of 5"><span style="width:80%">Rated <strong class="rating">4</strong> out of 5</span></div>
-	<p class="meta">
-		<strong class="woocommerce-review__author">Ashton Porter </strong>
-				<span class="woocommerce-review__dash">&ndash;</span> <time class="woocommerce-review__published-date" datetime="2020-05-26T09:40:43+00:00">May 26, 2020</time>
-	</p>
-
-	<div class="description"><p>At vero accusam et justo duo dolores et ea rebum.</p>
-</div>
-		</div>
-	</div>
-</li><!-- #comment-## -->
-			</ol>
-
-						</div>
-
-			<div id="review_form_wrapper">
-			<div id="review_form">
-					<div id="respond" class="comment-respond">
-		<span id="reply-title" class="comment-reply-title">Add a review <small><a rel="nofollow" id="cancel-comment-reply-link" href="/product/wine-house/#respond" style="display:none;">Cancel reply</a></small></span><form action="https://wine.themerex.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-author"><label for="author">Name&nbsp;<span class="required">*</span></label><input id="author" name="author" type="text" value="" size="30" required /></p>
-<p class="comment-form-email"><label for="email">Email&nbsp;<span class="required">*</span></label><input id="email" name="email" type="email" value="" size="30" required /></p>
-<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
-<div class="comment-form-rating"><label for="rating">Your rating&nbsp;<span class="required">*</span></label><select name="rating" id="rating" required>
-						<option value="">Rate&hellip;</option>
-						<option value="5">Perfect</option>
-						<option value="4">Good</option>
-						<option value="3">Average</option>
-						<option value="2">Not that bad</option>
-						<option value="1">Very poor</option>
-					</select></div><p class="comment-form-comment"><label for="comment">Your review&nbsp;<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required></textarea></p><p class="wpgdprc-checkbox"><input type="checkbox" name="wpgdprc" id="wpgdprc" value="1" /><label for="wpgdprc">I agree that my submitted data is being <a href="/privacy-policy/">collected and stored</a>. <abbr class="wpgdprc-required" title="You need to accept this checkbox.">*</abbr></label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='2346' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p></form>	</div><!-- #respond -->
-				</div>
-		</div>
-	
-	<div class="clear"></div>
-</div>
-			</div>
-		
-			</div>
-
-
-	<section class="related products">
-
-					<h2>Related products</h2>
-				
-		<ul class="products columns-3">
-
-			
-					<li class="product type-product post-2338 status-publish first instock product_cat-sparkling product_cat-white product_tag-dry product_tag-sweet product_tag-wedding has-post-thumbnail shipping-taxable product-type-external">
-			<div class="post_item post_layout_thumbs"
-					>
-			<div class="post_featured hover_shop">
-								<a href="https://wine.themerex.net/product/prosecco-frizante/">
-				<img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-9.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />				</a>
-									<div class="mask"></div>
-								<div class="icons">
-				<div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper"
-	 data-product_id="2338">
-	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2338" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="external" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span><span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
-</div>
-<a rel="nofollow" href="https://www.amazon.com/" 
-														aria-hidden="true" 
-														data-quantity="1" 
-														data-product_id="2338"
-														data-product_sku=""
-														class="shop_cart icon-shopping-cart button add_to_cart_button product_type_external product_out_stock"><span class="icon-anim"></span></a>				<a href="https://wine.themerex.net/product/prosecco-frizante/" aria-hidden="true" class="shop_link">
-					<span class="icon-anim"></span>
-				</a>
-			</div>
-						</div>
-			<div class="post_data">
-				<div class="post_data_inner">
-					<div class="post_header entry-header">
-					<h2 class="woocommerce-loop-product__title"><a href="https://wine.themerex.net/product/prosecco-frizante/">Prosecco Frizante</a></h2>			</div>
-		
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>28.00</bdi></span></span>
-<a href="https://www.amazon.com/" data-quantity="1" class="button wp-element-button product_type_external" data-product_id="2338" data-product_sku="" aria-label="Buy on Amazon" rel="nofollow">Buy on Amazon</a>				</div>
-			</div>
-		</div>
-		</li>
-
-			
-					<li class="product type-product post-2345 status-publish instock product_cat-white product_tag-dry product_tag-stock product_tag-sweet has-post-thumbnail shipping-taxable purchasable product-type-simple">
-			<div class="post_item post_layout_thumbs"
-					>
-			<div class="post_featured hover_shop">
-								<a href="https://wine.themerex.net/product/brut-imperial/">
-				<img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-6.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />				</a>
-									<div class="mask"></div>
-								<div class="icons">
-				<div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper"
-	 data-product_id="2345">
-	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2345" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span><span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
-</div>
-<a rel="nofollow" href="?add-to-cart=2345" 
-														aria-hidden="true" 
-														data-quantity="1" 
-														data-product_id="2345"
-														data-product_sku=""
-														class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple product_in_stock ajax_add_to_cart"><span class="icon-anim"></span></a>				<a href="https://wine.themerex.net/product/brut-imperial/" aria-hidden="true" class="shop_link">
-					<span class="icon-anim"></span>
-				</a>
-			</div>
-						</div>
-			<div class="post_data">
-				<div class="post_data_inner">
-					<div class="post_header entry-header">
-					<h2 class="woocommerce-loop-product__title"><a href="https://wine.themerex.net/product/brut-imperial/">Brut Imperial</a></h2>			</div>
-		
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>256.00</bdi></span></span>
-<a href="?add-to-cart=2345" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2345" data-product_sku="" aria-label="Add &ldquo;Brut Imperial&rdquo; to your cart" rel="nofollow">Buy now</a>				</div>
-			</div>
-		</div>
-		</li>
-
-			
-					<li class="product type-product post-2381 status-publish last instock product_cat-rose product_tag-dry product_tag-sale product_tag-special has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-			<div class="post_item post_layout_thumbs"
-					>
-			<div class="post_featured hover_shop">
-								<a href="https://wine.themerex.net/product/rose-sweet/">
-				
-	<span class="onsale">-10%</span>
-	<img width="480" height="480" src="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-480x480.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-480x480.jpg 480w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-300x300.jpg 300w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-1024x1024.jpg 1024w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-150x150.jpg 150w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-768x768.jpg 768w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-1536x1536.jpg 1536w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-370x370.jpg 370w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-120x120.jpg 120w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-840x840.jpg 840w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-410x410.jpg 410w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3-600x600.jpg 600w, https://wine.themerex.net/wp-content/uploads/2020/05/product-copyright-3.jpg 2000w" sizes="(max-width: 600px) 100vw, 480px" />				</a>
-									<div class="mask"></div>
-								<div class="icons">
-				<div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper"
-	 data-product_id="2381">
-	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="2381" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span><span class="tinvwl_remove_from_wishlist-text">Remove from Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
-</div>
-<a rel="nofollow" href="?add-to-cart=2381" 
-														aria-hidden="true" 
-														data-quantity="1" 
-														data-product_id="2381"
-														data-product_sku=""
-														class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple product_in_stock ajax_add_to_cart"><span class="icon-anim"></span></a>				<a href="https://wine.themerex.net/product/rose-sweet/" aria-hidden="true" class="shop_link">
-					<span class="icon-anim"></span>
-				</a>
-			</div>
-						</div>
-			<div class="post_data">
-				<div class="post_data_inner">
-					<div class="post_header entry-header">
-					<h2 class="woocommerce-loop-product__title"><a href="https://wine.themerex.net/product/rose-sweet/">Rose Sweet</a></h2>			</div>
-		
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>99.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>89.00</bdi></span></ins></span>
-<div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span></div><a href="?add-to-cart=2381" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2381" data-product_sku="" aria-label="Add &ldquo;Rose Sweet&rdquo; to your cart" rel="nofollow">Buy now</a>				</div>
-			</div>
-		</div>
-		</li>
-
-			
-		</ul>
-
-	</section>
-	</div>
-
-
-		
-				</article>
-			
-	
-						</div>
+<a id="footer_skip_link_anchor" class="wine_house_skip_link_anchor" href="#"></a>
+<footer class="footer_wrap footer_custom footer_custom_4105 footer_custom_footer-default-wine-house						 scheme_dark						">
+	<div data-elementor-type="cpt_layouts" data-elementor-id="4105" class="elementor elementor-4105" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-abb689a sc_layouts_row sc_layouts_row_type_compact elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="abb689a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-container elementor-column-gap-extended">
+						<div class="elementor-row">
+							<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a3dc737 sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="a3dc737" data-element_type="column">
+								<div class="elementor-column-wrap elementor-element-populated">
+									<div class="elementor-widget-wrap">
+										<div class="sc_layouts_item elementor-element elementor-element-d0276bd sc_height_large sc_fly_static elementor-widget elementor-widget-spacer" data-id="d0276bd" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
 											</div>
+										</div>
+									<div class="sc_layouts_item elementor-element elementor-element-62e21dc sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="62e21dc" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
+										<div class="elementor-widget-container">
+											<a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_902595477" >
+											<img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Wine House" width="180" height="180"></a>		</div>
+										</div>
+									</div>
+									
 								</div>
-							<a id="footer_skip_link_anchor" class="wine_house_skip_link_anchor" href="#"></a>
-				<footer class="footer_wrap footer_custom footer_custom_4105 footer_custom_footer-default-wine-house						 scheme_dark						">
-			<div data-elementor-type="cpt_layouts" data-elementor-id="4105" class="elementor elementor-4105" data-elementor-settings="[]">
-						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-abb689a sc_layouts_row sc_layouts_row_type_compact elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="abb689a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a3dc737 sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="a3dc737" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="sc_layouts_item elementor-element elementor-element-d0276bd sc_height_large sc_fly_static elementor-widget elementor-widget-spacer" data-id="d0276bd" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-62e21dc sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="62e21dc" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
-				<div class="elementor-widget-container">
-			<a href="https://wine.themerex.net/"
-		class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_630861581" ><img class="logo_image"
-					src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png"
-											srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x"
-											alt="Wine House" width="165" height="70"></a>		</div>
-				</div>
+							</div>
 						</div>
 					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+
+				</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-b6e22fd sc_layouts_row sc_layouts_row_type_narrow elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="b6e22fd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be6a1f9 sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="be6a1f9" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="sc_layouts_item elementor-element elementor-element-2537961 sc_fly_static elementor-widget elementor-widget-spacer" data-id="2537961" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-6de1539 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu" data-id="6de1539" data-element_type="widget" data-widget_type="trx_sc_layouts_menu.default">
-				<div class="elementor-widget-container">
-			<nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line" data-animation-in="fadeIn" data-animation-out="fadeOut" ><ul id="sc_layouts_menu_1173956827" class="sc_layouts_menu_nav"><li id="menu-item-9166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9166"><a href="https://wine.themerex.net/home-vineyard/"><span>Home Vineyard</span></a></li><li id="menu-item-17783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17783"><a href="https://wine.themerex.net/about-us/"><span>About Us</span></a></li><li id="menu-item-17785" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-17785"><a href="https://wine.themerex.net/shop/"><span>Shop</span></a></li><li id="menu-item-17784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17784"><a href="https://wine.themerex.net/faq/"><span>FAQ</span></a></li><li id="menu-item-9170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9170"><a href="https://wine.themerex.net/contact-us/"><span>Contact Us</span></a></li></ul></nav>		</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-c8bd3f7 sc_fly_static elementor-widget elementor-widget-spacer" data-id="c8bd3f7" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
+					<div class="elementor-container elementor-column-gap-extended">
+						<div class="elementor-row">
+							<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be6a1f9 sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="be6a1f9" data-element_type="column">
+								<div class="elementor-column-wrap elementor-element-populated">
+									<div class="elementor-widget-wrap">
+										<div class="sc_layouts_item elementor-element elementor-element-2537961 sc_fly_static elementor-widget elementor-widget-spacer" data-id="2537961" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-6de1539 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu" data-id="6de1539" data-element_type="widget" data-widget_type="trx_sc_layouts_menu.default">
+											<div class="elementor-widget-container">
+												<nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line" data-animation-in="fadeIn" data-animation-out="fadeOut" >
+													<ul id="sc_layouts_menu_241066046" class="sc_layouts_menu_nav">
+														<li id="menu-item-9166" class="menu-item menu-item-type-post_type menu-item-object-page  page-item-5002 menu-item-9166">
+															<a href="{{route('index')}}" ><span>Home</span></a>
+														</li>
+														<li id="menu-item-17783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17783">
+															<a href="{{route('about')}}"><span>About Us</span></a>
+														</li>
+														<li id="menu-item-17785" class="menu-item menu-item-type-post_type menu-item-object-page page_item current-menu-item current_page_item menu-item-17785">
+															<a href="{{route('shop')}}"><span>Shop</span></a>
+														</li>
+														<li id="menu-item-17784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17784">
+															<a href="{{route('faq')}}" aria-current="page"><span>FAQs</span></a>
+														</li>
+														<li id="menu-item-9170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9170">
+															<a href="{{route('contact')}}"><span>Contact Us</span></a>
+														</li>
+													</ul>
+												</nav>		
+											</div>
+										</div>
+										
+										<div class="sc_layouts_item elementor-element elementor-element-c8bd3f7 sc_fly_static elementor-widget elementor-widget-spacer" data-id="c8bd3f7" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+				</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-2a929eb sc_layouts_row sc_layouts_row_type_compact elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="2a929eb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e8513f sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="1e8513f" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="sc_layouts_item elementor-element elementor-element-65a21b6 sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="65a21b6" data-element_type="widget" data-widget_type="trx_sc_socials.default">
-				<div class="elementor-widget-container">
-			<div  
-		class="sc_socials sc_socials_default sc_align_none" ><div class="socials_wrap sc_item_content"><a target="_blank" href="https://business.facebook.com/ThemeRexStudio/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_facebook-1" style=""><span class="icon-facebook-1"></span></span></a><a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_twitter-new" style=""><span class="icon-twitter-new"></span></span></a><a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_dribble-new" style=""><span class="icon-dribble-new"></span></span></a><a target="_blank" href="https://www.instagram.com/themerex_net/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span class="social_icon social_icon_instagram" style=""><span class="icon-instagram"></span></span></a></div></div>		</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-3f5472a sc_fly_static elementor-widget elementor-widget-spacer" data-id="3f5472a" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-a0abb67 elementor-widget-divider--view-line sc_fly_static elementor-widget elementor-widget-divider" data-id="a0abb67" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-ca971ac sc_fly_static elementor-widget elementor-widget-spacer" data-id="ca971ac" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-652571e sc_fly_static elementor-widget elementor-widget-text-editor" data-id="652571e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<a href="https://themerex.net/" target="_blank" rel="noopener">ThemeREX</a> © 2023. All Rights Reserved.					</div>
-						</div>
-				</div>
-				<div class="sc_layouts_item elementor-element elementor-element-7b9eeca sc_fly_static elementor-widget elementor-widget-spacer" data-id="7b9eeca" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
+					<div class="elementor-container elementor-column-gap-extended">
+						<div class="elementor-row">
+							<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e8513f sc_layouts_column_align_center sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="1e8513f" data-element_type="column">
+								<div class="elementor-column-wrap elementor-element-populated">
+									<div class="elementor-widget-wrap">
+										<div class="sc_layouts_item elementor-element elementor-element-65a21b6 sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="65a21b6" data-element_type="widget" data-widget_type="trx_sc_socials.default">
+											<div class="elementor-widget-container">
+												<div class="sc_socials sc_socials_default sc_align_none" >
+													<div class="socials_wrap sc_item_content">
+														<a target="_blank" href="https://www.facebook.com/Preetymago/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+															<span class="social_icon social_icon_facebook-1" style="">
+																<span class="icon-facebook"></span>
+															</span>
+														</a>
+														{{-- <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+															<span class="social_icon social_icon_twitter-new" style="">
+																<span class="icon-twitter"></span>
+															</span>
+														</a>
+														<a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+															<span class="social_icon social_icon_dribble-new" style="">
+																<span class="icon-dribbble"></span>
+															</span>
+														</a> --}}
+														<a target="_blank" href="https://www.instagram.com/the_magic_of_memories/?hl=en" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+															<span class="social_icon social_icon_instagram" style="">
+																<span class="icon-instagram"></span>
+															</span>
+														</a>
+													</div>
+												</div>		
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-3f5472a sc_fly_static elementor-widget elementor-widget-spacer" data-id="3f5472a" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-a0abb67 elementor-widget-divider--view-line sc_fly_static elementor-widget elementor-widget-divider" data-id="a0abb67" data-element_type="widget" data-widget_type="divider.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-divider">
+													<span class="elementor-divider-separator"></span>
+												</div>
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-ca971ac sc_fly_static elementor-widget elementor-widget-spacer" data-id="ca971ac" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-652571e sc_fly_static elementor-widget elementor-widget-text-editor" data-id="652571e" data-element_type="widget" data-widget_type="text-editor.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-text-editor elementor-clearfix">
+													<a href="#" target="_blank" rel="noopener">Magic of Memories</a> © 2023. All Rights Reserved.
+												</div>
+												<div>
+													Crafted With  <span class="icon-heart hearts"><span> by <a href="">Mesark Tech</a> 
+												</div>
+											</div>
+										</div>
+										<div class="sc_layouts_item elementor-element elementor-element-7b9eeca sc_fly_static elementor-widget elementor-widget-spacer" data-id="7b9eeca" data-element_type="widget" data-widget_type="spacer.default">
+											<div class="elementor-widget-container">
+												<div class="elementor-spacer">
+													<div class="elementor-spacer-inner"></div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-					</div>
-		</section>
-						</div>
+							</div>
 						</div>
 					</div>
-		</footer><!-- /.footer_wrap -->
+				</section>
+			</div>
+		</div>
+	</div>
+</footer><!-- /.footer_wrap -->
 
 			
 		</div>
@@ -1165,81 +1354,120 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
-		<div  id="popup-1"		class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_785624736"
-		data-delay="0"
-		 data-panel-position="right" data-panel-effect="slide" data-panel-class="trx_addons_inline_785624736" ><div class="sc_layouts_panel_inner">		<div data-elementor-type="cpt_layouts" data-elementor-id="4509" class="elementor elementor-4509" data-elementor-settings="[]">
-						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-67b4187 elementor-section-height-full elementor-section-items-stretch elementor-section-content-space-between scheme_default elementor-section-boxed elementor-section-height-default sc_fly_static" data-id="67b4187" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56dc68b6 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="56dc68b6" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1c135e79 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="1c135e79" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
-				<div class="elementor-widget-container">
-			<a href="https://wine.themerex.net/"
-		class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_673828263" ><img class="logo_image"
-					src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark.png"
-											srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark-2x.png 2x"
-											alt="Wine House" width="165" height="70"></a>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6655a08c sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="6655a08c" data-element_type="widget" data-widget_type="trx_sc_socials.default">
-				<div class="elementor-widget-container">
-			<div  
-		class="sc_socials sc_socials_icons_names sc_align_left" ><div class="socials_wrap sc_item_content"><a target="_blank" href="https://business.facebook.com/ThemeRexStudio/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_facebook-1" style=""><span class="icon-facebook-1"></span></span><span class="social_name social_facebook-1">Facebook</span></a><a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_twitter-new" style=""><span class="icon-twitter-new"></span></span><span class="social_name social_twitter-new">Twitter</span></a><a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_dribble-new" style=""><span class="icon-dribble-new"></span></span><span class="social_name social_dribble-new">Dribble</span></a><a target="_blank" href="https://www.instagram.com/themerex_net/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_instagram" style=""><span class="icon-instagram"></span></span><span class="social_name social_instagram">Instagram</span></a></div></div>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8d88f99 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="8d88f99" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0671e65 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="0671e65" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-4f42819 sc_fly_static elementor-widget elementor-widget-heading" data-id="4f42819" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h5 class="elementor-heading-title elementor-size-default"><a href="tel:1%20840%20841%2025%2069">+1 840 841 25 69</a></h5>		</div>
-				</div>
-				<div class="elementor-element elementor-element-efdd0a4 sc_fly_static elementor-widget elementor-widget-spacer" data-id="efdd0a4" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-63068ae sc_fly_static elementor-widget elementor-widget-heading" data-id="63068ae" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<span class="elementor-heading-title elementor-size-default"><a href="mailto:info@email.com">info@email.com</a></span>		</div>
-				</div>
-				<div class="elementor-element elementor-element-013bb75 sc_fly_static elementor-widget elementor-widget-spacer" data-id="013bb75" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-						</div>
-					</div>
-		<a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a></div></div><a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a>		<script>
+	<div id="popup-1" class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_785624736" data-delay="0" data-panel-position="right" data-panel-effect="slide" data-panel-class="trx_addons_inline_785624736">
+        <div class="sc_layouts_panel_inner">
+            <div data-elementor-type="cpt_layouts" data-elementor-id="4509" class="elementor elementor-4509" data-elementor-settings="[]">
+                <div class="elementor-inner">
+                    <div class="elementor-section-wrap">
+                        <section class="elementor-section elementor-top-section elementor-element elementor-element-67b4187 elementor-section-height-full elementor-section-items-stretch elementor-section-content-space-between scheme_default elementor-section-boxed elementor-section-height-default sc_fly_static" data-id="67b4187" data-element_type="section">
+                            <div class="elementor-container elementor-column-gap-extended">
+                                <div class="elementor-row">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56dc68b6 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="56dc68b6" data-element_type="column">
+                                        <div class="elementor-column-wrap elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-1c135e79 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="1c135e79" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
+                                                    <div class="elementor-widget-container">
+                                                        <a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_673828263">
+                                                            <img class="logo_image" src="{{asset('images/mom-logo-text-black.png')}}" srcset="{{asset('images/mom-logo-text-black.png')}} 2x" alt="Magic of Memories" width="165" height="70">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-6655a08c sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="6655a08c" data-element_type="widget" data-widget_type="trx_sc_socials.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="sc_socials sc_socials_icons_names sc_align_left">
+                                                            <div class="socials_wrap sc_item_content">
+                                                                <a target="_blank" href="https://www.facebook.com/Preetymago/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                                    <span class="social_icon social_icon_facebook-1" style="">
+                                                                        <span class="icon-facebook"></span>
+                                                                    </span>
+                                                                    <span class="social_name social_facebook-1">Facebook</span>
+                                                                </a>
+                                                                {{-- <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                                    <span class="social_icon social_icon_twitter-new" style="">
+                                                                        <span class="icon-twitter-new"></span>
+                                                                    </span>
+                                                                    <span class="social_name social_twitter-new">Twitter</span>
+                                                                </a>
+                                                                <a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                                    <span class="social_icon social_icon_dribble-new" style="">
+                                                                        <span class="icon-dribble-new"></span>
+                                                                    </span>
+                                                                    <span class="social_name social_dribble-new">Dribble</span>
+                                                                </a> --}}
+                                                                <a target="_blank" href="https://www.instagram.com/the_magic_of_memories/?hl=en" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                                    <span class="social_icon social_icon_instagram" style="">
+                                                                        <span class="icon-instagram"></span>
+                                                                    </span>
+                                                                    <span class="social_name social_instagram">Instagram</span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <section class="elementor-section elementor-inner-section elementor-element elementor-element-8d88f99 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="8d88f99" data-element_type="section">
+                                                    <div class="elementor-container elementor-column-gap-no">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0671e65 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="0671e65" data-element_type="column">
+                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-4f42819 sc_fly_static elementor-widget elementor-widget-heading" data-id="4f42819" data-element_type="widget" data-widget_type="heading.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <h5 class="elementor-heading-title elementor-size-default">
+                                                                                    <a href="tel:1+91%2092895%2083868">+91 92895 83868</a>
+                                                                                </h5>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-efdd0a4 sc_fly_static elementor-widget elementor-widget-spacer" data-id="efdd0a4" data-element_type="widget" data-widget_type="spacer.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-spacer">
+                                                                                    <div class="elementor-spacer-inner"></div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-63068ae sc_fly_static elementor-widget elementor-widget-heading" data-id="63068ae" data-element_type="widget" data-widget_type="heading.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <span class="elementor-heading-title elementor-size-default">
+                                                                                    <a href="mailto:mgcofmemories@gmail.com">mgcofmemories@gmail.com</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-013bb75 sc_fly_static elementor-widget elementor-widget-spacer" data-id="013bb75" data-element_type="widget" data-widget_type="spacer.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-spacer">
+                                                                                    <div class="elementor-spacer-inner"></div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <a href="#" style="text-align:center" class="sc_layouts_panel_close trx_addons_button_close">
+                <span class="" style="text-align:center">Close</span>
+            </a>
+        </div>
+    </div>
+        <a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a>		<script>
 		( function ( body ) {
 			'use strict';
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
 		<div class="trx_addons_mouse_helper trx_addons_mouse_helper_base trx_addons_mouse_helper_style_default"
-				></div><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/wine.themerex.net"}},{"@type":"ListItem","position":2,"item":{"name":"White","@id":"https:\/\/wine.themerex.net\/product-category\/white\/"}},{"@type":"ListItem","position":3,"item":{"name":"Wine House","@id":"https:\/\/wine.themerex.net\/product\/wine-house\/"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/wine.themerex.net\/product\/wine-house\/#product","name":"Wine House","url":"https:\/\/wine.themerex.net\/product\/wine-house\/","description":"Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.\r\n\r\nAquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.","image":"https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg","sku":2346,"offers":[{"@type":"AggregateOffer","lowPrice":"125.00","highPrice":"165.00","offerCount":6,"priceCurrency":"USD","availability":"http:\/\/schema.org\/InStock","url":"https:\/\/wine.themerex.net\/product\/wine-house\/","seller":{"@type":"Organization","name":"Wine House","url":"https:\/\/wine.themerex.net"}}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.00","reviewCount":1},"review":[{"@type":"Review","reviewRating":{"@type":"Rating","bestRating":"5","ratingValue":"4","worstRating":"1"},"author":{"@type":"Person","name":"Ashton Porter"},"reviewBody":"At vero accusam et justo duo dolores et ea rebum.","datePublished":"2020-05-26T09:40:43+00:00"}]}]}</script><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>
+				></div>
+                
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/wine.themerex.net"}},{"@type":"ListItem","position":2,"item":{"name":"White","@id":"https:\/\/wine.themerex.net\/product-category\/white\/"}},{"@type":"ListItem","position":3,"item":{"name":"Wine House","@id":"https:\/\/wine.themerex.net\/product\/wine-house\/"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/wine.themerex.net\/product\/wine-house\/#product","name":"Wine House","url":"https:\/\/wine.themerex.net\/product\/wine-house\/","description":"Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas odit aut fugit, sed quia consequuntur. Lorem ipsum nonum eirmod dolor.\r\n\r\nAquia sit amet, elitr, sed diam nonum eirmod tempor invidunt labore et dolore magna aliquyam.erat, sed diam voluptua. At vero accusam et justo duo dolores et ea rebum.","image":"https:\/\/wine.themerex.net\/wp-content\/uploads\/2020\/05\/product-copyright-5.jpg","sku":2346,"offers":[{"@type":"AggregateOffer","lowPrice":"125.00","highPrice":"165.00","offerCount":6,"priceCurrency":"USD","availability":"http:\/\/schema.org\/InStock","url":"https:\/\/wine.themerex.net\/product\/wine-house\/","seller":{"@type":"Organization","name":"Wine House","url":"https:\/\/wine.themerex.net"}}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.00","reviewCount":1},"review":[{"@type":"Review","reviewRating":{"@type":"Rating","bestRating":"5","ratingValue":"4","worstRating":"1"},"author":{"@type":"Person","name":"Ashton Porter"},"reviewBody":"At vero accusam et justo duo dolores et ea rebum.","datePublished":"2020-05-26T09:40:43+00:00"}]}]}</script><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="pswp__bg"></div>
 	<div class="pswp__scroll-wrap">
@@ -1274,6 +1502,143 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 	</div>
 </div>
+<section class="elementor-section elementor-popup elementor-top-section elementor-element elementor-element-d394f72 elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="d394f72" data-element_type="section" style="display:none; background-color:#ffffff; z-index:8001; top:30px; position:fixed; left:0; right:0; margin-left: auto; 
+margin-right: auto; width:50%; height:auto;">
+	<div class="elementor-container elementor-column-gap-extended" style="margin-top: 30px">
+	  <div class="elementor-row">
+		<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48d3da0 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="48d3da0" data-element_type="column">
+		  <div class="elementor-column-wrap elementor-element-populated">
+			<div class="elementor-widget-wrap">
+			  <div class="elementor-element elementor-element-9efa3b4 sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="9efa3b4" data-element_type="widget" data-widget_type="trx_sc_title.default">
+				<div class="elementor-widget-container">
+				  <div class="sc_title color_style_link2 sc_title_default">
+					<span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">Contact Us</span>
+					<h2 class="sc_item_title sc_title_title sc_item_title_style_default">
+					  <span class="sc_item_title_text">Please Provide the Details</span>
+					</h2>
+				  </div>
+				</div>
+			  </div>
+			  <div class="elementor-element elementor-element-0f09534 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="0f09534" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+				  <div class="elementor-spacer">
+					<div class="elementor-spacer-inner"></div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="elementor-element elementor-element-5c0af5f sc_fly_static elementor-widget elementor-widget-shortcode trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="5c0af5f" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+				  <div class="elementor-shortcode">
+					<script>
+					  (function() {
+						window.mc4wp = window.mc4wp || {
+						  listeners: [],
+						  forms: {
+							on: function(evt, cb) {
+							  window.mc4wp.listeners.push({
+								event: evt,
+								callback: cb
+							  });
+							}
+						  }
+						}
+					  })();
+					</script>
+					<!-- Mailchimp for WordPress v4.8.6 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+					<form action="#" method="post" class="customer-details" novalidate="novalidate" data-status="init">
+						@csrf
+						<div style="display: none;">
+						  <input type="hidden" name="_wpcf7" value="5" />
+						  <input type="hidden" name="_wpcf7_version" value="5.5.2" />
+						  <input type="hidden" name="_wpcf7_locale" value="en_US" />
+						  <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-p1453-o1" />
+						  <input type="hidden" name="_wpcf7_container_post" value="1453" />
+						  <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+						</div>
+						<div class="form-style-1">
+						  <div class="columns_wrap">
+							<div class="column-1_2">
+							  <span class="style-line icon-name">
+								<span class="wpcf7-form-control-wrap your-name">
+								  <input type="text" name="name" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" />
+								</span>
+							  </span>
+							</div>
+							<div class="column-1_2">
+							  <span class="style-line icon-email">
+								<span class="wpcf7-form-control-wrap your-email">
+								  <input type="email" name="email" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address" />
+								</span>
+							  </span>
+							</div>
+						  </div>
+						  <div class="columns_wrap">
+							<div class="column-1_2">
+							  <span class="style-line icon-phone">
+								<span class="wpcf7-form-control-wrap phone">
+								  <input type="tel" name="phone" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone" />
+								</span>
+							  </span>
+							</div>
+							<div class="column-1_2">
+							  <span class="style-line icon-subject">
+								<span class="wpcf7-form-control-wrap subject">
+								  <input type="text" name="address" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Address" />
+								</span>
+							  </span>
+							</div>
+						  </div>
+						  <div class="columns_wrap margin-bottom">
+							<div class="column-1_1">
+							  <span class="style-line icon-textarea">
+								<span class="wpcf7-form-control-wrap your-message">
+								  <textarea name="your-message" cols="30" rows="5" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="How can we help you? Feel free to get in touch!"></textarea>
+								</span>
+							  </span>
+							</div>
+						  </div>
+						  <p>
+							<input  type="submit" form="" onclick="submitForms()" value="Get In Touch" class="wpcf7-form-control has-spinner wpcf7-submit" />
+							{{-- <span class="wpcf7-form-control-wrap acceptance">
+							  <span class="wpcf7-form-control wpcf7-acceptance">
+								<span class="wpcf7-list-item">
+								  <label>
+									<input type="checkbox" name="acceptance" value="1" aria-invalid="false" />
+									<span class="wpcf7-list-item-label">I agree that my submitted data is <a href="/privacy-policy/">collected and stored</a>. </span>
+								  </label>
+								</span>
+							  </span>
+							</span> --}}
+						</div>
+						<div class="wpcf7-response-output" aria-hidden="true"></div>
+					  </form>
+					<!-- / Mailchimp for WordPress Plugin -->
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		{{-- <div class="elementor-column elementor-col-2 elementor-top-column elementor-element elementor-element-91a3141 sc_layouts_hide_on_mobile sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="91a3141" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		  <div class="elementor-column-wrap elementor-element-populated">
+			<div class="elementor-widget-wrap">
+			  <div class="elementor-element elementor-element-637990e sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="637990e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+				  <div class="elementor-spacer">
+					<div class="elementor-spacer-inner"></div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		</div> --}}
+		<span onclick="hidePopup()">
+			close
+		</span>
+	  </div>
+	</div>
+  </section>
+  <div class='overlay' style="display:none; width:100%; height:100%; position:fixed; top:0; z-index:8000; background-color:rgba(0,0,0,0.5)";></div>
 	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
@@ -1296,7 +1661,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
-
+<script type='text/javascript' src="{{asset('js/index.js')}}"></script>
 <script type='text/javascript' defer="defer" src='https://wine.themerex.net/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js?ver=1.1.3' id='advanced-popups-js'></script>
 <script type='text/javascript' src='https://wine.themerex.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
 <script type='text/javascript' src='https://wine.themerex.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
@@ -1380,7 +1745,7 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
 /* ]]> */
 </script>
-<script type='text/javascript' defer="defer" src='https://wine.themerex.net/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1.1' id='wp-mediaelement-js'></script>
+<script type='text/javascript' defer="def0er" src='https://wine.themerex.net/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1.1' id='wp-mediaelement-js'></script>
 <script type='text/javascript' defer="defer" src='https://wine.themerex.net/wp-content/themes/wine-house/skins/default/skin.js' id='wine-house-skin-default-js'></script>
 <script type='text/javascript' defer="defer" src='https://wine.themerex.net/wp-content/themes/wine-house/plugins/woocommerce/woocommerce.js' id='wine-house-woocommerce-js'></script>
 <script src='https://wine.themerex.net/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js'></script>
