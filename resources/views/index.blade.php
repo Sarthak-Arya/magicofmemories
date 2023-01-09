@@ -52,12 +52,12 @@ img.emoji {
 {{-- <link property="stylesheet" rel='stylesheet' id='trx_addons-icons-css' href="{{ HTML::style(css/trx_addons_icons.css" type='text/css' media='all' />  --> --}}
 {{-- <link property="stylesheet" rel='stylesheet' id='trx_demo_icons-css' href='http://wine.themerex.net/wp-content/plugins/trx_demo/css/font-icons/css/trx_demo_icons.css' type='text/css' media='all' />  --}}
 {{-- <link property="stylesheet" rel='stylesheet' id='trx_demo_icons_animation-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_demo/css/font-icons/css/animation.css')}}" type='text/css' media='all' /> --}}
-<link property="stylesheet" rel='stylesheet' id='wine-house-font-google_fonts-css' href="{{URL::asset('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&#038;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&#038;subset=latin,latin-ext&#038;display=swap')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-fontello-css' href="{{URL::asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/font-icons/css/fontello.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wp-block-library-css' href="{{URL::asset('http://wine.themerex.net/wp-includes/css/dist/block-library/style.min.css?ver=6.1')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wc-blocks-vendors-style-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.1.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wc-blocks-style-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.1.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='classic-theme-styles-css' href="{{URL::asset('http://wine.themerex.net/wp-includes/css/classic-themes.min.css?ver=1')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-font-google_fonts-css' href="https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&#038;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&#038;subset=latin,latin-ext&#038;display=swap" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-fontello-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/font-icons/css/fontello.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wp-block-library-css' href="http://wine.themerex.net/wp-includes/css/dist/block-library/style.min.css?ver=6.1" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wc-blocks-vendors-style-css' href="http://wine.themerex.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.1.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wc-blocks-style-css' href="http://wine.themerex.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.1.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='classic-theme-styles-css' href="http://wine.themerex.net/wp-includes/css/classic-themes.min.css?ver=1" type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--bg-color: #ffffff;--wp--preset--color--bd-color: #DED6D4;--wp--preset--color--text-dark: #333333;--wp--preset--color--text-light: #AAA8A4;--wp--preset--color--text-link: #B4BB6B;--wp--preset--color--text-hover: #9FA753;--wp--preset--color--text-link-2: #B98D58;--wp--preset--color--text-hover-2: #B1824A;--wp--preset--color--text-link-3: #DBBB94;--wp--preset--color--text-hover-3: #D1AF86;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
@@ -70,39 +70,38 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	.elementor-kit-15{--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1320px;}.elementor-widget:not(:last-child){margin-bottom:0px;}{}.sc_layouts_title_caption{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}
 	.elementor-17742 .elementor-element.elementor-element-c1bb71b:not(.elementor-motion-effects-element-type-background), .elementor-17742 .elementor-element.elementor-element-c1bb71b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#222222;}.elementor-17742 .elementor-element.elementor-element-c1bb71b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-c1bb71b > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-18eebad .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-87f2832 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17742 .elementor-element.elementor-element-87f2832{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-87f2832 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-0abe7cd{z-index:2;}.elementor-17742 .elementor-element.elementor-element-d5f0944 .elementor-spacer-inner{height:100px;}.elementor-bc-flex-widget .elementor-17742 .elementor-element.elementor-element-3de9ec7.elementor-column .elementor-column-wrap{align-items:flex-end;}.elementor-17742 .elementor-element.elementor-element-3de9ec7.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-17742 .elementor-element.elementor-element-c682850 > .elementor-widget-container{margin:0% 0% 0% -110%;}.elementor-17742 .elementor-element.elementor-element-c682850{z-index:3;}.elementor-17742 .elementor-element.elementor-element-bfe8063 > .elementor-widget-container{margin:0% 0% 0% -5%;}.elementor-17742 .elementor-element.elementor-element-bfe8063{z-index:1;width:232px;max-width:232px;top:0px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-bfe8063{right:0px;}body.rtl .elementor-17742 .elementor-element.elementor-element-bfe8063{left:0px;}.elementor-17742 .elementor-element.elementor-element-7558368 > .elementor-element-populated{margin:0% 0% 0% 18%;}.elementor-17742 .elementor-element.elementor-element-b60336a .elementor-spacer-inner{height:20px;}.elementor-17742 .elementor-element.elementor-element-a952f3a .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-4faef4c{color:#333333;font-family:"Cormorant Garamond", Sans-serif;font-size:15px;font-weight:700;text-transform:uppercase;line-height:2.2em;letter-spacing:1px;}.elementor-17742 .elementor-element.elementor-element-73e1e80 .elementor-spacer-inner{height:40px;}.elementor-17742 .elementor-element.elementor-element-0a21817 .elementor-spacer-inner{height:40px;}.elementor-17742 .elementor-element.elementor-element-77f07d2 .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-a3f20f3:not(.elementor-motion-effects-element-type-background), .elementor-17742 .elementor-element.elementor-element-a3f20f3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBF9F4;background-image:url("http://wine.themerex.net/wp-content/uploads/2021/08/bg-home-3_1.jpg");background-position:center center;background-size:contain;}.elementor-17742 .elementor-element.elementor-element-a3f20f3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-a3f20f3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-0e98b4f .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-13afeb2 .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-744f6ae .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-b7b47e1 .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-dd5c752 .elementor-spacer-inner{height:50px;}.elementor-17742 .elementor-element.elementor-element-2779d6d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-2779d6d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-3e75db1 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17742 .elementor-element.elementor-element-3e75db1:not(.elementor-motion-effects-element-type-background), .elementor-17742 .elementor-element.elementor-element-3e75db1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBF9F4;background-image:url("http://wine.themerex.net/wp-content/uploads/2021/08/bg-home-3_2.jpg");background-position:center center;background-size:cover;}.elementor-17742 .elementor-element.elementor-element-3e75db1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:120px 0px 120px 0px;}.elementor-17742 .elementor-element.elementor-element-3e75db1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-d3c621c > .elementor-element-populated.elementor-column-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-d3c621c > .elementor-element-populated.elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-6c49b36{text-align:right;z-index:2;}.elementor-bc-flex-widget .elementor-17742 .elementor-element.elementor-element-f7224b8.elementor-column .elementor-column-wrap{align-items:flex-end;}.elementor-17742 .elementor-element.elementor-element-f7224b8.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-17742 .elementor-element.elementor-element-4e53ac8 > .elementor-widget-container{margin:33% 0% 0% -130%;}.elementor-17742 .elementor-element.elementor-element-4e53ac8{z-index:3;}.elementor-17742 .elementor-element.elementor-element-9b2bcdd > .elementor-element-populated{margin:0% 0% 0% 17%;}.elementor-17742 .elementor-element.elementor-element-bf67377 .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-b223606 .elementor-spacer-inner{height:48px;}.elementor-17742 .elementor-element.elementor-element-f76c61b .elementor-spacer-inner{height:40px;}.elementor-17742 .elementor-element.elementor-element-5cbb0c25{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-5cbb0c25 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-201538f{z-index:1;width:156px;max-width:156px;top:60px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-201538f{right:100px;}body.rtl .elementor-17742 .elementor-element.elementor-element-201538f{left:100px;}.elementor-17742 .elementor-element.elementor-element-8c5e52f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-8c5e52f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-column-wrap{padding:0% 20% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-widget-wrap{padding:0% 20% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-c7f7675 .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-69ae580 .elementor-spacer-inner{height:110px;}.elementor-17742 .elementor-element.elementor-element-ba74091 .elementor-spacer-inner{height:20px;}.elementor-17742 .elementor-element.elementor-element-4f01545 > .elementor-widget-container{margin:-5px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-0aa7cb1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17742 .elementor-element.elementor-element-0aa7cb1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17742 .elementor-element.elementor-element-ef3e96c .widget_instagram_images .widget_instagram_images_item_wrap{width:calc(100%/6);}@media(min-width:768px){.elementor-17742 .elementor-element.elementor-element-9b34635{width:69.841%;}.elementor-17742 .elementor-element.elementor-element-3de9ec7{width:30.003%;}.elementor-17742 .elementor-element.elementor-element-4a536d6{width:51.515%;}.elementor-17742 .elementor-element.elementor-element-d3c621c{width:66.609%;}.elementor-17742 .elementor-element.elementor-element-f7224b8{width:33.235%;}.elementor-17742 .elementor-element.elementor-element-9b2bcdd{width:48.447%;}}@media(max-width:1024px) and (min-width:768px){.elementor-17742 .elementor-element.elementor-element-bef05aa{width:60%;}.elementor-17742 .elementor-element.elementor-element-cfc3cd4{width:40%;}}@media(max-width:1024px){.elementor-17742 .elementor-element.elementor-element-bfe8063{width:190px;max-width:190px;top:-15px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-bfe8063{right:-15px;}body.rtl .elementor-17742 .elementor-element.elementor-element-bfe8063{left:-15px;}.elementor-17742 .elementor-element.elementor-element-7558368 > .elementor-element-populated{margin:0px 0px 0px 20px;}.elementor-17742 .elementor-element.elementor-element-b60336a .elementor-spacer-inner{height:18px;}.elementor-17742 .elementor-element.elementor-element-a952f3a .elementor-spacer-inner{height:22px;}.elementor-17742 .elementor-element.elementor-element-73e1e80 .elementor-spacer-inner{height:22px;}.elementor-17742 .elementor-element.elementor-element-0a21817 .elementor-spacer-inner{height:25px;}.elementor-17742 .elementor-element.elementor-element-3e75db1{padding:90px 0px 90px 0px;}.elementor-17742 .elementor-element.elementor-element-9b2bcdd > .elementor-element-populated{margin:0px 0px 0px 20px;}.elementor-17742 .elementor-element.elementor-element-bf67377 .elementor-spacer-inner{height:5px;}.elementor-17742 .elementor-element.elementor-element-b223606 .elementor-spacer-inner{height:22px;}.elementor-17742 .elementor-element.elementor-element-f76c61b .elementor-spacer-inner{height:5px;}.elementor-17742 .elementor-element.elementor-element-201538f{width:150px;max-width:150px;top:20px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-201538f{right:40px;}body.rtl .elementor-17742 .elementor-element.elementor-element-201538f{left:40px;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-column-wrap{padding:0% 9% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-widget-wrap{padding:0% 9% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-c7f7675 .elementor-spacer-inner{height:18px;}.elementor-17742 .elementor-element.elementor-element-cfc3cd4 > .elementor-element-populated.elementor-column-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-cfc3cd4 > .elementor-element-populated.elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-4f01545 > .elementor-widget-container{margin:0px 0px -30px 0px;}}@media(max-width:767px){.elementor-17742 .elementor-element.elementor-element-9b34635 > .elementor-element-populated{margin:10% 35% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-3de9ec7 > .elementor-element-populated{margin:-60% 0% 0% 35%;}.elementor-17742 .elementor-element.elementor-element-c682850 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-bfe8063 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-bfe8063{width:180px;max-width:180px;top:-140px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-bfe8063{right:-10px;}body.rtl .elementor-17742 .elementor-element.elementor-element-bfe8063{left:-10px;}.elementor-17742 .elementor-element.elementor-element-7558368 > .elementor-element-populated{margin:30px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-b60336a .elementor-spacer-inner{height:18px;}.elementor-17742 .elementor-element.elementor-element-a952f3a .elementor-spacer-inner{height:14px;}.elementor-17742 .elementor-element.elementor-element-73e1e80 .elementor-spacer-inner{height:16px;}.elementor-17742 .elementor-element.elementor-element-0a21817 .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-3e75db1{padding:60px 0px 60px 0px;}.elementor-17742 .elementor-element.elementor-element-d3c621c > .elementor-element-populated{margin:0% 35% 0% 0%;}.elementor-17742 .elementor-element.elementor-element-f7224b8 > .elementor-element-populated{margin:-50% 0% 0% 35%;}.elementor-17742 .elementor-element.elementor-element-4e53ac8 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-9b2bcdd > .elementor-element-populated{margin:30px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-bf67377 .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-b223606 .elementor-spacer-inner{height:20px;}.elementor-17742 .elementor-element.elementor-element-f76c61b .elementor-spacer-inner{height:30px;}.elementor-17742 .elementor-element.elementor-element-201538f > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-201538f{width:140px;max-width:140px;top:0px;}body:not(.rtl) .elementor-17742 .elementor-element.elementor-element-201538f{right:8px;}body.rtl .elementor-17742 .elementor-element.elementor-element-201538f{left:8px;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-column-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-bef05aa > .elementor-element-populated.elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-17742 .elementor-element.elementor-element-c7f7675 .elementor-spacer-inner{height:17px;}.elementor-17742 .elementor-element.elementor-element-ba74091 .elementor-spacer-inner{height:24px;}.elementor-17742 .elementor-element.elementor-element-4f01545 > .elementor-widget-container{margin:0px 0px -20px 0px;}}
 </style>
-<link property="stylesheet" rel='stylesheet' id='magnific-popup-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/trx_addons/js/magnific/magnific-popup.min.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_demo_panels-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/trx_demo/css/trx_demo_panels.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='woocommerce-layout-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.9.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='woocommerce-smallscreen-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.9.0')}}" type='text/css' media='only screen and (max-width: 768px)' />
-<link property="stylesheet" rel='stylesheet' id='woocommerce-general-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.9.0')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='magnific-popup-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/js/magnific/magnific-popup.min.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_demo_panels-css' href="http://wine.themerex.net/wp-content/plugins/trx_demo/css/trx_demo_panels.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='woocommerce-layout-css' href="http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.9.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='woocommerce-smallscreen-css' href="http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.9.0" type='text/css' media='only screen and (max-width: 768px)' />
+<link property="stylesheet" rel='stylesheet' id='woocommerce-general-css' href="http://wine.themerex.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.9.0" type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link property="stylesheet" rel='preload' as='font' type='font/woff2' crossorigin='anonymous' id='tinvwl-webfont-font-css' href='http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi'  media='all' />
-<link property="stylesheet" rel='stylesheet' id='tinvwl-webfont-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.29.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='tinvwl-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.29.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='elementor-icons-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='elementor-frontend-legacy-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.4.8')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='elementor-frontend-css' href="{{URL::asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='preload' as='font' type='font/woff2' crossorigin='anonymous' id='tinvwl-webfont-font-css' href="http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi"  media='all' />
+<link property="stylesheet" rel='stylesheet' id='tinvwl-webfont-css' href="http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.29.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='tinvwl-css' href="http://wine.themerex.net/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.29.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='elementor-icons-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='elementor-frontend-legacy-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.4.8" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='elementor-frontend-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8" type='text/css' media='all' />
 <style id='elementor-frontend-inline-css' type='text/css'>
 @font-face{font-family:eicons;src:url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 .elementor-kit-15{--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1320px;}.elementor-widget:not(:last-child){margin-bottom:0px;}{}.sc_layouts_title_caption{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}
 .elementor-5002 .elementor-element.elementor-element-3b86507:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-3b86507 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#222222;}.elementor-5002 .elementor-element.elementor-element-3b86507{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-3b86507 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-4ae6cf6d:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-4ae6cf6d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBF9F4;background-image:url("http://wine.themerex.net/wp-content/uploads/2021/08/bg-home-1_1.jpg");background-position:center center;background-size:cover;}.elementor-5002 .elementor-element.elementor-element-4ae6cf6d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:120px 0px 120px 0px;}.elementor-5002 .elementor-element.elementor-element-4ae6cf6d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-5002 .elementor-element.elementor-element-5641b524.elementor-column .elementor-column-wrap{align-items:space-between;}.elementor-5002 .elementor-element.elementor-element-5641b524.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-5002 .elementor-element.elementor-element-d69bb73 .elementor-spacer-inner{height:100px;}.elementor-5002 .elementor-element.elementor-element-6ef01914 .elementor-spacer-inner{height:100px;}.elementor-5002 .elementor-element.elementor-element-6bc9f2ea .elementor-spacer-inner{height:25px;}.elementor-5002 .elementor-element.elementor-element-2c7814bf{text-align:right;}.elementor-5002 .elementor-element.elementor-element-b90a49f{z-index:9;width:initial;max-width:initial;bottom:62px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-b90a49f{left:-92px;}body.rtl .elementor-5002 .elementor-element.elementor-element-b90a49f{right:-92px;}.elementor-bc-flex-widget .elementor-5002 .elementor-element.elementor-element-1c8a96f6.elementor-column .elementor-column-wrap{align-items:space-between;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6 > .elementor-element-populated{margin:0% 0% 0% 15%;}.elementor-5002 .elementor-element.elementor-element-4cfd90f3{text-align:right;}.elementor-5002 .elementor-element.elementor-element-f98b466 .elementor-spacer-inner{height:100px;}.elementor-5002 .elementor-element.elementor-element-7769b95 .elementor-spacer-inner{height:100px;}.elementor-5002 .elementor-element.elementor-element-51ba2a89 > .elementor-widget-container{margin:0px 0px -7px 0px;}.elementor-5002 .elementor-element.elementor-element-91270b1{width:351px;max-width:351px;top:0px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-91270b1{left:-105px;}body.rtl .elementor-5002 .elementor-element.elementor-element-91270b1{right:-105px;}.elementor-5002 .elementor-element.elementor-element-6c7bcb4 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-1f6a933{z-index:2;}.elementor-5002 .elementor-element.elementor-element-81ea8aa .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-dd7eb26 > .elementor-widget-container{padding:0% 35% 0% 0%;}.elementor-5002 .elementor-element.elementor-element-67f0701 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-d404d13 > .elementor-widget-container{margin:0px 0px -55px 0px;}.elementor-5002 .elementor-element.elementor-element-96f7e10{width:234px;max-width:234px;bottom:220%;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-96f7e10{right:0px;}body.rtl .elementor-5002 .elementor-element.elementor-element-96f7e10{left:0px;}.elementor-5002 .elementor-element.elementor-element-dfa1d89 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-145647d:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-145647d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://wine.themerex.net/wp-content/uploads/2021/11/background-home3.jpg");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-5002 .elementor-element.elementor-element-145647d > .elementor-background-overlay{background-color:#1A1A1A;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-145647d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-01efc7f .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-6d50175 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-6c8528a > .elementor-widget-container{padding:0% 19% 0% 19%;}.elementor-5002 .elementor-element.elementor-element-2c0a3ee .elementor-spacer-inner{height:20px;}.elementor-5002 .elementor-element.elementor-element-ca6fbde{text-align:center;color:#FFFFFF;font-size:18px;}.elementor-5002 .elementor-element.elementor-element-0ad444a .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-3ae6fb1 .elementor-spacer-inner{height:45px;}.elementor-5002 .elementor-element.elementor-element-7fbf5b8:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-7fbf5b8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5002 .elementor-element.elementor-element-7fbf5b8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-7fbf5b8 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-5bd123b .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-ceecc22{z-index:2;width:369px;max-width:369px;top:30px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-ceecc22{left:-100px;}body.rtl .elementor-5002 .elementor-element.elementor-element-ceecc22{right:-100px;}.elementor-5002 .elementor-element.elementor-element-20ab9ce6{overflow:hidden;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-20ab9ce6:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-20ab9ce6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5002 .elementor-element.elementor-element-20ab9ce6 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-4d28e40d > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-5002 .elementor-element.elementor-element-4d28e40d{z-index:2;}.elementor-5002 .elementor-element.elementor-element-23dccf1c .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-8fafaf8 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-6135e9f7 .elementor-spacer-inner{height:54px;}.elementor-5002 .elementor-element.elementor-element-7339d6fb:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-5002 .elementor-element.elementor-element-7339d6fb > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5002 .elementor-element.elementor-element-7339d6fb > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-7339d6fb > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-a03714b .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-936bd1f:not(.elementor-motion-effects-element-type-background), .elementor-5002 .elementor-element.elementor-element-936bd1f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBF9F4;background-image:url("http://wine.themerex.net/wp-content/uploads/2021/08/bg-home-1_2.jpg");background-position:center center;background-size:cover;}.elementor-5002 .elementor-element.elementor-element-936bd1f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-936bd1f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-b7c6efb .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-75466d5a .elementor-icon-wrapper{text-align:center;}.elementor-5002 .elementor-element.elementor-element-75466d5a.elementor-view-stacked .elementor-icon{background-color:#B4BB6B;}.elementor-5002 .elementor-element.elementor-element-75466d5a.elementor-view-framed .elementor-icon, .elementor-5002 .elementor-element.elementor-element-75466d5a.elementor-view-default .elementor-icon{color:#B4BB6B;border-color:#B4BB6B;}.elementor-5002 .elementor-element.elementor-element-75466d5a.elementor-view-framed .elementor-icon, .elementor-5002 .elementor-element.elementor-element-75466d5a.elementor-view-default .elementor-icon svg{fill:#B4BB6B;}.elementor-5002 .elementor-element.elementor-element-75466d5a .elementor-icon{font-size:38px;}.elementor-5002 .elementor-element.elementor-element-75466d5a .elementor-icon i, .elementor-5002 .elementor-element.elementor-element-75466d5a .elementor-icon svg{transform:rotate(0deg);}.elementor-5002 .elementor-element.elementor-element-77aef064 .elementor-spacer-inner{height:24px;}.elementor-5002 .elementor-element.elementor-element-846750f .elementor-spacer-inner{height:30px;}.elementor-5002 .elementor-element.elementor-element-dc382aa{z-index:1;width:234px;max-width:234px;top:30px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-dc382aa{right:30px;}body.rtl .elementor-5002 .elementor-element.elementor-element-dc382aa{left:30px;}.elementor-5002 .elementor-element.elementor-element-a7cdae9 .elementor-spacer-inner{height:50px;}.elementor-5002 .elementor-element.elementor-element-46addee{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5002 .elementor-element.elementor-element-46addee > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5002 .elementor-element.elementor-element-da10cf3 .elementor-spacer-inner{height:45px;}.elementor-5002 .elementor-element.elementor-element-c9a4a3f{z-index:1;width:156px;max-width:156px;bottom:155px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-c9a4a3f{left:55px;}body.rtl .elementor-5002 .elementor-element.elementor-element-c9a4a3f{right:55px;}.elementor-5002 .elementor-element.elementor-element-2992c21 .elementor-spacer-inner{height:50px;}@media(max-width:1024px){.elementor-5002 .elementor-element.elementor-element-4ae6cf6d{padding:90px 0px 90px 0px;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6 > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-5002 .elementor-element.elementor-element-91270b1{width:220px;max-width:220px;top:10px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-91270b1{left:-40px;}body.rtl .elementor-5002 .elementor-element.elementor-element-91270b1{right:-40px;}.elementor-5002 .elementor-element.elementor-element-d404d13 > .elementor-widget-container{margin:0px 0px -34px 0px;}.elementor-5002 .elementor-element.elementor-element-96f7e10{width:170px;max-width:170px;bottom:5px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-96f7e10{right:15px;}body.rtl .elementor-5002 .elementor-element.elementor-element-96f7e10{left:15px;}.elementor-5002 .elementor-element.elementor-element-6c8528a > .elementor-widget-container{padding:0% 17% 0% 17%;}.elementor-5002 .elementor-element.elementor-element-2c0a3ee .elementor-spacer-inner{height:17px;}.elementor-5002 .elementor-element.elementor-element-ca6fbde{font-size:17px;}.elementor-5002 .elementor-element.elementor-element-ceecc22{width:170px;max-width:170px;top:35px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-ceecc22{left:20px;}body.rtl .elementor-5002 .elementor-element.elementor-element-ceecc22{right:20px;}.elementor-5002 .elementor-element.elementor-element-23dccf1c .elementor-spacer-inner{height:0px;}.elementor-5002 .elementor-element.elementor-element-188293a > .elementor-widget-container{margin:-2px 0px 0px 0px;}.elementor-5002 .elementor-element.elementor-element-8fafaf8 .elementor-spacer-inner{height:0px;}.elementor-5002 .elementor-element.elementor-element-674458b4 > .elementor-widget-container{margin:2px 0px 0px 0px;}.elementor-5002 .elementor-element.elementor-element-6135e9f7 .elementor-spacer-inner{height:30px;}.elementor-5002 .elementor-element.elementor-element-77aef064 .elementor-spacer-inner{height:20px;}.elementor-5002 .elementor-element.elementor-element-dc382aa{width:180px;max-width:180px;top:15px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-dc382aa{right:15px;}body.rtl .elementor-5002 .elementor-element.elementor-element-dc382aa{left:15px;}.elementor-5002 .elementor-element.elementor-element-da10cf3 .elementor-spacer-inner{height:35px;}.elementor-5002 .elementor-element.elementor-element-c9a4a3f{width:initial;max-width:initial;bottom:20px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-c9a4a3f{left:15px;}body.rtl .elementor-5002 .elementor-element.elementor-element-c9a4a3f{right:15px;}}@media(max-width:767px){.elementor-5002 .elementor-element.elementor-element-4ae6cf6d{padding:60px 0px 60px 0px;}.elementor-5002 .elementor-element.elementor-element-4ebb2188{width:30%;}.elementor-5002 .elementor-element.elementor-element-647b6be6{width:70%;}.elementor-5002 .elementor-element.elementor-element-b90a49f{width:120px;max-width:120px;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6{width:82%;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6 > .elementor-element-populated{margin:-80% 0% 0% 0%;}.elementor-5002 .elementor-element.elementor-element-91270b1{width:170px;max-width:170px;top:0px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-91270b1{left:-30px;}body.rtl .elementor-5002 .elementor-element.elementor-element-91270b1{right:-30px;}.elementor-5002 .elementor-element.elementor-element-dd7eb26 > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-5002 .elementor-element.elementor-element-96f7e10{width:150px;max-width:150px;bottom:0px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-96f7e10{right:5px;}body.rtl .elementor-5002 .elementor-element.elementor-element-96f7e10{left:5px;}.elementor-5002 .elementor-element.elementor-element-6c8528a > .elementor-widget-container{padding:0% 8% 0% 8%;}.elementor-5002 .elementor-element.elementor-element-2c0a3ee .elementor-spacer-inner{height:12px;}.elementor-5002 .elementor-element.elementor-element-ca6fbde{font-size:16px;}.elementor-5002 .elementor-element.elementor-element-ceecc22{width:140px;max-width:140px;top:0px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-ceecc22{left:10px;}body.rtl .elementor-5002 .elementor-element.elementor-element-ceecc22{right:10px;}.elementor-5002 .elementor-element.elementor-element-4aefd175 > .elementor-element-populated{margin:20px 0px 0px 0px;}.elementor-5002 .elementor-element.elementor-element-7d03de5b > .elementor-element-populated{margin:14px 0px 0px 0px;}.elementor-5002 .elementor-element.elementor-element-6135e9f7 .elementor-spacer-inner{height:25px;}.elementor-5002 .elementor-element.elementor-element-77aef064 .elementor-spacer-inner{height:9px;}.elementor-5002 .elementor-element.elementor-element-846750f .elementor-spacer-inner{height:19px;}.elementor-5002 .elementor-element.elementor-element-dc382aa{width:150px;max-width:150px;top:0px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-dc382aa{right:5px;}body.rtl .elementor-5002 .elementor-element.elementor-element-dc382aa{left:5px;}.elementor-5002 .elementor-element.elementor-element-da10cf3 .elementor-spacer-inner{height:20px;}.elementor-5002 .elementor-element.elementor-element-c9a4a3f{width:150px;max-width:150px;bottom:5px;}body:not(.rtl) .elementor-5002 .elementor-element.elementor-element-c9a4a3f{left:5px;}body.rtl .elementor-5002 .elementor-element.elementor-element-c9a4a3f{right:5px;}}@media(min-width:768px){.elementor-5002 .elementor-element.elementor-element-5641b524{width:50.909%;}.elementor-5002 .elementor-element.elementor-element-1c8a96f6{width:49.053%;}.elementor-5002 .elementor-element.elementor-element-38f3096c{width:35%;}.elementor-5002 .elementor-element.elementor-element-4aefd175{width:39.942%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5002 .elementor-element.elementor-element-4ebb2188{width:30%;}.elementor-5002 .elementor-element.elementor-element-647b6be6{width:70%;}.elementor-5002 .elementor-element.elementor-element-38f3096c{width:34%;}.elementor-5002 .elementor-element.elementor-element-4aefd175{width:48%;}.elementor-5002 .elementor-element.elementor-element-7d03de5b{width:18%;}}
 </style>
-	
-<link property="stylesheet" rel='stylesheet' id='trx_addons-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/css/__styles.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='swiper-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/js/swiper/swiper.min.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_content-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/content/content.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_content-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/content/content.responsive.css')}}" type='text/css' media='(max-width:1439px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_icons-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/icons/icons.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_icons-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/icons/icons.responsive.css')}}" type='text/css' media='(max-width:1279px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-animations-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/css/trx_addons.animations.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-woocommerce-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-mouse-helper-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/addons/mouse-helper/mouse-helper.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_portfolio-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/portfolio/portfolio.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_services-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/services/services.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_blogger-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/blogger/blogger.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wpgdprc.css-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/wp-gdpr-compliance/dist/css/front.min.css?ver=1638179737')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/css/__styles.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='swiper-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/js/swiper/swiper.min.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_content-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/content/content.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_content-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/content/content.responsive.css" type='text/css' media='(max-width:1439px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_icons-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/icons/icons.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_icons-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/icons/icons.responsive.css" type='text/css' media='(max-width:1279px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-animations-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/css/trx_addons.animations.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-woocommerce-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-mouse-helper-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/addons/mouse-helper/mouse-helper.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_portfolio-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/portfolio/portfolio.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_services-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/services/services.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_blogger-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/blogger/blogger.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wpgdprc.css-css' href="http://wine.themerex.net/wp-content/plugins/wp-gdpr-compliance/dist/css/front.min.css?ver=1638179737" type='text/css' media='all' />
 
 <!-- Fontella CSS files  -->
 <link property="stylesheet" rel='stylesheet' href="{{ asset('css/fontello-embedded.css') }}" type='text/css' media='all' />
@@ -124,29 +123,29 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style type="text/css" id="trx_addons-inline-styles-inline-css">.trx_addons_inline_1565509867 img.logo_image{max-height:70px;}.trx_addons_inline_929063320{width:388px;}.trx_addons_inline_1988570935 img.logo_image{max-height:70px;}.trx_addons_inline_1107061826 img.logo_image{max-height:70px;}.trx_addons_inline_636734697 img.logo_image{max-height:70px;}.trx_addons_inline_755129442{color: #FFFFFF !important}.wine_house_inline_1789327520{background-image: url(http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-6-890x664.jpg);}.wine_house_inline_618089872{background-image: url(http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-7-890x664.jpg);}.wine_house_inline_756190063{background-image: url(http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-9-890x664.jpg);}.wine_house_inline_1026876101{background-image: url(http://wine.themerex.net/wp-content/uploads/2020/04/image-copyright4-890x664.jpg);}.wine_house_inline_1294774811{background-image: url(http://wine.themerex.net/wp-content/uploads/2021/08/image-copyright-17-890x664.jpg);}.wine_house_inline_1089206462{background-image: url(http://wine.themerex.net/wp-content/uploads/2020/05/image-copyright13-890x664.jpg);}.wine_house_inline_23014323{background-image: url(http://wine.themerex.net/wp-content/uploads/2021/08/image-copyright-1-890x664.jpg);}.trx_addons_inline_902595477 img.logo_image{max-height:70px;}</style>
 <style type="text/css">.trx_demo_inline_1836829757{color:#ffffff !important;border-color:#ffaa5f !important;background-color:#ffaa5f !important;}.trx_demo_inline_560947147:hover{color:#ffffff !important;border-color:#cc884c !important;background-color:#cc884c !important;}</style>
 <link href="https://fonts.googleapis.com/css?family=Roboto:400%7CQuattrocento+Sans:400%7CCormorant+Garamond:500&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
-<link property="stylesheet" rel='stylesheet' id='e-animations-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.8')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='google-fonts-2-css' href="{{asset('https://fonts.googleapis.com/css?family=Quattrocento+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='rs-plugin-settings-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.11')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-style-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/style.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='mediaelement-css' href="{{asset('http://wine.themerex.net/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wp-mediaelement-css' href="{{asset('http://wine.themerex.net/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='e-animations-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.8" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='google-fonts-2-css' href="https://fonts.googleapis.com/css?family=Quattrocento+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='rs-plugin-settings-css' href="http://wine.themerex.net/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.11" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-style-css' href="http://wine.themerex.net/wp-content/themes/wine-house/style.css')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='mediaelement-css' href="http://wine.themerex.net/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wp-mediaelement-css' href="http://wine.themerex.net/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1" type='text/css' media='all' />
 <link property="stylesheet" rel='stylesheet' id='wine-house-extra-skin-default-css' href="{{ asset('css/style.scss') }}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-skin-default-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/style.css')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-skin-default-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/style.css" type='text/css' media='all' />
 <link property="stylesheet" rel='stylesheet' id='wine-house-plugins-css' href="{{ asset('css/__plugin.css') }}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-woocommerce-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/woocommerce/woocommerce.css')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-mailchimp-for-wp-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/mailchimp-for-wp/mailchimp-for-wp.css')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-woocommerce-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/woocommerce/woocommerce.css" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-mailchimp-for-wp-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/mailchimp-for-wp/mailchimp-for-wp.css" type='text/css' media='all' />
 <link property="stylesheet" rel='stylesheet' id='wine-house-custom-css' href="{{ asset('css/custom.css') }}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/css/__responsive.css')}}" type='text/css' media='(max-width:1439px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-woocommerce-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.responsive.css')}}" type='text/css' media='(max-width:767px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-mouse-helper-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/addons/mouse-helper/mouse-helper.responsive.css')}}" type='text/css' media='(max-width:1279px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_portfolio-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/portfolio/portfolio.responsive.css')}}" type='text/css' media='(max-width:1279px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_services-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/services/services.responsive.css')}}" type='text/css' media='(max-width:1439px)' />
-<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_blogger-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/blogger/blogger.responsive.css')}}" type='text/css' media='(max-width:1279px)' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/__responsive.css')}}" type='text/css' media='(max-width:1679px)' />
-<link property="stylesheet" rel='stylesheet' id='wine-house-woocommerce-responsive-css' href="{{asset('http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/woocommerce/woocommerce-responsive.css')}}" type='text/css' media='(max-width:1679px)' />
-<link property="stylesheet" rel='stylesheet' id='google-fonts-1-css' href="{{asset('https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='elementor-icons-shared-0-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3')}}" type='text/css' media='all' />
-<link property="stylesheet" rel='stylesheet' id='elementor-icons-fa-brands-css' href="{{asset('http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3')}}" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/css/__responsive.css')}}" type='text/css' media='(max-width:1439px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-woocommerce-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/api/woocommerce/woocommerce.responsive.css" type='text/css' media='(max-width:767px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-mouse-helper-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/addons/mouse-helper/mouse-helper.responsive.css" type='text/css' media='(max-width:1279px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_portfolio-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/portfolio/portfolio.responsive.css" type='text/css' media='(max-width:1279px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-cpt_services-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/cpt/services/services.responsive.css" type='text/css' media='(max-width:1439px)' />
+<link property="stylesheet" rel='stylesheet' id='trx_addons-sc_blogger-responsive-css' href="http://wine.themerex.net/wp-content/plugins/trx_addons/components/shortcodes/blogger/blogger.responsive.css" type='text/css' media='(max-width:1279px)' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-responsive-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/css/__responsive.css')}}" type='text/css' media='(max-width:1679px)' />
+<link property="stylesheet" rel='stylesheet' id='wine-house-woocommerce-responsive-css' href="http://wine.themerex.net/wp-content/themes/wine-house/skins/default/plugins/woocommerce/woocommerce-responsive.css" type='text/css' media='(max-width:1679px)' />
+<link property="stylesheet" rel='stylesheet' id='google-fonts-1-css' href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='elementor-icons-shared-0-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='elementor-icons-fa-brands-css' href="http://wine.themerex.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" type='text/css' media='all' />
 <script type='text/javascript' src='http://wine.themerex.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='http://wine.themerex.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="http://wine.themerex.net/wp-json/" /><link rel="alternate" type="application/json" href="http://wine.themerex.net/wp-json/wp/v2/pages/5002" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wine.themerex.net/xmlrpc.php?rsd" />
@@ -221,11 +220,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div class="body_wrap" >
 
 		
-		<div class="page_wrap" >
-
-			
-							<a class="wine_house_skip_link skip_to_content_link" href="#content_skip_link_anchor" tabindex="1">Skip to content</a>
-								<a class="wine_house_skip_link skip_to_footer_link" href="#footer_skip_link_anchor" tabindex="1">Skip to footer</a>
+<div class="page_wrap" >
 {{-- Header Starts Here --}}
 <header class="top_panel top_panel_custom top_panel_custom_17569 top_panel_custom_header-simple-custom-wine-house without_bg_image scheme_dark">
 	<div data-elementor-type="cpt_layouts" data-elementor-id="17569" class="elementor elementor-17569" data-elementor-settings="[]">
@@ -264,7 +259,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="elementor-widget-wrap">
 										<div class="sc_layouts_item elementor-element elementor-element-1f8ea22 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="1f8ea22" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
 											<div class="elementor-widget-container">
-												<a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1565509867" ><img class="logo_image" src="{{asset('images/mom-logo-text-white-300x140.png')}}" srcset="{{asset('images/mom-logo-text-white-300x140.png')}} 2x" alt="Wine House" width="165" height="200"></a>		
+												<a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1565509867" ><img class="logo_image" src="{{asset('images/mom-logo-text-white-300x140.png')}}" srcset="{{asset('images/mom-logo-text-white-300x140.png')}} 2x" alt="Magic Of Memories" width="165" height="200"></a>		
 											</div>
 										</div>
 									</div>
@@ -276,10 +271,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="sc_layouts_item elementor-element elementor-element-5daaec8 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="5daaec8" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
 											<div class="elementor-widget-container">
 												<div class="sc_layouts_search">
-    												<div class="search_modern">
+    												{{-- <div class="search_modern">
         												 <!-- <span class="search_submit"></span>  -->
         												<div class="search_wrap scheme_light">
-            												<div class="search_header_wrap"><img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-mini-2x.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark.png 2x" alt="Wine House" width="120" height="51"> <a class="search_close"></a></div>
+            												<div class="search_header_wrap">
+																<img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-mini-2x.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark.png 2x" alt="Wine House" width="120" height="51"> 
+																<a class="search_close"></a>
+															</div>
             												<div class="search_form_wrap">
                 												<form role="search" method="get" class="search_form" action="http://wine.themerex.net/">
                     												<input type="hidden" value="" name="post_types">
@@ -289,7 +287,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             												</div>
         												</div>
         												<div class="search_overlay scheme_light"></div>
-    												</div>
+    												</div> --}}
 												</div>
 												<!-- /.sc_layouts_search -->		
 											</div>
@@ -325,7 +323,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											</div>
 										</div>
 										<div class="sc_layouts_item elementor-element elementor-element-ebd7aa0 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="ebd7aa0" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
-											<div class="elementor-widget-container">
+											{{-- <div class="elementor-widget-container">
 												<div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
 													<span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
 													<span class="sc_layouts_item_details sc_layouts_cart_details">
@@ -343,7 +341,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 														</div>		
 													</div>
 												</div>		
-											</div>
+											</div> --}}
 										</div>
 									</div>
 								</div>
@@ -353,8 +351,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="elementor-widget-wrap">
 										<div class="sc_layouts_item elementor-element elementor-element-c3d8286 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="c3d8286" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
 											<div class="elementor-widget-container">
-												<a href="http://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1107061826" >
-													<img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+												<a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1107061826" >
+													<img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic Of Memories" width="165" height="70">
 												</a>		
 											</div>
 										</div>
@@ -367,7 +365,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="sc_layouts_item elementor-element elementor-element-3b8021f sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="3b8021f" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
 											<div class="elementor-widget-container">
 												<div class="sc_layouts_search">
-    												<div class="search_modern">
+    												{{-- <div class="search_modern">
         												<span class="search_submit"></span>
         												<div class="search_wrap scheme_light">
             												<div class="search_header_wrap">
@@ -383,7 +381,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             												</div>
 	        											</div>
     						    						<div class="search_overlay scheme_light"></div>
-    												</div>
+    												</div> --}}
 												</div>		
 											</div>
 										</div>
@@ -409,8 +407,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="elementor-widget-wrap">
 										<div class="sc_layouts_item elementor-element elementor-element-9c88dfe sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="9c88dfe" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
 											<div class="elementor-widget-container">
-												<a href="http://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_636734697" >
-													<img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+												<a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_636734697" >
+													<img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}}" alt="Magic of Memories" width="165" height="70">
 												</a>		
 											</div>
 										</div>
@@ -422,7 +420,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="elementor-widget-wrap">
 										<div class="sc_layouts_item elementor-element elementor-element-afe7f48 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="afe7f48" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
 											<div class="elementor-widget-container">
-												<div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
+												{{-- <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
 													<span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
 													<span class="sc_layouts_item_details sc_layouts_cart_details">
 														<span class="sc_layouts_item_details_line2 sc_layouts_cart_totals">
@@ -439,13 +437,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 															<div class="widget_shopping_cart_content"></div>
 														</div>		
 													</div>
-												</div>		
+												</div>		 --}}
 											</div>
 										</div>
 										<div class="sc_layouts_item elementor-element elementor-element-8d0c0d4 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="8d0c0d4" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
 											<div class="elementor-widget-container">
 												<div class="sc_layouts_search">
-    												<div class="search_modern">
+    												{{-- <div class="search_modern">
         												<span class="search_submit"></span>
         												<div class="search_wrap scheme_light">
             												<div class="search_header_wrap">
@@ -461,7 +459,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             												</div>
         												</div>
         												<div class="search_overlay scheme_light"></div>
-    												</div>
+    												</div> --}}
 												</div>		
 											</div>
 										</div>
@@ -469,7 +467,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											<div class="elementor-widget-container">
 												<div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
 													<a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
 													</a>
 												</div>								
 											</div>
@@ -492,7 +490,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="menu_mobile menu_mobile_fullscreen scheme_dark">
 	<div class="menu_mobile_inner with_widgets">
         <div class="menu_mobile_header_wrap">
-            <a class="sc_layouts_logo" href="http://wine.themerex.net/">
+            <a class="sc_layouts_logo" href="{{route('index')}}">
 				<img src="{{asset('images/mom-logo-text-white-300x140.png')}}" srcset="{{asset('images/mom-logo-text-white-300x140.png')}} 2x" alt="Wine House" width="165" height="70">	
 			</a>
 			<a class="menu_mobile_close menu_button_close" tabindex="0"><span class="menu_button_close_text">Close</span><span class="menu_button_close_icon"></span></a>
@@ -501,15 +499,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <div class="menu_mobile_content_wrap_inner">
 				<nav class="menu_mobile_nav_area" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 					<ul id="menu_mobile_1960960550">
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17780"><a href="#"><span>Home</span></a>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17780"><a href="{{route('index')}}"><span>Home</span></a>
 						</li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162"><a href="#"><span>About Us</span></a>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162"><a href="{{route('about')}}"><span>About Us</span></a>
 						</li>
-						<li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327"><a href="#"><span>Shop</span></a>
+						<li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327"><a href="{{route('shop')}}"><span>Shop</span></a>
 						</li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17806"><a href="#"><span>FAQs</span></a>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17806"><a href="{{route('faq')}}"><span>FAQs</span></a>
 						</li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465"><a href="http://wine.themerex.net/contact-us/"><span>Contact Us</span></a>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465"><a href="{{route('contact')}}"><span>Contact Us</span></a>
 						</li>
 					</ul>
 				</nav>
@@ -544,15 +542,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<div class="textwidget custom-html-widget">
 							<div class="extra_item">
 								<h6>Have Questions?</h6>
-								<a href="mailto:info@website.com">info@website.com</a>
+								<a href="mgcofmemories@gmail.com">mgcofmemories@gmail.com</a>
 							</div>
 							<div class="extra_item">
-								<h6>Want to Book a Tour?</h6>
-								<a href="http://wine.themerex.net/contact-us/">Contact Us</a>
+								<h6>Want to get in touch?</h6>
+								<a href="{{route('contact')}}">Contact Us</a>
 							</div>
 							<div class="extra_item">
 								<h6>Want to Buy Wine?</h6>
-								<a href="http://wine.themerex.net/shop/">Go to Shop</a>
+								<a href="{{route('shop')}}">Go to Shop</a>
 							</div>
 						</div>
 					</aside>					
@@ -634,7 +632,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											data-frame_1="e:power3.out;st:930;sp:1000;sR:930;"
 											data-frame_999="o:0;st:w;sR:7070;"
 											style="z-index:3;font-family:'Quattrocento Sans';display:inline-block;"
-										>Try our exclusive wine varieties. 
+										>Try our exclusive collection. 
 										</rs-layer><!--
 
 										--><rs-layer
@@ -662,8 +660,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											data-frame_1="e:power3.out;st:1130;sp:1000;sR:1130;"
 											data-frame_999="o:0;st:w;sR:6870;"
 											style="z-index:5;font-family:'Cormorant Garamond';display:inline-block;"
-										>New Luxury Wine<br />
-from Italy 
+										>The joy of<br />
+										wearing love 
 										</rs-layer><!--
 
 										--><rs-layer
@@ -852,7 +850,7 @@ worth holding
 											data-frame_1="e:power3.out;st:940;sp:1000;sR:940;"
 											data-frame_999="o:0;st:w;sR:7060;"
 											style="z-index:3;font-family:'Quattrocento Sans';display:inline-block;"
-										>Enjoy a delicious meal at our restaurant. 
+										>As beautiful as you are 
 										</rs-layer><!--
 
 										--><rs-layer
@@ -880,8 +878,8 @@ worth holding
 											data-frame_1="e:power3.out;st:1160;sp:1000;sR:1160;"
 											data-frame_999="o:0;st:w;sR:6840;"
 											style="z-index:5;font-family:'Cormorant Garamond';display:inline-block;"
-										>Enjoy Our Exclusive<br />
-Dishes & Drinks 
+										>As precious as your<br />
+Loved ones
 										</rs-layer><!--
 
 										--><rs-layer
@@ -945,8 +943,9 @@ Dishes & Drinks
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b7f0808 sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="b7f0808" data-element_type="widget" data-widget_type="trx_sc_title.default">
 				<div class="elementor-widget-container">
-			<div		class="sc_title color_style_link2 sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">craft wine</span><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"
-			><span class="sc_item_title_text">Defined by the Local Traditions, Crafted by the Best Winemakers</span></h1></div>		</div>
+			<div		class="sc_title color_style_link2 sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">crafted jewellery</span><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"
+			><span class="sc_item_title_text">Defined by Your Love, Crafted by the Best, what is “The Magic of Memories” ?
+			</span></h1></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d69bb73 sc_height_small sc_layouts_hide_on_wide sc_layouts_hide_on_desktop sc_layouts_hide_on_notebook sc_layouts_hide_on_tablet sc_fly_static elementor-widget elementor-widget-spacer" data-id="d69bb73" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1028,7 +1027,9 @@ Dishes & Drinks
 				<div class="elementor-element elementor-element-51ba2a89 sc_fly_static elementor-widget elementor-widget-text-editor" data-id="51ba2a89" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We are a small family winery adhering to principles of quality wine making. We firmly believe that the wine we make is capable of competing with world famous brands.</p>					</div>
+				<p>We all have special moments in our lives that pass by so quickly. Why not take a piece of that moment and have it preserved into jewelry? I can do that for you!
+
+					Send me your breastmilk, special occasion flowers, childhood home soil, etc. The possibilities are endless!</p>					</div>
 						</div>
 				</div>
 						</div>
@@ -1039,157 +1040,177 @@ Dishes & Drinks
 		</section>
 		<section class="elementor-section elementor-top-section elementor-element elementor-element-0d3b1c8 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="0d3b1c8" data-element_type="section">
 			<div class="elementor-container elementor-column-gap-extended">
-				<div class="elementor-row">
-		<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d72862f sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="d72862f" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-				<div class="elementor-widget-wrap">
-			<div class="elementor-element elementor-element-18eebad sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="18eebad" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-			</div>
-		</div>
-</div>
+			  <div class="elementor-row">
+				<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d72862f sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="d72862f" data-element_type="column">
+				  <div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+					  <div class="elementor-element elementor-element-18eebad sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="18eebad" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
 					</div>
-		</div>
-</section>
-		<section class="elementor-section elementor-top-section elementor-element elementor-element-87f2832 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="87f2832" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </section>
+		  <section class="elementor-section elementor-top-section elementor-element elementor-element-87f2832 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="87f2832" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-container elementor-column-gap-extended">
-				<div class="elementor-row">
-		<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ede100 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="1ede100" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-				<div class="elementor-widget-wrap">
-			<section class="elementor-section elementor-inner-section elementor-element elementor-element-c328c86 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="c328c86" data-element_type="section">
-			<div class="elementor-container elementor-column-gap-no">
-				<div class="elementor-row">
-		<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9b34635 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="9b34635" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-				<div class="elementor-widget-wrap">
-			<div class="elementor-element elementor-element-0abe7cd no-title sc_fly_static elementor-widget elementor-widget-image" data-id="0abe7cd" data-element_type="widget" data-widget_type="image.default">
-	<div class="elementor-widget-container">
-					<div class="elementor-image">
-									<img decoding="async" width="440" height="586" src="{{asset('images/home-about-2.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{asset('images/home-about-2.jpg')}} 440w, {{asset('images/home-about-2.jpg')}} 225w, {{asset('images/home-about-2.jpg')}} 370w, {{asset('images/home-about-2.jpg')}} 410w" sizes="(max-width: 600px) 100vw, 440px">														</div>
-			</div>
-	</div>
-	<div class="elementor-element elementor-element-d5f0944 sc_height_large sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer" data-id="d5f0944" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-			</div>
-		</div>
-</div>
-	<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3de9ec7 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="3de9ec7" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-				<div class="elementor-widget-wrap">
-			<div class="elementor-element elementor-element-c682850 no-title sc_fly_static elementor-widget elementor-widget-image" data-id="c682850" data-element_type="widget" data-widget_type="image.default">
-	<div class="elementor-widget-container">
-					<div class="elementor-image">
-									<img decoding="async" width="410" height="450" src="{{asset('images/home-about-1.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{asset('images/home-about-1.jpg')}} 410w, {{asset('images/home-about-1.jpg')}} 273w, {{asset('images/home-about-1.jpg')}} 370w" sizes="(max-width: 600px) 100vw, 410px">														</div>
-			</div>
-	</div>
-	<div data-parallax-params="{&quot;x&quot;:0,&quot;x_unit&quot;:&quot;px&quot;,&quot;y&quot;:0,&quot;y_unit&quot;:&quot;px&quot;,&quot;scale&quot;:0,&quot;rotate&quot;:0,&quot;opacity&quot;:0,&quot;duration&quot;:1,&quot;squeeze&quot;:1,&quot;amplitude&quot;:50,&quot;offset&quot;:0,&quot;text&quot;:&quot;block&quot;,&quot;mouse&quot;:1,&quot;mouse_type&quot;:&quot;transform&quot;,&quot;mouse_tilt_amount&quot;:70,&quot;mouse_speed&quot;:5,&quot;mouse_z&quot;:&quot;&quot;,&quot;mouse_handler&quot;:&quot;window&quot;,&quot;ease&quot;:&quot;power2&quot;}" class="elementor-element elementor-element-bfe8063 no-title elementor-widget__width-initial elementor-absolute sc_parallax sc_parallax_mouse sc_parallax_type_transform elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial sc_fly_static sc_parallax_end elementor-widget elementor-widget-image" data-id="bfe8063" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default" style="translate: none; rotate: none; scale: none; transform: translate3d(-1.0462px, 0.2483px, 0px);">
-	<div class="elementor-widget-container">
-					<div class="elementor-image">
-									<img decoding="async" width="232" height="330" src="{{ asset('images/mom-son-illustration1.png')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{ asset('images/mom-son-illustration1.png')}} 232w, {{ asset('images/mom-son-illustration1.png')}}" sizes="(max-width: 232px) 100vw, 232px">														</div>
-			</div>
-	</div>
-			</div>
-		</div>
-</div>
-					</div>
-		</div>
-</section>
-			</div>
-		</div>
-</div>
-	<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7558368 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="7558368" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-				<div class="elementor-widget-wrap">
-			<div class="elementor-element elementor-element-d13e426 sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="d13e426" data-element_type="widget" data-widget_type="trx_sc_title.default">
-	<div class="elementor-widget-container">
-<div class="sc_title color_style_link2 sc_title_default"><span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">our shop</span><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"><span class="sc_item_title_text">We Create Jewllery which holds memories</span></h1></div>		</div>
-	</div>
-	<div class="elementor-element elementor-element-b60336a sc_fly_static elementor-widget elementor-widget-spacer" data-id="b60336a" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-	<div class="elementor-element elementor-element-94d0ce5 sc_fly_static elementor-widget elementor-widget-text-editor" data-id="94d0ce5" data-element_type="widget" data-widget_type="text-editor.default">
-	<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">
-	<p>Dicta sunt exlicabo. Nemo enim voluptatem quia voluptates sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>					</div>
-			</div>
-	</div>
-	<div class="elementor-element elementor-element-a952f3a sc_fly_static elementor-widget elementor-widget-spacer" data-id="a952f3a" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-	<div class="elementor-element elementor-element-4faef4c sc_fly_static elementor-widget elementor-widget-text-editor" data-id="4faef4c" data-element_type="widget" data-widget_type="text-editor.default">
-	<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">
-	<p>Mon-Fri: 9 AM – 22 PM<br>Saturday: 9 AM – 20 PM</p>					</div>
-			</div>
-	</div>
-	<div class="elementor-element elementor-element-73e1e80 sc_fly_static elementor-widget elementor-widget-spacer" data-id="73e1e80" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-	<div class="elementor-element elementor-element-8471efa sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="8471efa" data-element_type="widget" data-widget_type="trx_sc_button.default">
-	<div class="elementor-widget-container">
-<div class="sc_item_button sc_button_wrap"><a href="{{route('about')}}" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">About Us</span></span></a></div>		</div>
-	</div>
-	<div class="elementor-element elementor-element-0a21817 sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer" data-id="0a21817" data-element_type="widget" data-widget_type="spacer.default">
-	<div class="elementor-widget-container">
-		<div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-	</div>
-	</div>
-			</div>
-		</div>
-</div>
-					</div>
-		</div>
-</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b153b8e elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="b153b8e" data-element_type="section">
+			  <div class="elementor-row">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ede100 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="1ede100" data-element_type="column">
+				  <div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+					  <section class="elementor-section elementor-inner-section elementor-element elementor-element-c328c86 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="c328c86" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b65b36e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="b65b36e" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div data-parallax-params="{&quot;x&quot;:0,&quot;x_unit&quot;:&quot;px&quot;,&quot;y&quot;:0,&quot;y_unit&quot;:&quot;px&quot;,&quot;scale&quot;:0,&quot;rotate&quot;:0,&quot;opacity&quot;:0,&quot;duration&quot;:1,&quot;squeeze&quot;:1,&quot;amplitude&quot;:40,&quot;offset&quot;:0,&quot;text&quot;:&quot;block&quot;,&quot;mouse&quot;:1,&quot;mouse_type&quot;:&quot;transform&quot;,&quot;mouse_tilt_amount&quot;:70,&quot;mouse_speed&quot;:5,&quot;mouse_z&quot;:&quot;&quot;,&quot;mouse_handler&quot;:&quot;window&quot;,&quot;ease&quot;:&quot;power2&quot;}" class="elementor-element elementor-element-91270b1 elementor-widget__width-initial elementor-absolute sc_parallax sc_parallax_mouse sc_parallax_type_transform elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial sc_fly_static sc_parallax_end elementor-widget elementor-widget-image" data-id="91270b1" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img decoding="async" width="351" height="501" src="{{ asset('images/mom-son-illustration1.png')}}" class="attachment-full size-full" alt="" srcset="{{ asset('images/mom-son-illustration1.png')}} 351w, {{ asset('images/mom-son-illustration1.png')}} 210w" sizes="(max-width: 600px) 100vw, 351px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6c7bcb4 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="6c7bcb4" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
+						  <div class="elementor-row">
+							<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9b34635 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="9b34635" data-element_type="column">
+							  <div class="elementor-column-wrap elementor-element-populated">
+								<div class="elementor-widget-wrap">
+								  <div class="elementor-element elementor-element-0abe7cd no-title sc_fly_static elementor-widget elementor-widget-image" data-id="0abe7cd" data-element_type="widget" data-widget_type="image.default">
+									<div class="elementor-widget-container">
+									  <div class="elementor-image">
+										<img decoding="async" width="440" height="586" src="{{asset('images/home-about-2.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{asset('images/home-about-2.jpg')}} 440w, {{asset('images/home-about-2.jpg')}} 225w, {{asset('images/home-about-2.jpg')}} 370w, {{asset('images/home-about-2.jpg')}} 410w" sizes="(max-width: 600px) 100vw, 440px">
+									  </div>
+									</div>
+								  </div>
+								  <div class="elementor-element elementor-element-d5f0944 sc_height_large sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer" data-id="d5f0944" data-element_type="widget" data-widget_type="spacer.default">
+									<div class="elementor-widget-container">
+									  <div class="elementor-spacer">
+										<div class="elementor-spacer-inner"></div>
+									  </div>
+									</div>
+								  </div>
 								</div>
+							  </div>
+							</div>
+							<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3de9ec7 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="3de9ec7" data-element_type="column">
+							  <div class="elementor-column-wrap elementor-element-populated">
+								<div class="elementor-widget-wrap">
+								  <div class="elementor-element elementor-element-c682850 no-title sc_fly_static elementor-widget elementor-widget-image" data-id="c682850" data-element_type="widget" data-widget_type="image.default">
+									<div class="elementor-widget-container">
+									  <div class="elementor-image">
+										<img style="margin-top: 100px " decoding="async" width="410" height="450" src="{{asset('images/home-about-1.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{asset('images/home-about-1.jpg')}} 410w, {{asset('images/home-about-1.jpg')}} 273w, {{asset('images/home-about-1.jpg')}} 370w" sizes="(max-width: 600px) 100vw, 410px">
+									  </div>
+									</div>
+								  </div>
+								  <div data-parallax-params="{&quot;x&quot;:0,&quot;x_unit&quot;:&quot;px&quot;,&quot;y&quot;:0,&quot;y_unit&quot;:&quot;px&quot;,&quot;scale&quot;:0,&quot;rotate&quot;:0,&quot;opacity&quot;:0,&quot;duration&quot;:1,&quot;squeeze&quot;:1,&quot;amplitude&quot;:50,&quot;offset&quot;:0,&quot;text&quot;:&quot;block&quot;,&quot;mouse&quot;:1,&quot;mouse_type&quot;:&quot;transform&quot;,&quot;mouse_tilt_amount&quot;:70,&quot;mouse_speed&quot;:5,&quot;mouse_z&quot;:&quot;&quot;,&quot;mouse_handler&quot;:&quot;window&quot;,&quot;ease&quot;:&quot;power2&quot;}" class="elementor-element elementor-element-bfe8063 no-title elementor-widget__width-initial elementor-absolute sc_parallax sc_parallax_mouse sc_parallax_type_transform elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial sc_fly_static sc_parallax_end elementor-widget elementor-widget-image" data-id="bfe8063" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default" style="translate: none; rotate: none; scale: none; transform: translate3d(-1.0462px, 0.2483px, 0px);">
+									<div class="elementor-widget-container">
+									  <div class="elementor-image">
+										<img decoding="async" width="232" height="330" src="{{ asset('images/mom-son-illustration1.png')}}" class="attachment-full size-full" alt="" loading="lazy" srcset="{{ asset('images/mom-son-illustration1.png')}} 232w, {{ asset('images/mom-son-illustration1.png')}}" sizes="(max-width: 232px) 100vw, 232px">
+									  </div>
+									</div>
+								  </div>
+								</div>
+							  </div>
+							</div>
+						  </div>
+						</div>
+					  </section>
 					</div>
-		</section>
+				  </div>
+				</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7558368 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="7558368" data-element_type="column">
+				  <div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+					  <div class="elementor-element elementor-element-d13e426 sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="d13e426" data-element_type="widget" data-widget_type="trx_sc_title.default">
+						<div class="elementor-widget-container">
+						  <div class="sc_title color_style_link2 sc_title_default">
+							<span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">our shop</span>
+							<h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+							  <span class="sc_item_title_text">We Create Jewllery which holds memories</span>
+							</h1>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-b60336a sc_fly_static elementor-widget elementor-widget-spacer" data-id="b60336a" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-94d0ce5 sc_fly_static elementor-widget elementor-widget-text-editor" data-id="94d0ce5" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-text-editor elementor-clearfix">
+							<p>
+								All of our products are custom made. For each product I will use the inclusion that you give me and turn it into the product you were looking for. As every piece is handmade, you will receive a truly unique and one of a kind piece of art.</p>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-a952f3a sc_fly_static elementor-widget elementor-widget-spacer" data-id="a952f3a" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-4faef4c sc_fly_static elementor-widget elementor-widget-text-editor" data-id="4faef4c" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-widget-container">
+							{{-- <div class="elementor-text-editor elementor-clearfix">
+								<p>Mon-Fri: 9 AM – 22 PM <br>Saturday: 9 AM – 20 PM </p>
+							</div> --}}
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-73e1e80 sc_fly_static elementor-widget elementor-widget-spacer" data-id="73e1e80" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-8471efa sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="8471efa" data-element_type="widget" data-widget_type="trx_sc_button.default">
+						<div class="elementor-widget-container">
+						  <div class="sc_item_button sc_button_wrap">
+							<a href="{{route('about')}}" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left">
+							  <span class="sc_button_text">
+								<span class="sc_button_title">About Us</span>
+							  </span>
+							</a>
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-0a21817 sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer" data-id="0a21817" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </section>
+		  <section class="elementor-section elementor-top-section elementor-element elementor-element-b153b8e elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="b153b8e" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-no">
+			  <div class="elementor-row">
+				<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b65b36e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="b65b36e" data-element_type="column">
+				  <div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+					  <div data-parallax-params="{&quot;x&quot;:0,&quot;x_unit&quot;:&quot;px&quot;,&quot;y&quot;:0,&quot;y_unit&quot;:&quot;px&quot;,&quot;scale&quot;:0,&quot;rotate&quot;:0,&quot;opacity&quot;:0,&quot;duration&quot;:1,&quot;squeeze&quot;:1,&quot;amplitude&quot;:40,&quot;offset&quot;:0,&quot;text&quot;:&quot;block&quot;,&quot;mouse&quot;:1,&quot;mouse_type&quot;:&quot;transform&quot;,&quot;mouse_tilt_amount&quot;:70,&quot;mouse_speed&quot;:5,&quot;mouse_z&quot;:&quot;&quot;,&quot;mouse_handler&quot;:&quot;window&quot;,&quot;ease&quot;:&quot;power2&quot;}" class="elementor-element elementor-element-91270b1 elementor-widget__width-initial elementor-absolute sc_parallax sc_parallax_mouse sc_parallax_type_transform elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial sc_fly_static sc_parallax_end elementor-widget elementor-widget-image" data-id="91270b1" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-image">
+							<img decoding="async" width="351" height="501" src="{{ asset('images/mom-son-illustration1.png')}}" class="attachment-full size-full" alt="" srcset="{{ asset('images/mom-son-illustration1.png')}} 351w, {{ asset('images/mom-son-illustration1.png')}} 210w" sizes="(max-width: 600px) 100vw, 351px" />
+						  </div>
+						</div>
+					  </div>
+					  <div class="elementor-element elementor-element-6c7bcb4 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="6c7bcb4" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-widget-container">
+						  <div class="elementor-spacer">
+							<div class="elementor-spacer-inner"></div>
+						  </div>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </section>
 
 
 {{-- Products Display Section starts --}}
@@ -1233,11 +1254,11 @@ Dishes & Drinks
 												<li class="product type-product post-{{$product['id']}} status-publish first instock product_cat-white-wine product_tag-white-wine has-post-thumbnail shipping-taxable purchasable product-type-simple product_style_info">
 													<div class="post_item post_layout_thumbs">
 														<div class="post_featured hover_shop">
-															<a href="http://wine.themerex.net/product/prosecco-spumante/">
+															<a href="">
 															<img width="480" height="480" src="{{asset($product['imageUrl'])}}" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="{{asset($product['imageUrl'])}} 480w, {{asset($product['imageUrl'])}} 300w, {{asset($product['imageUrl'])}} 1024w, {{asset($product['imageUrl'])}} 150w, {{asset($product['imageUrl'])}} 768w, {{asset($product['imageUrl'])}} 370w, {{asset($product['imageUrl'])}} 120w, {{asset($product['imageUrl'])}} 840w, {{asset($product['imageUrl'])}} 410w, {{asset($product['imageUrl'])}} 600w, {{asset($product['imageUrl'])}} 1200w" sizes="(max-width: 600px) 100vw, 480px" />				
 															</a>
 															<div class="mask"></div>
-															<div class="icons">
+															{{-- <div class="icons">
 																<div class="tinv-wraper woocommerce tinv-wishlist tinvwl-shortcode-add-to-cart tinvwl-loop-button-wrapper" data-product_id="{{$product['id']}}">
 																	<div class="tinv-wishlist-clear"></div>
 																	<a role="button" tabindex="0" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-shortcode tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="{{$product['id']}}" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">
@@ -1253,7 +1274,7 @@ Dishes & Drinks
 																<a href="http://wine.themerex.net/product/prosecco-spumante/" aria-hidden="true" class="shop_link">
 																	<span class="icon-anim"></span>
 																</a>
-															</div>
+															</div> --}}
 														</div>
 														<div class="post_data">
 															<div class="post_data_inner">
@@ -1262,7 +1283,7 @@ Dishes & Drinks
 																		<a href="" rel="tag">{{$product['type']}}</a>
 																	</div>
 																	<h2 class="woocommerce-loop-product__title">
-																		<a href="http://wine.themerex.net/product/prosecco-spumante/">{{$product['name']}}</a>
+																		<a href="#">{{$product['name']}}</a>
 																	</h2>				
 																</div>
 																<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>{{$product['price']}}</bdi></span></span>
@@ -1405,8 +1426,8 @@ Dishes & Drinks
 				</div>
 				<div class="elementor-element elementor-element-6c8528a sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="6c8528a" data-element_type="widget" data-widget_type="trx_sc_title.default">
 				<div class="elementor-widget-container">
-			<div		class="sc_title sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_subtitle_above sc_item_title_style_default">winery tours</span><h1 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag sc_typed"
-			><span class="sc_item_title_text">Selected Wine Varieties, Local Food and Special <span class="sc_typed_entry trx_addons_inline_755129442" data-strings="[&quot;Events&quot;,&quot;Tours&quot;,&quot;Parties&quot;]" data-loop="1" data-cursor="1" data-cursor-char="_" data-speed="2" data-delay="2">Events</span></span></h1></div>		</div>
+			<div		class="sc_title sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_subtitle_above sc_item_title_style_default">Magic of Memories</span><h1 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag sc_typed"
+			><span class="sc_item_title_text">High-quality breastmilk jewellery, crafted <span class="sc_typed_entry trx_addons_inline_755129442" data-strings="[&quot;by hand&quot;,&quot;with love&quot;,&quot;for you&quot;]" data-loop="1" data-cursor="1" data-cursor-char="_" data-speed="2" data-delay="2">with love</span></span></h1></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-2c0a3ee sc_fly_static elementor-widget elementor-widget-spacer" data-id="2c0a3ee" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1418,7 +1439,7 @@ Dishes & Drinks
 				<div class="elementor-element elementor-element-ca6fbde sc_fly_static elementor-widget elementor-widget-text-editor" data-id="ca6fbde" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Experience wine and food in a whole new way.</p>					</div>
+				<p>Experience keepsakes in a whole new way.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0ad444a sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="0ad444a" data-element_type="widget" data-widget_type="spacer.default">
@@ -1466,145 +1487,6 @@ Dishes & Drinks
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-20ab9ce6 scheme_default elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="20ab9ce6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-733d1192 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="733d1192" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-4d28e40d elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="4d28e40d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-38f3096c sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="38f3096c" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7b98a964 sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="7b98a964" data-element_type="widget" data-widget_type="trx_sc_title.default">
-				<div class="elementor-widget-container">
-			<div		class="sc_title color_style_link2 sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">Explore our photos</span><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"
-			><span class="sc_item_title_text">Our Portfolio</span></h1></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4aefd175 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="4aefd175" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-23dccf1c sc_fly_static elementor-widget elementor-widget-spacer" data-id="23dccf1c" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-188293a sc_fly_static elementor-widget elementor-widget-text-editor" data-id="188293a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				For the wine to gain its premium quality, we use only the best estate grown grapes harvested manually. We offer more than 100 different wines, 30% of which are unique wines selected for you.					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7d03de5b sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="7d03de5b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-8fafaf8 sc_fly_static elementor-widget elementor-widget-spacer" data-id="8fafaf8" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-674458b4 sc_fly_static elementor-widget elementor-widget-trx_sc_slider_controls" data-id="674458b4" data-element_type="widget" data-widget_type="trx_sc_slider_controls.default">
-				<div class="elementor-widget-container">
-			<div class="sc_slider_controls sc_slider_controls_alter slider_pagination_style_none sc_align_right" data-slider-id="port_slider_1" data-style="alter" data-pagination-style="none"><div class="slider_controls_wrap with_prev with_next"><a class="slider_prev" href="#"></a><a class="slider_next" href="#"></a></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-6135e9f7 sc_fly_static elementor-widget elementor-widget-spacer" data-id="6135e9f7" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5f320d4d elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="5f320d4d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7339d6fb sc_extra_bg_extra_left sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="7339d6fb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5620302d  slider_width_auto sc_fly_static elementor-widget elementor-widget-trx_sc_portfolio" data-id="5620302d" data-element_type="widget" id="port_slider_1" data-widget_type="trx_sc_portfolio.default">
-				<div class="elementor-widget-container">
-			<div  id="port_slider_1_sc"		class="sc_portfolio sc_portfolio_extra"><div id="port_slider_1_sc_outer"  class="sc_portfolio_slider sc_item_slider slider_swiper_outer slider_outer slider_outer_nocontrols slider_outer_nopagination slider_outer_nocentered slider_outer_overflow_visible slider_outer_multi">
-	<div id="port_slider_1_sc_swiper"  class="slider_container swiper-slider-container slider_swiper slider_noresize slider_nocontrols slider_nopagination slider_nocentered slider_overflow_visible slider_multi" data-slides-per-view="2" data-slides-space="30" data-effect="slide" data-slides-min-width="220" data-pagination="bullets" data-direction="horizontal" data-mouse-wheel="0" data-autoplay="0" data-loop="1" data-free-mode="0" data-slides-centered="0" data-slides-overflow="1">
-		<div class="slides slider-wrapper swiper-wrapper sc_item_columns_2"><div class="slider-slide swiper-slide"><div data-post-id="2761" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1920"
-	data-src="http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-6.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_1789327520"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/wine-tasting/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/wine-tasting/">Wine Tasting</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2759" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1280"
-	data-src="http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-7.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_618089872"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/the-secrets-of-winemaking/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/the-secrets-of-winemaking/">The Secrets of Winemaking</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2757" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1920"
-	data-src="http://wine.themerex.net/wp-content/uploads/2020/05/portfolio-9.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_756190063"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/investments-in-wine/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/investments-in-wine/">Investments in Wine</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2756" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1280"
-	data-src="http://wine.themerex.net/wp-content/uploads/2020/04/image-copyright4.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_1026876101"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/what-to-plant/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/what-to-plant/">What to Plant</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2739" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1280"
-	data-src="http://wine.themerex.net/wp-content/uploads/2021/08/image-copyright-17.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_1294774811"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/health-effects-of-wine/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/health-effects-of-wine/">Health Effects of Wine</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2737" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1280"
-	data-src="http://wine.themerex.net/wp-content/uploads/2020/05/image-copyright13.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_1089206462"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/winemaking-regions/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/winemaking-regions/">Winemaking Regions</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div><div class="slider-slide swiper-slide"><div data-post-id="2735" class="sc_portfolio_item sc_item_container post_container"
-		data-size="1920x1280"
-	data-src="http://wine.themerex.net/wp-content/uploads/2021/08/image-copyright-1.jpg"
-	>
-	<div class="post_featured with_thumb hover_info sc_portfolio_item_thumb post_featured_bg"><span class="post_thumb post_thumb_bg bg_in wine_house_inline_23014323"></span>						<div class="mask"></div>
-						<a href="http://wine.themerex.net/portfolio/choosing-wine/"></a><div class="post_info"><h5 class="post_title"><a href="http://wine.themerex.net/portfolio/choosing-wine/">Choosing Wine</a></h5><div class="post_meta"><span class="post_meta_item post_categories cat_sep"><a href="http://wine.themerex.net/portfolio_group/winemaking/" title="View all posts in Winemaking">Winemaking</a></span></div></div></div>	
-</div></div></div></div></div></div><!-- /.sc_portfolio -->		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-a03714b sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="a03714b" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
 		<section class="elementor-section elementor-top-section elementor-element elementor-element-936bd1f scheme_default elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="936bd1f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-extended">
 							<div class="elementor-row">
@@ -1618,11 +1500,11 @@ Dishes & Drinks
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-948504c sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="948504c" data-element_type="widget" data-widget_type="trx_sc_title.default">
+				{{-- <div class="elementor-element elementor-element-948504c sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="948504c" data-element_type="widget" data-widget_type="trx_sc_title.default">
 				<div class="elementor-widget-container">
 			<div		class="sc_title color_style_link2 sc_title_default" ><span class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_subtitle_above sc_item_title_style_default">WHO WE ARE</span><h1 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag"
 			><span class="sc_item_title_text">We are a New Organic Winery <br>Preserving Traditions</span></h1></div>		</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-b7c6efb sc_height_small sc_fly_static elementor-widget elementor-widget-spacer" data-id="b7c6efb" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
@@ -1630,7 +1512,7 @@ Dishes & Drinks
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-5d9dc53 sc_fly_static elementor-widget elementor-widget-trx_sc_services" data-id="5d9dc53" data-element_type="widget" data-widget_type="trx_sc_services.default">
+				{{-- <div class="elementor-element elementor-element-5d9dc53 sc_fly_static elementor-widget elementor-widget-trx_sc_services" data-id="5d9dc53" data-element_type="widget" data-widget_type="trx_sc_services.default">
 				<div class="elementor-widget-container">
 			<div class="sc_services sc_services_default sc_services_featured_top"><div class="sc_services_columns_wrap sc_item_columns sc_item_posts_container sc_item_columns_3 trx_addons_columns_wrap columns_padding_bottom columns_in_single_row"><div class="trx_addons_column-1_3"><div data-post-id="752" class="sc_services_item sc_item_container post_container with_content with_image sc_services_item_featured_top post-752 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-our-wines" data-item-number="1"
 >
@@ -1681,7 +1563,7 @@ Dishes & Drinks
             </div></div>
 </div>
 </div></div></div>		</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-c07ffdb sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="c07ffdb" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
@@ -1707,7 +1589,7 @@ Dishes & Drinks
 				<div class="elementor-element elementor-element-4a03b434 sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="4a03b434" data-element_type="widget" data-widget_type="trx_sc_title.default">
 				<div class="elementor-widget-container">
 			<div		class="sc_title sc_title_default" ><h3 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag"
-			><span class="sc_item_title_text">Get the Best Blog Stories <br>Into Your Inbox!</span></h3></div>		</div>
+			><span class="sc_item_title_text">Get the Best offers <br>Into Your Inbox!</span></h3></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-846750f sc_fly_static elementor-widget elementor-widget-spacer" data-id="846750f" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -2151,7 +2033,7 @@ Dishes & Drinks
 			</div>
 		</div>
 		<a href="#" class="sc_layouts_panel_close trx_addons_button_close">
-			<span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span>
+			<span class="sc_layouts_panel_close_icon trx_addons_button_close_icon">Close</span>
 		</a>
 	</div>
 </div>

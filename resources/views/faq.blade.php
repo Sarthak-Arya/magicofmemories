@@ -98,9 +98,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         
 </style>
 
-<style id="elementor-post-4614">.elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-610d030b:not(.elementor-motion-effects-element-type-background), .elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://wine.themerex.net/wp-content/uploads/2020/06/background-header.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-background-overlay{background-color:#1A1A1A;opacity:0.55;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4614 .elementor-element.elementor-element-610d030b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-4614 .elementor-element.elementor-element-3061cd6b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-3061cd6b{padding:21px 30px 11px 30px;}.elementor-4614 .elementor-element.elementor-element-64c83016 > .elementor-widget-container{margin:0px 0px 0px -10px;}.elementor-4614 .elementor-element.elementor-element-7e72548 .logo_image{max-height:70px;}.elementor-4614 .elementor-element.elementor-element-7e72548 > .elementor-widget-container{margin:2px 0px 0px 0px;}.elementor-4614 .elementor-element.elementor-element-57d98f2d > .elementor-widget-container{margin:0px 0px 0px 8px;}.elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-2e04bb8 > .elementor-widget-container{margin:0px 0px -6px 8px;}.elementor-4614 .elementor-element.elementor-element-975e602 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-975e602{padding:20px 0px 12px 0px;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-7d9d697 .logo_image{max-height:70px;}.elementor-4614 .elementor-element.elementor-element-7d9d697 > .elementor-widget-container{margin:0px 0px -1px 0px;}.elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-a7a81c6 > .elementor-widget-container{margin:0px 0px -6px 5px;}.elementor-4614 .elementor-element.elementor-element-74fad2a > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:20px 0px 20px 0px;}.elementor-4614 .elementor-element.elementor-element-15dd83f .logo_image{max-height:70px;}.elementor-4614 .elementor-element.elementor-element-15dd83f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:65px;}.elementor-4614 .elementor-element.elementor-element-1b0f2d96 .elementor-spacer-inner{height:24px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:34px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-stacked .elementor-icon{background-color:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-framed .elementor-icon, .elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-default .elementor-icon{color:#FFFFFF;border-color:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-framed .elementor-icon, .elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-default .elementor-icon svg{fill:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:15px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-564c84ff > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:100px;}.elementor-4614 .elementor-element.elementor-element-fbd3aeb .elementor-spacer-inner{height:20px;}.elementor-4614 .elementor-element.elementor-element-ec1785b .elementor-spacer-inner{height:20px;}@media(min-width:768px){.elementor-4614 .elementor-element.elementor-element-601f8e2a{width:40%;}.elementor-4614 .elementor-element.elementor-element-02a5b71{width:19.664%;}.elementor-4614 .elementor-element.elementor-element-651946c3{width:40%;}}@media(max-width:1024px){.elementor-4614 .elementor-element.elementor-element-975e602{padding:15px 0px 10px 0px;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:20px 0px 20px 0px;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:28px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:18px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:14px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:72px;}}@media(max-width:767px){.elementor-4614 .elementor-element.elementor-element-d742100{width:50%;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-d7f51d2{width:50%;}.elementor-4614 .elementor-element.elementor-element-c45ea74{width:50%;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:9px 0px 12px 0px;}.elementor-4614 .elementor-element.elementor-element-f9b5daf{width:50%;}.elementor-4614 .elementor-element.elementor-element-9cb15cd{width:50%;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:15px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:10px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:12px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:48px;}}</style>
+<style id="elementor-post-4614">.elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-610d030b:not(.elementor-motion-effects-element-type-background), .elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("{{asset('images/page-bg-1.jpg')}}");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-4614 .elementor-element.elementor-element-610d030b > .elementor-background-overlay{background-color:#1A1A1A;opacity:0.55;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4614 .elementor-element.elementor-element-610d030b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-4614 .elementor-element.elementor-element-3061cd6b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-3061cd6b{padding:21px 30px 11px 30px;}.elementor-4614 .elementor-element.elementor-element-64c83016 > .elementor-widget-container{margin:0px 0px 0px -10px;}.elementor-4614 .elementor-element.elementor-element-7e72548 .logo_image{max-height:100px;}.elementor-4614 .elementor-element.elementor-element-7e72548 > .elementor-widget-container{margin:2px 0px 0px 0px;}.elementor-4614 .elementor-element.elementor-element-57d98f2d > .elementor-widget-container{margin:0px 0px 0px 8px;}.elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-2e04bb8 .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-2e04bb8 > .elementor-widget-container{margin:0px 0px -6px 8px;}.elementor-4614 .elementor-element.elementor-element-975e602 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-975e602{padding:20px 0px 12px 0px;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-7d9d697 .logo_image{max-height:70px;}.elementor-4614 .elementor-element.elementor-element-7d9d697 > .elementor-widget-container{margin:0px 0px -1px 0px;}.elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-a7a81c6 .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-a7a81c6 > .elementor-widget-container{margin:0px 0px -6px 5px;}.elementor-4614 .elementor-element.elementor-element-74fad2a > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:20px 0px 20px 0px;}.elementor-4614 .elementor-element.elementor-element-15dd83f .logo_image{max-height:70px;}.elementor-4614 .elementor-element.elementor-element-15dd83f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:65px;}.elementor-4614 .elementor-element.elementor-element-1b0f2d96 .elementor-spacer-inner{height:24px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:34px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon-wrapper{text-align:center;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-stacked .elementor-icon{background-color:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-framed .elementor-icon, .elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-default .elementor-icon{color:#FFFFFF;border-color:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-framed .elementor-icon, .elementor-4614 .elementor-element.elementor-element-564c84ff.elementor-view-default .elementor-icon svg{fill:#FFFFFF;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:15px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon i, .elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon svg{transform:rotate(0deg);}.elementor-4614 .elementor-element.elementor-element-564c84ff > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:100px;}.elementor-4614 .elementor-element.elementor-element-fbd3aeb .elementor-spacer-inner{height:20px;}.elementor-4614 .elementor-element.elementor-element-ec1785b .elementor-spacer-inner{height:20px;}@media(min-width:768px){.elementor-4614 .elementor-element.elementor-element-601f8e2a{width:40%;}.elementor-4614 .elementor-element.elementor-element-02a5b71{width:19.664%;}.elementor-4614 .elementor-element.elementor-element-651946c3{width:40%;}}@media(max-width:1024px){.elementor-4614 .elementor-element.elementor-element-975e602{padding:15px 0px 10px 0px;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:20px 0px 20px 0px;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -2px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:28px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:18px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:14px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:72px;}}@media(max-width:767px){.elementor-4614 .elementor-element.elementor-element-d742100{width:50%;}.elementor-4614 .elementor-element.elementor-element-f71a0f3 > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-d7f51d2{width:50%;}.elementor-4614 .elementor-element.elementor-element-c45ea74{width:50%;}.elementor-4614 .elementor-element.elementor-element-74fad2a{padding:9px 0px 12px 0px;}.elementor-4614 .elementor-element.elementor-element-f9b5daf{width:50%;}.elementor-4614 .elementor-element.elementor-element-9cb15cd{width:50%;}.elementor-4614 .elementor-element.elementor-element-3c4040f > .elementor-widget-container{margin:0px 0px -4px 0px;}.elementor-4614 .elementor-element.elementor-element-51696f30 .elementor-spacer-inner{height:15px;}.elementor-4614 .elementor-element.elementor-element-34cae5e4 .elementor-spacer-inner{height:10px;}.elementor-4614 .elementor-element.elementor-element-564c84ff .elementor-icon{font-size:12px;}.elementor-4614 .elementor-element.elementor-element-1d66f4e5 .elementor-spacer-inner{height:48px;}}</style>
 <style id="elementor-post-4105">.elementor-4105 .elementor-element.elementor-element-abb689a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-abb689a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-d0276bd .elementor-spacer-inner{height:70px;}.elementor-4105 .elementor-element.elementor-element-62e21dc .logo_image{max-height:210px;}.elementor-4105 .elementor-element.elementor-element-b6e22fd{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-b6e22fd > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-2537961 .elementor-spacer-inner{height:30px;}.elementor-4105 .elementor-element.elementor-element-c8bd3f7 .elementor-spacer-inner{height:22px;}.elementor-4105 .elementor-element.elementor-element-2a929eb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-4105 .elementor-element.elementor-element-2a929eb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:70px;}.elementor-4105 .elementor-element.elementor-element-a0abb67{--divider-border-style:solid;--divider-border-width:1px;}.elementor-4105 .elementor-element.elementor-element-a0abb67 .elementor-divider-separator{width:100%;}.elementor-4105 .elementor-element.elementor-element-a0abb67 .elementor-divider{padding-top:2px;padding-bottom:2px;}.elementor-4105 .elementor-element.elementor-element-ca971ac .elementor-spacer-inner{height:16px;}.elementor-4105 .elementor-element.elementor-element-652571e{font-size:16px;font-weight:400;}.elementor-4105 .elementor-element.elementor-element-7b9eeca .elementor-spacer-inner{height:20px;}@media(max-width:1024px){.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:65px;}}@media(max-width:767px){.elementor-4105 .elementor-element.elementor-element-2537961 .elementor-spacer-inner{height:20px;}.elementor-4105 .elementor-element.elementor-element-c8bd3f7 .elementor-spacer-inner{height:4px;}.elementor-4105 .elementor-element.elementor-element-3f5472a .elementor-spacer-inner{height:40px;}.elementor-4105 .elementor-element.elementor-element-ca971ac .elementor-spacer-inner{height:12px;}.elementor-4105 .elementor-element.elementor-element-652571e{font-size:15px;line-height:1.3em;}.elementor-4105 .elementor-element.elementor-element-7b9eeca .elementor-spacer-inner{height:14px;}}</style>
-<style id="elementor-post-4509">.elementor-4509 .elementor-element.elementor-element-67b4187 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-4509 .elementor-element.elementor-element-1c135e79 .logo_image{max-height:70px;}.elementor-4509 .elementor-element.elementor-element-1c135e79 > .elementor-widget-container{margin:-18px 0px 15px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99{border-style:solid;border-width:1px 0px 0px 0px;border-color:#DDDDDD;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:15px;margin-bottom:0px;padding:40px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4509 .elementor-element.elementor-element-4f42819 .elementor-heading-title{font-family:"Quattrocento Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.1em;letter-spacing:0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:7px;}.elementor-4509 .elementor-element.elementor-element-013bb75 .elementor-spacer-inner{height:5px;}@media(max-width:1024px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:25px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:4px;}}@media(max-width:767px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:0px 0px 0px 0px;}}</style>
+<style id="elementor-post-4509">.elementor-4509 .elementor-element.elementor-element-67b4187 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-4509 .elementor-element.elementor-element-1c135e79 .logo_image{max-height:130px;}.elementor-4509 .elementor-element.elementor-element-1c135e79 > .elementor-widget-container{margin:-18px 0px 15px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99{border-style:solid;border-width:1px 0px 0px 0px;border-color:#DDDDDD;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:15px;margin-bottom:0px;padding:40px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-8d88f99 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4509 .elementor-element.elementor-element-4f42819 .elementor-heading-title{font-family:"Quattrocento Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.1em;letter-spacing:0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:7px;}.elementor-4509 .elementor-element.elementor-element-013bb75 .elementor-spacer-inner{height:5px;}@media(max-width:1024px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:25px 0px 0px 0px;}.elementor-4509 .elementor-element.elementor-element-efdd0a4 .elementor-spacer-inner{height:4px;}}@media(max-width:767px){.elementor-4509 .elementor-element.elementor-element-8d88f99{padding:0px 0px 0px 0px;}}</style>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
@@ -196,8 +196,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
 	    <div class="body_wrap" >
             <div class="page_wrap" >
-                <a class="wine_house_skip_link skip_to_content_link" href="#content_skip_link_anchor" tabindex="1">Skip to content</a>
-				<a class="wine_house_skip_link skip_to_footer_link" href="#footer_skip_link_anchor" tabindex="1">Skip to footer</a>
                 {{-- Navbar for PC starts here --}}
                 <header class="top_panel top_panel_custom top_panel_custom_4614 top_panel_custom_header-main-wine-house	without_bg_image scheme_dark">
                     <div data-elementor-type="cpt_layouts" data-elementor-id="4614" class="elementor elementor-4614" data-elementor-settings="[]">
@@ -243,8 +241,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="sc_layouts_item elementor-element elementor-element-7e72548 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="7e72548" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                                                                         <div class="elementor-widget-container">
-                                                                                            <a href="https://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1334663498" >
-                                                                                                <img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+                                                                                            <a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1334663498" >
+                                                                                                <img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
                                                                                             </a>		
                                                                                         </div>
                                                                                     </div>
@@ -326,7 +324,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                             </div>		
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div class="sc_layouts_item elementor-element elementor-element-e9864e8 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="e9864e8" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
+                                                                                    {{-- <div class="sc_layouts_item elementor-element elementor-element-e9864e8 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="e9864e8" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
                                                                                         <div class="elementor-widget-container">
                                                                                             <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
                                                                                                 <span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
@@ -348,7 +346,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                                 </div>
                                                                                             </div>		
                                                                                         </div>
-                                                                                    </div>
+                                                                                    </div> --}}
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -357,8 +355,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="sc_layouts_item elementor-element elementor-element-7d9d697 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="7d9d697" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                                                                         <div class="elementor-widget-container">
-                                                                                            <a href="https://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_935933468" >
-                                                                                                <img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+                                                                                            <a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_935933468" >
+                                                                                                <img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
                                                                                             </a>		
                                                                                         </div>
                                                                                     </div>
@@ -373,7 +371,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                             <div class="sc_layouts_search">
                                                                                                 <div class="search_modern">
                                                                                                     <span class="search_submit"></span>
-                                                                                                    <div class="search_wrap scheme_light">
+                                                                                                    {{-- <div class="search_wrap scheme_light">
                                                                                                         <div class="search_header_wrap">
                                                                                                             <img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-mini-2x.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark.png 2x" alt="Wine House" width="120" height="51">                <a class="search_close"></a>
                                                                                                         </div>
@@ -385,7 +383,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                                             </form>
                                                                                                         </div>
                                                                                                     </div>
-                                                                                                    <div class="search_overlay scheme_light"></div>
+                                                                                                    <div class="search_overlay scheme_light"></div> --}}
                                                                                                 </div>
                                                                                             </div>		
                                                                                         </div>
@@ -412,8 +410,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="sc_layouts_item elementor-element elementor-element-15dd83f sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="15dd83f" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                                                                         <div class="elementor-widget-container">
-                                                                                            <a href="https://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1003585249" >
-                                                                                                <img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+                                                                                            <a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1003585249" >
+                                                                                                <img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
                                                                                             </a>		
                                                                                         </div>
                                                                                     </div>
@@ -425,7 +423,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="sc_layouts_item elementor-element elementor-element-85671a9 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="85671a9" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
                                                                                         <div class="elementor-widget-container">
-                                                                                            <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
+                                                                                            {{-- <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce" >
                                                                                                 <span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
                                                                                                 <span class="sc_layouts_item_details sc_layouts_cart_details">
                                                                                                     <span class="sc_layouts_item_details_line2 sc_layouts_cart_totals">
@@ -443,13 +441,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                                         <div class="widget_shopping_cart_content"></div>
                                                                                                     </div>		
                                                                                                 </div>
-                                                                                            </div>		
+                                                                                            </div>		 --}}
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="sc_layouts_item elementor-element elementor-element-5454c28 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="5454c28" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
                                                                                         <div class="elementor-widget-container">
                                                                                             <div class="sc_layouts_search">
-                                                                                                <div class="search_modern">
+                                                                                                {{-- <div class="search_modern">
                                                                                                     <span class="search_submit"></span>
                                                                                                     <div class="search_wrap scheme_light">
                                                                                                         <div class="search_header_wrap">
@@ -465,7 +463,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                                         </div>
                                                                                                     </div>
                                                                                                     <div class="search_overlay scheme_light"></div>
-                                                                                                </div>
+                                                                                                </div> --}}
                                                                                             </div>		
                                                                                         </div>
                                                                                     </div>
@@ -577,8 +575,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="menu_mobile menu_mobile_fullscreen scheme_dark">
     <div class="menu_mobile_inner with_widgets">
         <div class="menu_mobile_header_wrap">
-            <a class="sc_layouts_logo" href="https://wine.themerex.net/">
-                <img src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x-300x127.png 2x" alt="Wine House" width="165" height="70">	
+            <a class="sc_layouts_logo" href="{{route('index')}}">
+                <img src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic Of Memories" width="165" height="70">	
             </a>
             <a class="menu_mobile_close menu_button_close" tabindex="0">
                 <span class="menu_button_close_text">Close</span>
@@ -589,25 +587,25 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <div class="menu_mobile_content_wrap_inner">
                 <nav class="menu_mobile_nav_area" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
                     <ul id="menu_mobile_1960960550">
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17780"><a href="#"><span>Home</span></a>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17780"><a href="{{route('index')}}"><span>Home</span></a>
                         </li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162"><a href="#"><span>About Us</span></a>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162"><a href="{{route('about')}}"><span>About Us</span></a>
                         </li>
-                        <li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327"><a href="#"><span>Shop</span></a>
+                        <li class="columns-4 trx_addons_stretch_window_boxed menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17327"><a href="{{route('shop')}}"><span>Shop</span></a>
                         </li>
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17806"><a href="#"><span>FAQs</span></a>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17806"><a href="{{route('faq')}}"><span>FAQs</span></a>
                         </li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465"><a href="http://wine.themerex.net/contact-us/"><span>Contact Us</span></a>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16465"><a href="{{route('contact')}}"><span>Contact Us</span></a>
                         </li>
                     </ul>
                 </nav>
                 <div class="socials_mobile">
-                    <a target="_blank" href="https://business.facebook.com/ThemeRexStudio/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    <a target="_blank" href="https://www.facebook.com/Preetymago/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
                         <span class="social_icon social_icon_facebook-1" style="">
                             <span class="icon-facebook"></span>
                         </span>
                     </a>
-                    <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    {{-- <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
                         <span class="social_icon social_icon_twitter-new" style="">
                             <span class="icon-twitter-new"></span>
                         </span>
@@ -616,8 +614,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         <span class="social_icon social_icon_dribble-new" style="">
                             <span class="icon-dribble-new"></span>
                         </span>
-                    </a>
-                    <a target="_blank" href="https://www.instagram.com/themerex_net/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
+                    </a> --}}
+                    <a target="_blank" href="https://www.instagram.com/the_magic_of_memories/?hl=en" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons">
                         <span class="social_icon social_icon_instagram" style="">
                             <span class="icon-instagram"></span>
                         </span>
@@ -632,15 +630,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         <div class="textwidget custom-html-widget">
                             <div class="extra_item">
                                 <h6>Have Questions?</h6>
-                                <a href="mailto:info@website.com">info@website.com</a>
+                                <a href="mailto:mgcofmemories@gmail.com">mgcofmemories@gmail.com</a>
                             </div>
                             <div class="extra_item">
-                                <h6>Want to Book a Tour?</h6>
-                                <a href="http://wine.themerex.net/contact-us/">Contact Us</a>
+                                <h6>Want to Know More?</h6>
+                                <a href="{{asset('about')}}">About Us</a>
                             </div>
                             <div class="extra_item">
-                                <h6>Want to Buy Wine?</h6>
-                                <a href="http://wine.themerex.net/shop/">Go to Shop</a>
+                                <h6>Want to Buy Our Products?</h6>
+                                <a href="{{asset('shop')}}">Go to Shop</a>
                             </div>
                         </div>
                     </aside>					
@@ -672,13 +670,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5d8f1c59 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="5d8f1c59" data-element_type="column">
 			                                    <div class="elementor-column-wrap elementor-element-populated">
 							                        <div class="elementor-widget-wrap">
-						                                <div class="elementor-element elementor-element-8068ab0 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="8068ab0" data-element_type="widget" data-widget_type="spacer.default">
+						                                {{-- <div class="elementor-element elementor-element-8068ab0 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer" data-id="8068ab0" data-element_type="widget" data-widget_type="spacer.default">
 				                                            <div class="elementor-widget-container">
 					                                            <div class="elementor-spacer">
 			                                                        <div class="elementor-spacer-inner"></div>
 		                                                        </div>
 				                                            </div>
-				                                        </div>
+				                                        </div> --}}
 				                                        <div class="elementor-element elementor-element-548c370a sc_fly_static elementor-widget elementor-widget-toggle" data-id="548c370a" data-element_type="widget" data-widget_type="toggle.default">
 				                                            <div class="elementor-widget-container">
 					                                            <div class="elementor-toggle" role="tablist">
@@ -692,10 +690,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                     <i class="elementor-toggle-icon-opened fas fa-minus"></i>
                                                                                 </span>
 													                        </span>
-												                            <a href="" class="elementor-toggle-title">What is the price for wine tasting?</a>
+												                            <a href="" class="elementor-toggle-title">How to Order ?</a>
 					                                                    </h5>
                                                                         <div id="elementor-tab-content-1411" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1411">
-                                                                            <p>Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                                                                            <p>We take half payment at the time of booking and half before dispatching for silver orders. And full payment for gold if the weight is more than 10 grams. 
+                                                                                If u want ur order in fixed timeline. U have to pay the full amount before hand.</p>
                                                                         </div>
 				                                                    </div>
 							                                        <div class="elementor-toggle-item">
@@ -708,10 +707,32 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                     <i class="elementor-toggle-icon-opened fas fa-minus"></i>
                                                                                 </span>
 													                        </span>
-												                            <a href="" class="elementor-toggle-title">How long does a winery tour last?</a>
+												                            <a href="" class="elementor-toggle-title">How to send inclusions and other important details?</a>
 					                                                    </h5>
 					                                                    <div id="elementor-tab-content-1412" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1412">
-                                                                            <p>Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                                                                            <p>1. We use 2 methods for preservation, if ur supply is less send me 10ml of milk, this method has 500 INR more. And if u have good supply send me 25ml of milk. Preferably hind milk.<br/>
+                                                                                2. Hand express/pump it and put it in the ziplock bag and put the zip lock bag in another zip lock bag and secure it with the cello tape.<br/>
+                                                                                3. Remember to squeeze out all the air from the ziplock bag to prevent moulding.<br/>
+                                                                                4. If u don’t have ziplock. U can even use small containers or anything available at ur place. But make sure to secure it with cello tape, to avoid leakage in transit. <b>DONT USE PAPER AROUND THE MILK AS IT SOAKS THE MILK IF LEAKED.</b> <br/> 
+                                                                                5. If you are sending another inclusion like hair or umbilical cord stump, put it in the other zip lock bag in a same way. <br/>
+                                                                                6. For umbilical cord. Plz cut the small piece specially the black part  and send. I don’t need the whole cord. This is because in case the parcel gets lost/damage in transit. U have more cord as a back up.<br/> 
+                                                                                7. For hair please shampoo them and condition them before u send. I need atleast 1 to 1 & half inch length hair. You can send as many as you like. We will use and return you the rest along with the parcel. <br/>
+                                                                                8. Make sure the hair ur sending are softest and thinnest from the hair u send.  <br/>
+                                                                                9. Put it in the courier envelope which is plastic from the inside and paper on the outside. <br/> 
+                                                                                10. Write the given order number on the package. <br/>
+                                                                                11. Please follow the instructions very carefully and exactly same in order to avoid the leakage of the milk. Ask for the video if ur unsure about how to pack it.If ur ordering ring. Pls send the size by clicking the picture of ur ring with scale on its DIAMETER. Plz send the size picture to avoid delays.11. Please follow the instructions very carefully and exactly same in order to avoid the leakage of the milk. Ask for the video if ur unsure about how to pack it. 
+                                                                                    If ur ordering ring. Pls send the size by clicking the picture of ur ring with scale on its DIAMETER. Plz send the size picture to avoid delays.<br/> 
+                                                                                12. It will take anywhere around 2 to 3 months sometimes more depending upon the complexity of design from the day i receive ur inclusion(Plz note). These are custom designs and they need time. So please have patience with us. It will b worth it.<br/>
+                                                                                13. After u book we will send u a questionnaire which u have to fill. All the details mentioned in that questionnaire will b considered ur final order. To avoid confusions. <br/>
+                                                                                14. If by any reason you are failed to send the inclusion within 6 months of placing the order. Order will be automatically gets cancelled. And the advance will not be refunded. As we would have spent it on making your metal part. <br/>
+                                                                                15. If you are ordering in gold. Plz note that we have given the amount for the minimum weight we can use in that piece. U can opt for more weight to make it more solid and sturdy. This is important. <br/>
+                                                                                16. Name engraving is chargeable, 300 per word for silver jewellery and complimentary for gold. Sentence messages however are chargeable more in both silver and gold.
+                                                                                    If ur order is of gold. Weight mentioned by us is tentative. More or less(500mg plus minus can happen).<br/>
+                                                                                17. Please mention everything discussed as final order in the form. Anything mentioned outside of form is void. We dont read whole chats. We always refers to form.<br/> 
+                                                                                18. PLZ WRITE IN THE PAPER OR ON THE ENVELOPE, WHAT ALL INCLUSIONS UR SENDING, SOMETIMES WHILE OPENING THINGS GET LOST IN THE PAPER, THIS IS VERY VERY IMPORTANT & WRITE UR ORDER NUMBER OUTSIDE OF THE PARCEL TOO. AND WRITE UR OWN NAME AND NOT UR HUSBAND NAME ON THE PARCEL. <br/>
+                                                                                19. I work in Delhi and punjab. Plz ask the address a day before u send ur inclusions. To avoid sending it to wrong address. <br/>
+                                                                                20. If ur ordering blood jewellery. Make sure the blood is from the time person is alive. U have to dry the blood on tissue paper and thn send. Don't send wet blood.<br/>
+                                                                            </p>
                                                                         </div>
 				                                                    </div>
 							                                        <div class="elementor-toggle-item">
@@ -724,10 +745,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                     <i class="elementor-toggle-icon-opened fas fa-minus"></i>
                                                                                 </span>
 													                        </span>
-												                            <a href="" class="elementor-toggle-title">Do you have a restaurant?</a>
+												                            <a href="" class="elementor-toggle-title">How to do ring size?</a>
 					                                                    </h5>
 					                                                    <div id="elementor-tab-content-1413" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1413">
-                                                                            <p>Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                                                                            <p><a href="https://www.instagram.com/reel/CTEgdC5JseH/?igshid=YmMyMTA2M2Y=">Click here to see how to measure your ring size</a></p>
                                                                         </div>
                                                                     </div>
 							                                        <div class="elementor-toggle-item">
@@ -740,10 +761,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                     <i class="elementor-toggle-icon-opened fas fa-minus"></i>
                                                                                 </span>
 													                        </span>
-												                            <a href="" class="elementor-toggle-title">What is the price range of your wines?</a>
+												                            <a href="" class="elementor-toggle-title">How to pack inclusions to send?</a>
 					                                                    </h5>
 					                                                    <div id="elementor-tab-content-1414" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1414">
-                                                                            <p>Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                                                                            <p>    <a href="https://www.instagram.com/reel/CTRvXlSHMe1/?igshid=YmMyMTA2M2Y%3D">Click here to see how to pack inclusions to send</a></p>
                                                                         </div>
 				                                                    </div>
 								                                </div>
@@ -1023,77 +1044,111 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
-		<div  id="popup-1"		class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_85559935"
-		data-delay="0"
-		 data-panel-position="right" data-panel-effect="slide" data-panel-class="trx_addons_inline_85559935" ><div class="sc_layouts_panel_inner">		<div data-elementor-type="cpt_layouts" data-elementor-id="4509" class="elementor elementor-4509" data-elementor-settings="[]">
-						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-67b4187 elementor-section-height-full elementor-section-items-stretch elementor-section-content-space-between scheme_default elementor-section-boxed elementor-section-height-default sc_fly_static" data-id="67b4187" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56dc68b6 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="56dc68b6" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1c135e79 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="1c135e79" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
-				<div class="elementor-widget-container">
-			<a href="https://wine.themerex.net/"
-		class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1772804481" ><img class="logo_image"
-					src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark.png"
-											srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-dark-2x.png 2x"
-											alt="Wine House" width="165" height="70"></a>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6655a08c sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="6655a08c" data-element_type="widget" data-widget_type="trx_sc_socials.default">
-				<div class="elementor-widget-container">
-			<div  
-		class="sc_socials sc_socials_icons_names sc_align_left" ><div class="socials_wrap sc_item_content"><a target="_blank" href="https://business.facebook.com/ThemeRexStudio/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_facebook-1" style=""><span class="icon-facebook-1"></span></span><span class="social_name social_facebook-1">Facebook</span></a><a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_twitter-new" style=""><span class="icon-twitter-new"></span></span><span class="social_name social_twitter-new">Twitter</span></a><a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_dribble-new" style=""><span class="icon-dribble-new"></span></span><span class="social_name social_dribble-new">Dribble</span></a><a target="_blank" href="https://www.instagram.com/themerex_net/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names"><span class="social_icon social_icon_instagram" style=""><span class="icon-instagram"></span></span><span class="social_name social_instagram">Instagram</span></a></div></div>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8d88f99 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="8d88f99" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0671e65 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="0671e65" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-4f42819 sc_fly_static elementor-widget elementor-widget-heading" data-id="4f42819" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h5 class="elementor-heading-title elementor-size-default"><a href="tel:1%20840%20841%2025%2069">+1 840 841 25 69</a></h5>		</div>
-				</div>
-				<div class="elementor-element elementor-element-efdd0a4 sc_fly_static elementor-widget elementor-widget-spacer" data-id="efdd0a4" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-63068ae sc_fly_static elementor-widget elementor-widget-heading" data-id="63068ae" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<span class="elementor-heading-title elementor-size-default"><a href="mailto:info@email.com">info@email.com</a></span>		</div>
-				</div>
-				<div class="elementor-element elementor-element-013bb75 sc_fly_static elementor-widget elementor-widget-spacer" data-id="013bb75" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-						</div>
-					</div>
-		<a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a></div></div><div  id="go-video2"		class="sc_layouts sc_layouts_popup"
-		data-delay="0"
-		 ><p><iframe loading="lazy" title="CROOKED RIVER WINES PROMO VIDEO" width="1290" height="726" data-src="https://www.youtube.com/embed/j15Q-kk3p9A?feature=oembed&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-</div>
+		<div  id="popup-1"class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_85559935" data-delay="0" data-panel-position="right" data-panel-effect="slide" data-panel-class="trx_addons_inline_85559935" >
+        <div class="sc_layouts_panel_inner">
+           <div data-elementor-type="cpt_layouts" data-elementor-id="4509" class="elementor elementor-4509" data-elementor-settings="[]">
+              <div class="elementor-inner">
+                 <div class="elementor-section-wrap">
+                    <section class="elementor-section elementor-top-section elementor-element elementor-element-67b4187 elementor-section-height-full elementor-section-items-stretch elementor-section-content-space-between scheme_default elementor-section-boxed elementor-section-height-default sc_fly_static" data-id="67b4187" data-element_type="section">
+                       <div class="elementor-container elementor-column-gap-extended">
+                          <div class="elementor-row">
+                             <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56dc68b6 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="56dc68b6" data-element_type="column">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                   <div class="elementor-widget-wrap">
+                                      <div class="elementor-element elementor-element-1c135e79 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="1c135e79" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
+                                         <div class="elementor-widget-container">
+                                            <a href="{{route('index')}}"
+                                               class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1772804481" ><img class="logo_image"
+                                               src="{{asset('images/mom-logo-text-black.png')}}"
+                                               srcset="{{asset('images/mom-logo-text-black.png')}}"
+                                               alt="Wine House" width="165" height="70"></a>		
+                                         </div>
+                                      </div>
+                                      <div class="elementor-element elementor-element-6655a08c sc_fly_static elementor-widget elementor-widget-trx_sc_socials" data-id="6655a08c" data-element_type="widget" data-widget_type="trx_sc_socials.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="sc_socials sc_socials_icons_names sc_align_left" >
+                                                    <div class="socials_wrap sc_item_content">
+                                                        <a target="_blank" href="https://www.facebook.com/Preetymago/" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                            <span class="social_icon social_icon_facebook-1" style="">
+                                                                <span class="icon-facebook"></span>
+                                                            </span>
+                                                            <span class="social_name social_facebook-1\">Facebook</span>
+                                                        </a>
+                                                        {{-- <a target="_blank" href="https://twitter.com/ThemerexThemes" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                            <span class="social_icon social_icon_twitter-new" style="">
+                                                                <span class="icon-twitter-new"></span>
+                                                            </span>
+                                                            <span class="social_name social_twitter-new">Twitter</span>
+                                                        </a>
+                                                        <a target="_blank" href="https://dribbble.com/ThemeREX" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                            <span class="social_icon social_icon_dribble-new" style="">
+                                                                <span class="icon-dribble-new"></span>
+                                                            </span>
+                                                            <span class="social_name social_dribble-new">Dribble</span>
+                                                        </a> --}}
+                                                        <a target="_blank" href="https://www.instagram.com/the_magic_of_memories/?hl=en" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons_names">
+                                                            <span class="social_icon social_icon_instagram" style="">
+                                                                <span class="icon-instagram"></span>
+                                                            </span>
+                                                            <span class="social_name social_instagram">Instagram</span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-8d88f99 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="8d88f99" data-element_type="section">
+                                            <div class="elementor-container elementor-column-gap-no">
+                                            <div class="elementor-row">
+                                               <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0671e65 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="0671e65" data-element_type="column">
+                                                  <div class="elementor-column-wrap elementor-element-populated">
+                                                     <div class="elementor-widget-wrap">
+                                                        <div class="elementor-element elementor-element-4f42819 sc_fly_static elementor-widget elementor-widget-heading" data-id="4f42819" data-element_type="widget" data-widget_type="heading.default">
+                                                           <div class="elementor-widget-container">
+                                                              <h5 class="elementor-heading-title elementor-size-default"><a href="tel:+91%2092895%2083868">+91 92895 83868</a></h5>
+                                                           </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-efdd0a4 sc_fly_static elementor-widget elementor-widget-spacer" data-id="efdd0a4" data-element_type="widget" data-widget_type="spacer.default">
+                                                           <div class="elementor-widget-container">
+                                                              <div class="elementor-spacer">
+                                                                 <div class="elementor-spacer-inner"></div>
+                                                              </div>
+                                                           </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-63068ae sc_fly_static elementor-widget elementor-widget-heading" data-id="63068ae" data-element_type="widget" data-widget_type="heading.default">
+                                                           <div class="elementor-widget-container">
+                                                              <span class="elementor-heading-title elementor-size-default"><a href="mailto:mgcofmemories@gmail.com">mgcofmemories@gmail.com</a></span>		
+                                                           </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-013bb75 sc_fly_static elementor-widget elementor-widget-spacer" data-id="013bb75" data-element_type="widget" data-widget_type="spacer.default">
+                                                           <div class="elementor-widget-container">
+                                                              <div class="elementor-spacer">
+                                                                 <div class="elementor-spacer-inner"></div>
+                                                              </div>
+                                                           </div>
+                                                        </div>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+                                      </section>
+                                   </div>
+                                </div>
+                             </div>
+                          </div>
+                       </div>
+                    </section>
+                 </div>
+              </div>
+           </div>
+           <a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a>
+        </div>
+     </div>
+     <div id="go-video2" class="sc_layouts sc_layouts_popup"data-delay="0">
+        <p>
+            <iframe loading="lazy" title="CROOKED RIVER WINES PROMO VIDEO" width="1290" height="726" data-src="https://www.instagram.com/reel/CTRvXlSHMe1/?igshid=YmMyMTA2M2Y%3D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </p>
+     </div>
 
 {{-- <a href="#" class="trx_addons_scroll_to_top icon-up trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a>			 --}}
 <a href="#" class="trx_addons_scroll_to_top icon-up scroll_to_top_style_default inited show" title="Scroll to top"></a>
