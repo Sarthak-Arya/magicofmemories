@@ -493,7 +493,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <a class="sc_layouts_logo" href="{{route('index')}}">
 				<img src="{{asset('images/mom-logo-text-white-300x140.png')}}" srcset="{{asset('images/mom-logo-text-white-300x140.png')}} 2x" alt="Wine House" width="165" height="70">	
 			</a>
-			<a class="menu_mobile_close menu_button_close" tabindex="0"><span class="menu_button_close_text">Close</span><span class="menu_button_close_icon"></span></a>
+			<a class="menu_mobile_close menu_button_close" tabindex="0"><span class="menu_button_close_icon">Close</span></a>
         </div>
         <div class="menu_mobile_content_wrap content_wrap">
             <div class="menu_mobile_content_wrap_inner">
@@ -592,8 +592,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<rs-module-wrap id="rev_slider_5_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
 				<rs-module id="rev_slider_5_1" style="" data-version="6.5.11">
 					<rs-slides>
-						<rs-slide style="position: absolute;" data-key="rs-13" data-title="Slide" data-thumb="{{ asset('images/Slides-3-1.jpg')}}" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
-							<img decoding="async" src="//wine.themerex.net/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="Slides-3-1" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('images/Slides-3-1.jpg')}}" data-parallax="off" data-no-retina>
+						<rs-slide style="position: absolute;" data-key="rs-13" data-title="Slide" data-thumb="{{ asset('images/home-1.jpg')}}" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
+							<img decoding="async" src="{{ asset('images/home-1.jpg')}}" title="Slides-3-1" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('images/home-1.jpg')}}" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzm_13" class="rev_row_zone_middle" style="z-index: 13;"><!--
 
 								--><rs-row
@@ -701,8 +701,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								--></rs-row><!--
 							--></rs-zone><!--
 -->						</rs-slide>
-						<rs-slide style="position: absolute;" data-key="rs-14" data-title="Slide" data-thumb="../images/Slides-3-2.jpg" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
-							<img decoding="async" src="//wine.themerex.net/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="Slides-3-2" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="../images/Slides-3-2.jpg" data-parallax="off" data-no-retina>
+						<rs-slide style="position: absolute;" data-key="rs-14" data-title="Slide" data-thumb="{{ asset('images/home-2.jpg')}}" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
+							<img decoding="async" src="{{ asset('images/home-2.jpg')}}" title="Slides-3-2" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('images/home-2.jpg')}}" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzm_14" class="rev_row_zone_middle" style="z-index: 13;"><!--
 
 								--><rs-row
@@ -810,8 +810,8 @@ worth holding
 								--></rs-row><!--
 							--></rs-zone><!--
 -->						</rs-slide>
-						<rs-slide style="position: absolute;" data-key="rs-15" data-title="Slide" data-thumb="{{ asset('images/Slides-3-3.jpg')}}" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
-							<img decoding="async" src="//wine.themerex.net/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="Slides-3-3" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('images/Slides-3-3.jpg')}}" data-parallax="off" data-no-retina>
+						<rs-slide style="position: absolute;" data-key="rs-15" data-title="Slide" data-thumb="{{ asset('images/home-3.jpg')}}" data-anim="o:outin;" data-in="o:0;sx:0.85;sy:0.85;" data-out="x:(100%);">
+							<img decoding="async" src="{{ asset('images/home-3.jpg')}}" title="Slides-3-3" width="2560" height="1280" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('images/home-3.jpg')}}" data-parallax="off" data-no-retina>
 <!--						--><rs-zone id="rrzm_15" class="rev_row_zone_middle" style="z-index: 13;"><!--
 
 								--><rs-row
@@ -1286,7 +1286,7 @@ Loved ones
 																		<a href="#">{{$product['name']}}</a>
 																	</h2>				
 																</div>
-																<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>{{$product['price']}}</bdi></span></span>
+																{{-- <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>{{$product['price']}}</bdi></span></span> --}}
 																{{-- <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
 																	<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
 																</div> --}}
