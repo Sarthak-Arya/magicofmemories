@@ -797,7 +797,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <a href="https://wine.themerex.net/product-tag/dry/" rel="tag">Dry</a>, <a href="https://wine.themerex.net/product-tag/sale/" rel="tag">Sale</a>, <a href="https://wine.themerex.net/product-tag/special/" rel="tag">Special</a>
                 </div> --}}
                 <h2 class="woocommerce-loop-product__title">
-                <a href="https://wine.themerex.net/product/rose-sweet/">{{$product['name']}}</a>
+                <a href="{{route('product', $product['id'])}}">{{$product['name']}}</a>
                 </h2>
             </div>
             <div class="price_wrap">
