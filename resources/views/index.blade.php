@@ -17,17 +17,9 @@
 		<meta property="og:title" content="Home Magic of Memories" />
 		<meta property="og:description" content="Try our exclusive wine varieties.New Luxury Wine from Italy 
 		About Us 
-		Book a tour now and get a discount. 
-		Winery Tours and Special Tasting 
-										 
-		About Us 
-		Enjoy a delicious meal at our restaurant. 
-		Enjoy Our Exclusive
-		Dishes &amp; Drinks 
-										 
-		About Us 
-		craft wineDefined by the Local Traditions, Crafted by the" />  
-			
+		Magic of Memories provide you with high-quality breastmilk Jewellry, Custom Made By Hand Proud of your breastfeeding journey? Want to commemorate a treasured moment? Looking for the perfect gift for her? Let me preserve your breast milk, a first lock of hair, umbilical cord stump, or placenta, and turn it into a precious and unique keepsake. " />  
+		<meta name="keywords" content="magic of memories, the magic of memories, memories, keepsakes, keepsakes jewellery">
+		<meta name="author", content="Mesark Tech">
 		<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=FtbXioNkQJp9DhYInCRx8tEr3vR84QvldcIzH304VkClj1xn5TnXdjeOEOFn3Ci3MjV6bWE31bnTKdd4ppe-Tg" charset="UTF-8"></script><script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wine.themerex.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
 /*! This file is auto-generated */
