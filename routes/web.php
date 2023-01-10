@@ -44,7 +44,7 @@ Route::get('/', function () {
             'description'=> 'Perfect for your',
             'imageUrl'=> 'images/products/product-pendant-2.jpg',
             'price' => 79.00,
-            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg'],
             'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
             'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
             'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']

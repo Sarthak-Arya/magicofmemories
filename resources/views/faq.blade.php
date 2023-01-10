@@ -319,7 +319,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                         <div class="elementor-widget-container">
                                                                                             <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button">
                                                                                                 <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                                                                                    <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                                                                                    <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                                                                                 </a>
                                                                                             </div>		
                                                                                         </div>
@@ -471,7 +471,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                                         <div class="elementor-widget-container">
                                                                                             <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
                                                                                                 <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                                                                                    <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                                                                                    <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                                                                                 </a>
                                                                                             </div>		
                                                                                         </div>
@@ -579,8 +579,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <img src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic Of Memories" width="165" height="70">	
             </a>
             <a class="menu_mobile_close menu_button_close" tabindex="0">
-                <span class="menu_button_close_text">Close</span>
-                <span class="menu_button_close_icon"></span>
+                {{-- <span class="menu_button_close_text">Close</span> --}}
+                <span class="menu_button_close_icon">Close</span>
             </a>
         </div>
         <div class="menu_mobile_content_wrap content_wrap">
@@ -1141,7 +1141,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                  </div>
               </div>
            </div>
-           <a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a>
+           <a href="#" class="sc_layouts_panel_close trx_addons_button_close">
+            <span class="sc_layouts_panel_close_icon ">Close</span></a>
         </div>
      </div>
      <div id="go-video2" class="sc_layouts sc_layouts_popup"data-delay="0">

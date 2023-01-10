@@ -1254,7 +1254,7 @@ Loved ones
 												<li class="product type-product post-{{$product['id']}} status-publish first instock product_cat-white-wine product_tag-white-wine has-post-thumbnail shipping-taxable purchasable product-type-simple product_style_info">
 													<div class="post_item post_layout_thumbs">
 														<div class="post_featured hover_shop">
-															<a href="">
+															<a href="{{route('product', $product['id'])}}">
 															<img width="480" height="480" src="{{asset($product['imageUrl'])}}" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="{{asset($product['imageUrl'])}} 480w, {{asset($product['imageUrl'])}} 300w, {{asset($product['imageUrl'])}} 1024w, {{asset($product['imageUrl'])}} 150w, {{asset($product['imageUrl'])}} 768w, {{asset($product['imageUrl'])}} 370w, {{asset($product['imageUrl'])}} 120w, {{asset($product['imageUrl'])}} 840w, {{asset($product['imageUrl'])}} 410w, {{asset($product['imageUrl'])}} 600w, {{asset($product['imageUrl'])}} 1200w" sizes="(max-width: 600px) 100vw, 480px" />				
 															</a>
 															<div class="mask"></div>
@@ -1283,7 +1283,7 @@ Loved ones
 																		<a href="" rel="tag">{{$product['type']}}</a>
 																	</div> --}}
 																	<h2 class="woocommerce-loop-product__title">
-																		<a href="#">{{$product['name']}}</a>
+																		<a href="{{route('product', $product['id'])}}">{{$product['name']}}</a>
 																	</h2>				
 																</div>
 																{{-- <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>{{$product['price']}}</bdi></span></span> --}}

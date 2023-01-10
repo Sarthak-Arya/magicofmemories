@@ -369,7 +369,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 												<div class="elementor-widget-container">
 													<div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button">
 													<a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
 													</a>
 													</div>
 												</div>
@@ -560,7 +560,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 												<div class="elementor-widget-container">
 													<div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
 													<a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+														<span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
 													</a>
 													</div>
 												</div>
@@ -1465,7 +1465,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
-		<div  id="popup-1"		class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_1209208032"
+		{{-- <div  id="popup-1"		class="sc_layouts sc_layouts_panel sc_layouts_4509 sc_layouts_panel_right sc_layouts_effect_slide trx_addons_inline_1209208032"
 		data-delay="0"
 		 data-panel-position="right" data-panel-effect="slide" data-panel-class="trx_addons_inline_1209208032" ><div class="sc_layouts_panel_inner">		<div data-elementor-type="cpt_layouts" data-elementor-id="4509" class="elementor elementor-4509" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -1532,7 +1532,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						</div>
 						</div>
 					</div>
-		<a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a></div></div><a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a>		<script>
+		<a href="#" class="sc_layouts_panel_close trx_addons_button_close"><span class="sc_layouts_panel_close_icon trx_addons_button_close_icon"></span></a></div></div><a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a>		<script> --}}
 		( function ( body ) {
 			'use strict';
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );

@@ -372,7 +372,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                 <div class="elementor-widget-container">
                                     <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button">
                                     <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                        <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                        <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                     </a>
                                     </div>
                                 </div>
@@ -563,7 +563,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                 <div class="elementor-widget-container">
                                     <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
                                     <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                        <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                        <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                     </a>
                                     </div>
                                 </div>
@@ -675,8 +675,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <img src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic Of Memories" width="165" height="70">	
             </a>
             <a class="menu_mobile_close menu_button_close" tabindex="0">
-                <span class="menu_button_close_text">Close</span>
-                <span class="menu_button_close_icon"></span>
+                {{-- <span class="menu_button_close_text">Close</span> --}}
+                <span class="menu_button_close_icon">Close</span>
             </a>
         </div>
         <div class="menu_mobile_content_wrap content_wrap">
@@ -800,14 +800,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                 <div class="elementor-element elementor-element-8278c1d sc_fly_static elementor-widget elementor-widget-trx_sc_icons" data-id="8278c1d" data-element_type="widget" data-widget_type="trx_sc_icons.default">
                                                   <div class="elementor-widget-container">
                                                     <div class="sc_icons sc_icons_simple sc_icons_size_small sc_align_none">
-                                                      <div class="sc_icons_item with_more">
+                                                      {{-- <div class="sc_icons_item with_more">
                                                         <div class="sc_icons_item_details">
                                                           <div class="sc_icons_item_description">
                                                             <span>785 15h Street, Office 478</span>
                                                             <span>Berlin, De 81566</span>
                                                           </div>
                                                         </div>
-                                                      </div>
+                                                      </div> --}}
                                                       <div class="sc_icons_item with_more">
                                                         <div class="sc_icons_item_details">
                                                           <div class="sc_icons_item_description">
@@ -981,11 +981,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                   <div class="elementor-widget-wrap">
                                     <div class="elementor-element elementor-element-0a4c225 sc_fly_static elementor-widget elementor-widget-trx_sc_googlemap" data-id="0a4c225" data-element_type="widget" data-widget_type="trx_sc_googlemap.default">
                                       <div class="elementor-widget-container">
-                                        <div id="sc_googlemap_710704658_wrap" class="sc_googlemap_wrap">
+                                        {{-- <div id="sc_googlemap_710704658_wrap" class="sc_googlemap_wrap">
                                           <div id="sc_googlemap_710704658" class="sc_item_content sc_map sc_googlemap sc_googlemap_default trx_addons_inline_88287469" data-zoom="12" data-center="" data-style="extra" data-cluster-icon="">
                                             <iframe src="https://maps.google.com/maps?t=m&output=embed&iwloc=near&z=12&q=51.503325%2C-0.119545" aria-label="One"></iframe>
                                           </div>
-                                        </div>
+                                        </div> --}}
                                       </div>
                                     </div>
                                   </div>

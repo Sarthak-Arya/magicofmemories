@@ -374,7 +374,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                     <div class="elementor-widget-container">
                                         <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button">
                                         <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                            <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                            <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                         </a>
                                         </div>
                                     </div>
@@ -505,8 +505,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                 <div class="elementor-widget-wrap">
                                     <div class="sc_layouts_item elementor-element elementor-element-2310aaf sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="2310aaf" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="https://wine.themerex.net/" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1811562282">
-                                        <img class="logo_image" src="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white.png" srcset="//wine.themerex.net/wp-content/uploads/2021/11/extra-logo-white-2x.png 2x" alt="Wine House" width="165" height="70">
+                                        <a href="{{route('index')}}" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1811562282">
+                                        <img class="logo_image" src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic Of Memories" width="165" height="70">
                                         </a>
                                     </div>
                                     </div>
@@ -565,7 +565,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                     <div class="elementor-widget-container">
                                         <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
                                         <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
-                                            <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu"></span>
+                                            <span class="sc_layouts_item_icon sc_layouts_iconed_text_icon trx_addons_icon-menu">Menu</span>
                                         </a>
                                         </div>
                                     </div>
@@ -670,7 +670,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <div class="menu_mobile_inner with_widgets">
         <div class="menu_mobile_header_wrap">
             <a class="sc_layouts_logo" href="{{route('index')}}">
-                <img src="{{asset('images/mom-text-logo-white.png')}}" srcset="{{asset('images/mom-text-logo-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
+                <img src="{{asset('images/mom-logo-text-white.png')}}" srcset="{{asset('images/mom-logo-text-white.png')}} 2x" alt="Magic of Memories" width="165" height="70">
             </a>
             <a class="menu_mobile_close menu_button_close" tabindex="0">
             
@@ -687,7 +687,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         </a>
                     </li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17162">
-                        <a href{{route('about')}}">
+                        <a href="{{route('about')}}">
                             <span>About Us</span>
                         </a>
                     </li>
