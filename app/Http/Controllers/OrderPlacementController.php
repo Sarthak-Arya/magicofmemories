@@ -33,35 +33,38 @@ class OrderPlacementController extends Controller
         $metal = Request::createFromGlobals()->get('metal');;
         $breastMilk = Request::createFromGlobals()->get('breastMilk');
         $inclusion = Request::createFromGlobals()->get('inclusions');
-        $message = sprintf('billing_first_name : %s
-        billing_last_name: %s
-        billing_company: %s
-        billing_country: %s
-        billing_address_1: %s
-        billing_address_2: %s
-        billing_city: %s
-        billing_state: %s
-        billing_postcode: %s
-        billing_phone: %s
-        billing_email: %s
-        order_comments: %s
-        metal: %s
-        breastMilk: %s
-        inclusion: %s',$billing_first_name,
-        $billing_last_name,
-        $billing_company,
-        $billing_country,
+        $product = Request::createFromGlobals()->get('product');
+        $message = sprintf('Hello Magic of Memories,
+I am %s and would like to place an order for a %s. 
+The following are my details and specification:
+        metal: 	%s
+        breast milk inclusion: %s 
+        other inclusion: %s
+        design description : %s
+        
+        Here are my billing details 
+        Address 1: %s
+        Address 2: %s
+        City: %s 
+        State: %s
+        PostCode : %s
+        Country : %s
+        Phone: %s
+        Email: %s',$billing_first_name,
+        $product,
+        $metal,
+        $breastMilk,
+        $inclusion,
+        $order_comments,
         $billing_address_1,
         $billing_address_2,
         $billing_city,
         $billing_state,
         $billing_postcode,
+        $billing_country,
         $billing_phone,
-        $billing_email,
-        $order_comments,
-        $metal,
-        $breastMilk,
-        $inclusion);
+        $billing_email
+        );
         $url = urlencode($message);
         $send = sprintf('https://api.whatsapp.com/send/?phone=919289583868&text=%s' , $url);
         return Redirect::to($send);

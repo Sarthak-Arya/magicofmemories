@@ -3088,6 +3088,8 @@ body:not(.elementor-editor-active):not(.no-curtains) [class*="trx_addons_image_e
 .sc_button_hover_style_hover.sc_button_hover_slide_left {
 	background: linear-gradient(to right, var(--theme-color-text_hover) 50%, var(--theme-color-text_link) 50%) no-repeat scroll right bottom/210% 100% var(--theme-color-text_link) !important
 }
+/* Remove till here */
+
 
 .sc_button_hover_style_hover.sc_button_hover_slide_right {
 	background: linear-gradient(to left, var(--theme-color-text_hover) 50%, var(--theme-color-text_link) 50%) no-repeat scroll left bottom/210% 100% var(--theme-color-text_link) !important
@@ -3133,6 +3135,7 @@ body:not(.elementor-editor-active):not(.no-curtains) [class*="trx_addons_image_e
 	background: linear-gradient(to top, var(--theme-color-alter_link) 50%, var(--theme-color-alter_bd_color) 50%) no-repeat scroll right top/100% 210% var(--theme-color-alter_bd_color) !important
 }
 
+/* From here */
 .sc_button_hover_style_extra.sc_button_hover_slide_left {
 	background: linear-gradient(to right, var(--theme-color-extra_link) 50%, var(--theme-color-extra_bg_color) 50%) no-repeat scroll right bottom/210% 100% var(--theme-color-extra_bg_color) !important
 }
@@ -5719,6 +5722,7 @@ body.body_style_boxed .sc_layouts_row_fixed_on {
 .slider_container .slide_info.slide_info_large .slide_title a:hover {
 	color: var(--theme-color-text_dark)
 }
+/* Till Here */
 
 .slider_container.slider_multi .slide_cats a:hover,
 .slider_container.slider_multi .slide_title a:hover,
@@ -5735,6 +5739,7 @@ body.body_style_boxed .sc_layouts_row_fixed_on {
 .slider_titles_outside_wrap .slide_title+.slide_subtitle {
 	margin-top: 6px
 }
+
 
 .slider_titles_outside_wrap .slide_title a {
 	color: var(--theme-color-text_dark)
@@ -5967,7 +5972,7 @@ body.body_style_boxed .sc_layouts_row_fixed_on {
 .slider_outer_wrap .sc_slider_controller .slider-slide .sc_slider_controller_item_info_cats a {
 	color: var(--theme-color-alter_text)
 }
-
+/* From Here */
 .slider_outer_wrap .sc_slider_controller .slider-slide .sc_slider_controller_item_info_cats a:hover {
 	color: var(--theme-color-alter_text)
 }
@@ -6848,7 +6853,7 @@ body.expand_content .sc_recent_news_style_news-announce .post_size_full,
 .sc_layouts_submenu .sc_recent_news_style_news-announce .post_size_full {
 	height: 656px
 }
-
+/* From Here */
 body.expand_content .sc_recent_news_style_news-announce .post_size_big,
 .sc_layouts_submenu .sc_recent_news_style_news-announce .post_size_big {
 	height: 328px
@@ -7148,6 +7153,7 @@ body.expand_content .sc_recent_news_style_news-announce .post_size_small,
 	line-height: 2.9em;
 	border-width: 4px
 }
+/* Till here */
 
 .sc_item_subtitle {
 	color: var(--theme-color-text_dark)
@@ -16808,6 +16814,7 @@ span.sc_form_field_title {
 	background-color: var(--theme-color-alter_dark)
 }
 
+
 .sc_services_accent.color_style_dark .sc_services_item_icon {
 	color: var(--theme-color-alter_dark)
 }
@@ -18241,6 +18248,8 @@ span.sc_form_field_title {
 	right: 0;
 	bottom: 0
 }
+
+/* Till Here */
 
 .socials_wrap:not(.socials_type_list) .social_item .social_icon {
 	background-color: var(--theme-color-alter_bg_color)

@@ -65,11 +65,81 @@ Route::get('/', function () {
 })->name('index');;
 
 Route::get('/about', function () {
-    return ('About');
+    $products = [
+        1=>[
+            'id'=> 1,
+            'name'=> 'Ring',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-4.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-1.jpg', 'images/products/product-2.jpg', 'images/products/product-3.jpg', 'images/products/product-5.jpg'],
+            'tags' => ['ring', 'breast milk ring', 'cord ring', 'hair and breast milk ring'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ], 
+2=>[
+            'id'=> 2,
+            'name'=> 'Pendants',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-pendant-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+3=>[
+            'id'=> 3,
+            'name'=> 'Bracelets',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-bracelet-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-bracelet-1.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+]; 
+    return view ('about', ['products'=> $products]);
 })->name('about');
 
 Route::get('/checkout', function () {
-    return view('checkout');
+    $products = [
+        1=>[
+            'id'=> 1,
+            'name'=> 'Ring',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-4.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-1.jpg', 'images/products/product-2.jpg', 'images/products/product-3.jpg', 'images/products/product-5.jpg'],
+            'tags' => ['ring', 'breast milk ring', 'cord ring', 'hair and breast milk ring'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ], 
+2=>[
+            'id'=> 2,
+            'name'=> 'Pendants',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-pendant-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-pendant-1.jpg', 'images/products/product-pendant-3.jpg', 'images/products/product-4.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+3=>[
+            'id'=> 3,
+            'name'=> 'Bracelets',
+            'description'=> 'Perfect for your',
+            'imageUrl'=> 'images/products/product-bracelet-2.jpg',
+            'price' => 79.00,
+            'secondaryImages' => ['images/products/product-bracelet-1.jpg'],
+            'tags' => ['blood pendant', 'breast milk pendant', 'cord pendant', 'hair and breast milk pendant'],
+            'inclusions' => ['Hair', 'Cord', 'Tooth', 'Nail', 'Flower'],
+            'metal' => ['Gold 14 Karat', 'Gold 18 Karat', 'Gold 22 Karat', 'Silver']
+        ],
+];
+    return view('checkout', ['products'=> $products]);
 })->name('checkout');
 
 Route::post('checkout', [OrderPlacementController::class, 'storeCustomerSessionData'])->name('checkout');
