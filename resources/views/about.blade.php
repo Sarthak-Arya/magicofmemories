@@ -1103,7 +1103,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								</div>
 					</div>
 		</section>
-{{-- <section class="elementor-section elementor-top-section elementor-element elementor-element-78f0bec elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="78f0bec" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"> --}}
+{{-- <section class="elementor-section elementor-top-section elementor-element elementor-element-78f0bec elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="78f0bec" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-extended">
         <div class="elementor-row">
             <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-782fcde sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="782fcde" data-element_type="column">
@@ -1185,7 +1185,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             </div>
         </div>
     </div>
-        </section>
+        </section> --}}
 						</div>
 						</div>
 					</div>
