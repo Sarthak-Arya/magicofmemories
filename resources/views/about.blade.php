@@ -12,21 +12,12 @@
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="Wine House &raquo; Feed" href="https://wine.themerex.net/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Wine House &raquo; Comments Feed" href="https://wine.themerex.net/comments/feed/" />
-<link rel="alternate" type="text/calendar" title="Wine House &raquo; iCal Feed" href="https://wine.themerex.net/events/?ical=1" />
+<link rel="alternate" type="text/calendar" title="Magic of Memories | about us &raquo; iCal Feed" href="https://wine.themerex.net/events/?ical=1" />
 			<meta property="og:type" content="article" />
-			<meta property="og:url" content="https://wine.themerex.net/about-us/" />
+			<meta property="og:url" content="" />
 			<meta property="og:title" content="About Us" />
 			<meta property="og:description" content="														
-																										
-																										
-			our top productTaste the Wines  of Premium Quality		
-		We appreciate your trust greatly. Our clients choose us and our products because they know we are the best.		
-		Mon-Fri: 9 AM – 22 PMSaturday: 9 AM – 20 PM		
-			Our Wines		
-			WHO WE AREWe are a New Organic Winery Preserving Traditions		
-							
-									
-						Amazing Taste
+            We all have special moments in our lives that pass by so quickly. Why not take a piece of that moment and have it preserved into jewelry? I can do that for you! Send me your breastmilk, special occasion flowers, childhood home soil, etc. The possibilities are endless											
 		      " />  
 			<script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wine.themerex.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
